@@ -1,0 +1,2938 @@
+[
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 1,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 1,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 1,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 1,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 1,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 1,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 1,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 1,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 1,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 1,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 1,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 1,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 1,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 1,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 1,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 1,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 31
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 2,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 2,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 2,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 2,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 2,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 2,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 2,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 2,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 2,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 2,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 2,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 2,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 2,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 2,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 2,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 2,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 3,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 3,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 3,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 3,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 3,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 3,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 3,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 3,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 3,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 3,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 3,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 3,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 3,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 3,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 3,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 3,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 31
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 4,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 4,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 4,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 4,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 4,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 4,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 4,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 4,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 4,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 4,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 4,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 4,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 4,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 4,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 4,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 4,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 5,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 5,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 5,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 5,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 5,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 5,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 5,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 5,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 5,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 5,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 5,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 5,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 5,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 5,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 5,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 5,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 31
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 6,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 6,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 6,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 6,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 6,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 6,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 6,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 6,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 6,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 6,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 6,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 6,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 6,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 6,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 6,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 6,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 7,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 7,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 7,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 7,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 7,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 7,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 7,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 7,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 7,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 7,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 7,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 7,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 7,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 7,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 7,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 7,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 31
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 8,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 8,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 8,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 8,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 8,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 8,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 8,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 8,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 8,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 8,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 8,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 8,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 8,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 8,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 8,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 8,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 31
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 9,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 9,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 9,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 9,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 9,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 9,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 9,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 9,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 9,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 9,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 9,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 9,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 9,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 9,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 9,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 9,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 10,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 10,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 10,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 10,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 10,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 10,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 10,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 10,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 10,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 10,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 10,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 10,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 10,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 10,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 10,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 10,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 31
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 11,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 11,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 11,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 11,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 11,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 11,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 11,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 11,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 11,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 11,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 11,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 11,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 11,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 11,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 11,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 11,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 1
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 12,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10230,
+        "day": 2
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 3
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 12,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10220,
+        "day": 4
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 5
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 12,
+        "item_type": 1,
+        "amount": 100,
+        "item_id": 10050,
+        "day": 6
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 7
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 12,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10210,
+        "day": 8
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 100,
+        "item_id": 0,
+        "day": 9
+    },
+    {
+        "twice_drop_vip_lv": 13,
+        "month": 12,
+        "item_type": 1,
+        "amount": 5,
+        "item_id": 10140,
+        "day": 10
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 11
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 12,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10230,
+        "day": 12
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 13
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 12,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10220,
+        "day": 14
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 15
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 12,
+        "item_type": 1,
+        "amount": 200,
+        "item_id": 10050,
+        "day": 16
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 17
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 12,
+        "item_type": 1,
+        "amount": 20,
+        "item_id": 10210,
+        "day": 18
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 200,
+        "item_id": 0,
+        "day": 19
+    },
+    {
+        "twice_drop_vip_lv": 14,
+        "month": 12,
+        "item_type": 1,
+        "amount": 10,
+        "item_id": 10140,
+        "day": 20
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 21
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 12,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10230,
+        "day": 22
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 23
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 12,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10220,
+        "day": 24
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 25
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 12,
+        "item_type": 1,
+        "amount": 300,
+        "item_id": 10050,
+        "day": 26
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 27
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 12,
+        "item_type": 1,
+        "amount": 30,
+        "item_id": 10210,
+        "day": 28
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 29
+    },
+    {
+        "twice_drop_vip_lv": 15,
+        "month": 12,
+        "item_type": 1,
+        "amount": 15,
+        "item_id": 10140,
+        "day": 30
+    },
+    {
+        "twice_drop_vip_lv": 0,
+        "month": 12,
+        "item_type": 5,
+        "amount": 300,
+        "item_id": 0,
+        "day": 31
+    }
+]

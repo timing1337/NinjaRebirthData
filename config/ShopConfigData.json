@@ -1,0 +1,434 @@
+[
+    {
+        "box_id": 70011,
+        "name": "忍者商店",
+        "price_type": 1,
+        "price": 50000,
+        "discount_info": "0",
+        "shop_type": 1,
+        "id": 1
+    },
+    {
+        "box_id": 70012,
+        "name": "忍者商店",
+        "price_type": 1,
+        "price": 50000,
+        "discount_info": "0",
+        "shop_type": 1,
+        "id": 2
+    },
+    {
+        "box_id": 70013,
+        "name": "忍者商店",
+        "price_type": 1,
+        "price": 50000,
+        "discount_info": "0",
+        "shop_type": 1,
+        "id": 3
+    },
+    {
+        "box_id": 70014,
+        "name": "忍者商店",
+        "price_type": 2,
+        "price": 100,
+        "discount_info": "0",
+        "shop_type": 1,
+        "id": 4
+    },
+    {
+        "box_id": 70015,
+        "name": "忍者商店",
+        "price_type": 2,
+        "price": 100,
+        "discount_info": "0",
+        "shop_type": 1,
+        "id": 5
+    },
+    {
+        "box_id": 70016,
+        "name": "忍者商店",
+        "price_type": 2,
+        "price": 100,
+        "discount_info": "0",
+        "shop_type": 1,
+        "id": 6
+    },
+    {
+        "box_id": 70021,
+        "name": "神秘商人",
+        "price_type": 2,
+        "price": 300,
+        "discount_info": "0",
+        "shop_type": 2,
+        "id": 7
+    },
+    {
+        "box_id": 70022,
+        "name": "神秘商人",
+        "price_type": 2,
+        "price": 300,
+        "discount_info": "0",
+        "shop_type": 2,
+        "id": 8
+    },
+    {
+        "box_id": 70023,
+        "name": "神秘商人",
+        "price_type": 2,
+        "price": 200,
+        "discount_info": "0",
+        "shop_type": 2,
+        "id": 9
+    },
+    {
+        "box_id": 70024,
+        "name": "神秘商人",
+        "price_type": 2,
+        "price": 400,
+        "discount_info": "0",
+        "shop_type": 2,
+        "id": 10
+    },
+    {
+        "box_id": 70025,
+        "name": "神秘商人",
+        "price_type": 2,
+        "price": 400,
+        "discount_info": "0",
+        "shop_type": 2,
+        "id": 11
+    },
+    {
+        "box_id": 70026,
+        "name": "神秘商人",
+        "price_type": 2,
+        "price": 400,
+        "discount_info": "0",
+        "shop_type": 2,
+        "id": 12
+    },
+    {
+        "box_id": 70031,
+        "name": "六道商人",
+        "price_type": 2,
+        "price": 500,
+        "discount_info": "0",
+        "shop_type": 3,
+        "id": 13
+    },
+    {
+        "box_id": 70032,
+        "name": "六道商人",
+        "price_type": 2,
+        "price": 500,
+        "discount_info": "0",
+        "shop_type": 3,
+        "id": 14
+    },
+    {
+        "box_id": 70033,
+        "name": "六道商人",
+        "price_type": 2,
+        "price": 500,
+        "discount_info": "0",
+        "shop_type": 3,
+        "id": 15
+    },
+    {
+        "box_id": 70034,
+        "name": "六道商人",
+        "price_type": 2,
+        "price": 1000,
+        "discount_info": "0.9,1,1",
+        "shop_type": 3,
+        "id": 16
+    },
+    {
+        "box_id": 70035,
+        "name": "六道商人",
+        "price_type": 2,
+        "price": 1000,
+        "discount_info": "0.9,1,1",
+        "shop_type": 3,
+        "id": 17
+    },
+    {
+        "box_id": 70036,
+        "name": "六道商人",
+        "price_type": 2,
+        "price": 1000,
+        "discount_info": "0.9,1,1",
+        "shop_type": 3,
+        "id": 18
+    },
+    {
+        "box_id": 70041,
+        "name": "竞技商人",
+        "price_type": 10,
+        "price": 400,
+        "discount_info": "0",
+        "shop_type": 4,
+        "id": 19
+    },
+    {
+        "box_id": 70042,
+        "name": "竞技商人",
+        "price_type": 10,
+        "price": 400,
+        "discount_info": "0",
+        "shop_type": 4,
+        "id": 20
+    },
+    {
+        "box_id": 70043,
+        "name": "竞技商人",
+        "price_type": 10,
+        "price": 400,
+        "discount_info": "0",
+        "shop_type": 4,
+        "id": 21
+    },
+    {
+        "box_id": 70044,
+        "name": "竞技商人",
+        "price_type": 10,
+        "price": 800,
+        "discount_info": "0.9,1,1",
+        "shop_type": 4,
+        "id": 22
+    },
+    {
+        "box_id": 70045,
+        "name": "竞技商人",
+        "price_type": 10,
+        "price": 800,
+        "discount_info": "0.9,1,1",
+        "shop_type": 4,
+        "id": 23
+    },
+    {
+        "box_id": 70046,
+        "name": "竞技商人",
+        "price_type": 10,
+        "price": 800,
+        "discount_info": "0.9,1,1",
+        "shop_type": 4,
+        "id": 24
+    },
+    {
+        "box_id": 70051,
+        "name": "忍界商人",
+        "price_type": 11,
+        "price": 1000,
+        "discount_info": "0",
+        "shop_type": 5,
+        "id": 25
+    },
+    {
+        "box_id": 70052,
+        "name": "忍界商人",
+        "price_type": 11,
+        "price": 1000,
+        "discount_info": "0",
+        "shop_type": 5,
+        "id": 26
+    },
+    {
+        "box_id": 70053,
+        "name": "忍界商人",
+        "price_type": 11,
+        "price": 1000,
+        "discount_info": "0",
+        "shop_type": 5,
+        "id": 27
+    },
+    {
+        "box_id": 70054,
+        "name": "忍界商人",
+        "price_type": 11,
+        "price": 2000,
+        "discount_info": "0.9,1,1",
+        "shop_type": 5,
+        "id": 28
+    },
+    {
+        "box_id": 70055,
+        "name": "忍界商人",
+        "price_type": 11,
+        "price": 2000,
+        "discount_info": "0.9,1,1",
+        "shop_type": 5,
+        "id": 29
+    },
+    {
+        "box_id": 70056,
+        "name": "忍界商人",
+        "price_type": 11,
+        "price": 2000,
+        "discount_info": "0.9,1,1",
+        "shop_type": 5,
+        "id": 30
+    },
+    {
+        "box_id": 70061,
+        "name": "公会商人",
+        "price_type": 12,
+        "price": 500,
+        "discount_info": "0",
+        "shop_type": 6,
+        "id": 31
+    },
+    {
+        "box_id": 70062,
+        "name": "公会商人",
+        "price_type": 12,
+        "price": 500,
+        "discount_info": "0",
+        "shop_type": 6,
+        "id": 32
+    },
+    {
+        "box_id": 70063,
+        "name": "公会商人",
+        "price_type": 12,
+        "price": 500,
+        "discount_info": "0",
+        "shop_type": 6,
+        "id": 33
+    },
+    {
+        "box_id": 70064,
+        "name": "公会商人",
+        "price_type": 12,
+        "price": 1000,
+        "discount_info": "0.9,1,1",
+        "shop_type": 6,
+        "id": 34
+    },
+    {
+        "box_id": 70065,
+        "name": "公会商人",
+        "price_type": 12,
+        "price": 1000,
+        "discount_info": "0.9,1,1",
+        "shop_type": 6,
+        "id": 35
+    },
+    {
+        "box_id": 70066,
+        "name": "公会商人",
+        "price_type": 12,
+        "price": 1000,
+        "discount_info": "0.9,1,1",
+        "shop_type": 6,
+        "id": 36
+    },
+    {
+        "box_id": 70071,
+        "name": "影之商人",
+        "price_type": 13,
+        "price": 200,
+        "discount_info": "0",
+        "shop_type": 7,
+        "id": 37
+    },
+    {
+        "box_id": 70072,
+        "name": "影之商人",
+        "price_type": 13,
+        "price": 200,
+        "discount_info": "0",
+        "shop_type": 7,
+        "id": 38
+    },
+    {
+        "box_id": 70073,
+        "name": "影之商人",
+        "price_type": 13,
+        "price": 200,
+        "discount_info": "0",
+        "shop_type": 7,
+        "id": 39
+    },
+    {
+        "box_id": 70074,
+        "name": "影之商人",
+        "price_type": 13,
+        "price": 400,
+        "discount_info": "0.9,1,1",
+        "shop_type": 7,
+        "id": 40
+    },
+    {
+        "box_id": 70075,
+        "name": "影之商人",
+        "price_type": 13,
+        "price": 400,
+        "discount_info": "0.9,1,1",
+        "shop_type": 7,
+        "id": 41
+    },
+    {
+        "box_id": 70076,
+        "name": "影之商人",
+        "price_type": 13,
+        "price": 400,
+        "discount_info": "0.9,1,1",
+        "shop_type": 7,
+        "id": 42
+    },
+    {
+        "box_id": 70081,
+        "name": "跨服商城",
+        "price_type": 14,
+        "price": 500,
+        "discount_info": "0",
+        "shop_type": 9,
+        "id": 43
+    },
+    {
+        "box_id": 70082,
+        "name": "跨服商城",
+        "price_type": 14,
+        "price": 500,
+        "discount_info": "0",
+        "shop_type": 9,
+        "id": 44
+    },
+    {
+        "box_id": 70083,
+        "name": "跨服商城",
+        "price_type": 14,
+        "price": 1000,
+        "discount_info": "0",
+        "shop_type": 9,
+        "id": 45
+    },
+    {
+        "box_id": 70084,
+        "name": "跨服商城",
+        "price_type": 14,
+        "price": 1000,
+        "discount_info": "0",
+        "shop_type": 9,
+        "id": 46
+    },
+    {
+        "box_id": 70085,
+        "name": "跨服商城",
+        "price_type": 14,
+        "price": 2000,
+        "discount_info": "0",
+        "shop_type": 9,
+        "id": 47
+    },
+    {
+        "box_id": 70086,
+        "name": "跨服商城",
+        "price_type": 14,
+        "price": 2000,
+        "discount_info": "0",
+        "shop_type": 9,
+        "id": 48
+    }
+]

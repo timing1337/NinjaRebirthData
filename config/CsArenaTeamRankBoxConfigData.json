@@ -1,0 +1,104 @@
+[
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "bonus_rate": 2,
+        "point": 500
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "bonus_rate": 2,
+        "point": 450
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "bonus_rate": 2,
+        "point": 400
+    },
+    {
+        "rank_end": 4,
+        "rank_start": 4,
+        "bonus_rate": 2,
+        "point": 375
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 5,
+        "bonus_rate": 2,
+        "point": 350
+    },
+    {
+        "rank_end": 6,
+        "rank_start": 6,
+        "bonus_rate": 2,
+        "point": 325
+    },
+    {
+        "rank_end": 7,
+        "rank_start": 7,
+        "bonus_rate": 2,
+        "point": 300
+    },
+    {
+        "rank_end": 8,
+        "rank_start": 8,
+        "bonus_rate": 2,
+        "point": 275
+    },
+    {
+        "rank_end": 9,
+        "rank_start": 9,
+        "bonus_rate": 2,
+        "point": 250
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 10,
+        "bonus_rate": 2,
+        "point": 225
+    },
+    {
+        "rank_end": 20,
+        "rank_start": 11,
+        "bonus_rate": 2,
+        "point": 200
+    },
+    {
+        "rank_end": 30,
+        "rank_start": 21,
+        "bonus_rate": 2,
+        "point": 175
+    },
+    {
+        "rank_end": 40,
+        "rank_start": 31,
+        "bonus_rate": 2,
+        "point": 150
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 41,
+        "bonus_rate": 2,
+        "point": 125
+    },
+    {
+        "rank_end": 70,
+        "rank_start": 51,
+        "bonus_rate": 2,
+        "point": 100
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 71,
+        "bonus_rate": 2,
+        "point": 100
+    },
+    {
+        "rank_end": 200,
+        "rank_start": 101,
+        "bonus_rate": 2,
+        "point": 50
+    }
+]

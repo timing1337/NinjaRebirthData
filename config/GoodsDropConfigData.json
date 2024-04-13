@@ -1,0 +1,138 @@
+[
+    {
+        "goods_id": 1001,
+        "target_id": 101001,
+        "amount": 1,
+        "first_buy_extra_stone": 0,
+        "type": 15,
+        "id": 1
+    },
+    {
+        "goods_id": 1002,
+        "target_id": 101002,
+        "amount": 1,
+        "first_buy_extra_stone": 0,
+        "type": 15,
+        "id": 2
+    },
+    {
+        "goods_id": 1003,
+        "target_id": 101003,
+        "amount": 1,
+        "first_buy_extra_stone": 0,
+        "type": 15,
+        "id": 3
+    },
+    {
+        "goods_id": 1004,
+        "target_id": 101004,
+        "amount": 1,
+        "first_buy_extra_stone": 0,
+        "type": 15,
+        "id": 4
+    },
+    {
+        "goods_id": 1005,
+        "target_id": 101005,
+        "amount": 1,
+        "first_buy_extra_stone": 0,
+        "type": 15,
+        "id": 5
+    },
+    {
+        "goods_id": 1006,
+        "target_id": 101006,
+        "amount": 1,
+        "first_buy_extra_stone": 0,
+        "type": 15,
+        "id": 6
+    },
+    {
+        "goods_id": 1007,
+        "target_id": 101007,
+        "amount": 1,
+        "first_buy_extra_stone": 0,
+        "type": 15,
+        "id": 7
+    },
+    {
+        "goods_id": 3001,
+        "target_id": 0,
+        "amount": 100,
+        "first_buy_extra_stone": 100,
+        "type": 5,
+        "id": 8
+    },
+    {
+        "goods_id": 3002,
+        "target_id": 0,
+        "amount": 500,
+        "first_buy_extra_stone": 500,
+        "type": 5,
+        "id": 9
+    },
+    {
+        "goods_id": 3003,
+        "target_id": 0,
+        "amount": 1000,
+        "first_buy_extra_stone": 1000,
+        "type": 5,
+        "id": 10
+    },
+    {
+        "goods_id": 3004,
+        "target_id": 0,
+        "amount": 2000,
+        "first_buy_extra_stone": 2000,
+        "type": 5,
+        "id": 11
+    },
+    {
+        "goods_id": 3005,
+        "target_id": 0,
+        "amount": 5000,
+        "first_buy_extra_stone": 5000,
+        "type": 5,
+        "id": 12
+    },
+    {
+        "goods_id": 3006,
+        "target_id": 0,
+        "amount": 10000,
+        "first_buy_extra_stone": 10000,
+        "type": 5,
+        "id": 13
+    },
+    {
+        "goods_id": 3007,
+        "target_id": 0,
+        "amount": 15000,
+        "first_buy_extra_stone": 15000,
+        "type": 5,
+        "id": 14
+    },
+    {
+        "goods_id": 3101,
+        "target_id": 0,
+        "amount": 30,
+        "first_buy_extra_stone": 600,
+        "type": 11,
+        "id": 15
+    },
+    {
+        "goods_id": 3102,
+        "target_id": 0,
+        "amount": 0,
+        "first_buy_extra_stone": 3000,
+        "type": 14,
+        "id": 16
+    },
+    {
+        "goods_id": 3103,
+        "target_id": 0,
+        "amount": 30,
+        "first_buy_extra_stone": 1500,
+        "type": 12,
+        "id": 17
+    }
+]

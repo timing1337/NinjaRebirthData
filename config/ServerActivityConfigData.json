@@ -1,0 +1,17 @@
+[
+    {
+        "activity_id": 1001,
+        "award_desc": "First rechage rewards can be found in First Recharge Gift Pack",
+        "name": "First Recharge Reward - Pain！",
+        "condition_value2": 0,
+        "from_day": 0,
+        "box_id": 0,
+        "from_hour": 0,
+        "condition_value1": 0,
+        "to_day": 0,
+        "to_hour": 0,
+        "id": 1,
+        "condition": 0,
+        "desc": "Recharge any amount (1st time) to get: Pain souls *10、Complete beast bones *5、Gold *50000, Stamina*100"
+    }
+]

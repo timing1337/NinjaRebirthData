@@ -1,0 +1,1102 @@
+[
+    {
+        "upg_exp": 10,
+        "init_sp": 60,
+        "level": 1
+    },
+    {
+        "upg_exp": 25,
+        "init_sp": 62,
+        "level": 2
+    },
+    {
+        "upg_exp": 35,
+        "init_sp": 64,
+        "level": 3
+    },
+    {
+        "upg_exp": 45,
+        "init_sp": 66,
+        "level": 4
+    },
+    {
+        "upg_exp": 50,
+        "init_sp": 68,
+        "level": 5
+    },
+    {
+        "upg_exp": 100,
+        "init_sp": 70,
+        "level": 6
+    },
+    {
+        "upg_exp": 130,
+        "init_sp": 72,
+        "level": 7
+    },
+    {
+        "upg_exp": 150,
+        "init_sp": 74,
+        "level": 8
+    },
+    {
+        "upg_exp": 180,
+        "init_sp": 76,
+        "level": 9
+    },
+    {
+        "upg_exp": 180,
+        "init_sp": 78,
+        "level": 10
+    },
+    {
+        "upg_exp": 210,
+        "init_sp": 80,
+        "level": 11
+    },
+    {
+        "upg_exp": 220,
+        "init_sp": 82,
+        "level": 12
+    },
+    {
+        "upg_exp": 220,
+        "init_sp": 84,
+        "level": 13
+    },
+    {
+        "upg_exp": 230,
+        "init_sp": 86,
+        "level": 14
+    },
+    {
+        "upg_exp": 240,
+        "init_sp": 88,
+        "level": 15
+    },
+    {
+        "upg_exp": 270,
+        "init_sp": 90,
+        "level": 16
+    },
+    {
+        "upg_exp": 280,
+        "init_sp": 92,
+        "level": 17
+    },
+    {
+        "upg_exp": 290,
+        "init_sp": 94,
+        "level": 18
+    },
+    {
+        "upg_exp": 290,
+        "init_sp": 96,
+        "level": 19
+    },
+    {
+        "upg_exp": 300,
+        "init_sp": 98,
+        "level": 20
+    },
+    {
+        "upg_exp": 310,
+        "init_sp": 100,
+        "level": 21
+    },
+    {
+        "upg_exp": 320,
+        "init_sp": 102,
+        "level": 22
+    },
+    {
+        "upg_exp": 330,
+        "init_sp": 104,
+        "level": 23
+    },
+    {
+        "upg_exp": 340,
+        "init_sp": 106,
+        "level": 24
+    },
+    {
+        "upg_exp": 350,
+        "init_sp": 108,
+        "level": 25
+    },
+    {
+        "upg_exp": 360,
+        "init_sp": 110,
+        "level": 26
+    },
+    {
+        "upg_exp": 370,
+        "init_sp": 112,
+        "level": 27
+    },
+    {
+        "upg_exp": 380,
+        "init_sp": 114,
+        "level": 28
+    },
+    {
+        "upg_exp": 390,
+        "init_sp": 116,
+        "level": 29
+    },
+    {
+        "upg_exp": 400,
+        "init_sp": 118,
+        "level": 30
+    },
+    {
+        "upg_exp": 500,
+        "init_sp": 120,
+        "level": 31
+    },
+    {
+        "upg_exp": 600,
+        "init_sp": 122,
+        "level": 32
+    },
+    {
+        "upg_exp": 700,
+        "init_sp": 124,
+        "level": 33
+    },
+    {
+        "upg_exp": 800,
+        "init_sp": 126,
+        "level": 34
+    },
+    {
+        "upg_exp": 900,
+        "init_sp": 128,
+        "level": 35
+    },
+    {
+        "upg_exp": 1000,
+        "init_sp": 130,
+        "level": 36
+    },
+    {
+        "upg_exp": 1100,
+        "init_sp": 132,
+        "level": 37
+    },
+    {
+        "upg_exp": 1200,
+        "init_sp": 134,
+        "level": 38
+    },
+    {
+        "upg_exp": 1300,
+        "init_sp": 136,
+        "level": 39
+    },
+    {
+        "upg_exp": 1400,
+        "init_sp": 138,
+        "level": 40
+    },
+    {
+        "upg_exp": 1600,
+        "init_sp": 140,
+        "level": 41
+    },
+    {
+        "upg_exp": 1800,
+        "init_sp": 142,
+        "level": 42
+    },
+    {
+        "upg_exp": 2000,
+        "init_sp": 144,
+        "level": 43
+    },
+    {
+        "upg_exp": 2200,
+        "init_sp": 146,
+        "level": 44
+    },
+    {
+        "upg_exp": 2400,
+        "init_sp": 148,
+        "level": 45
+    },
+    {
+        "upg_exp": 2600,
+        "init_sp": 150,
+        "level": 46
+    },
+    {
+        "upg_exp": 2800,
+        "init_sp": 152,
+        "level": 47
+    },
+    {
+        "upg_exp": 3000,
+        "init_sp": 154,
+        "level": 48
+    },
+    {
+        "upg_exp": 3200,
+        "init_sp": 156,
+        "level": 49
+    },
+    {
+        "upg_exp": 3400,
+        "init_sp": 158,
+        "level": 50
+    },
+    {
+        "upg_exp": 3600,
+        "init_sp": 160,
+        "level": 51
+    },
+    {
+        "upg_exp": 3800,
+        "init_sp": 162,
+        "level": 52
+    },
+    {
+        "upg_exp": 4000,
+        "init_sp": 164,
+        "level": 53
+    },
+    {
+        "upg_exp": 4200,
+        "init_sp": 166,
+        "level": 54
+    },
+    {
+        "upg_exp": 4400,
+        "init_sp": 168,
+        "level": 55
+    },
+    {
+        "upg_exp": 4600,
+        "init_sp": 170,
+        "level": 56
+    },
+    {
+        "upg_exp": 4800,
+        "init_sp": 172,
+        "level": 57
+    },
+    {
+        "upg_exp": 5000,
+        "init_sp": 174,
+        "level": 58
+    },
+    {
+        "upg_exp": 5200,
+        "init_sp": 176,
+        "level": 59
+    },
+    {
+        "upg_exp": 5400,
+        "init_sp": 178,
+        "level": 60
+    },
+    {
+        "upg_exp": 5700,
+        "init_sp": 180,
+        "level": 61
+    },
+    {
+        "upg_exp": 6000,
+        "init_sp": 182,
+        "level": 62
+    },
+    {
+        "upg_exp": 6300,
+        "init_sp": 184,
+        "level": 63
+    },
+    {
+        "upg_exp": 6600,
+        "init_sp": 186,
+        "level": 64
+    },
+    {
+        "upg_exp": 6900,
+        "init_sp": 188,
+        "level": 65
+    },
+    {
+        "upg_exp": 7200,
+        "init_sp": 190,
+        "level": 66
+    },
+    {
+        "upg_exp": 7500,
+        "init_sp": 192,
+        "level": 67
+    },
+    {
+        "upg_exp": 7800,
+        "init_sp": 194,
+        "level": 68
+    },
+    {
+        "upg_exp": 8100,
+        "init_sp": 196,
+        "level": 69
+    },
+    {
+        "upg_exp": 8400,
+        "init_sp": 198,
+        "level": 70
+    },
+    {
+        "upg_exp": 8700,
+        "init_sp": 200,
+        "level": 71
+    },
+    {
+        "upg_exp": 9000,
+        "init_sp": 202,
+        "level": 72
+    },
+    {
+        "upg_exp": 9300,
+        "init_sp": 204,
+        "level": 73
+    },
+    {
+        "upg_exp": 9600,
+        "init_sp": 206,
+        "level": 74
+    },
+    {
+        "upg_exp": 9900,
+        "init_sp": 208,
+        "level": 75
+    },
+    {
+        "upg_exp": 10200,
+        "init_sp": 210,
+        "level": 76
+    },
+    {
+        "upg_exp": 10500,
+        "init_sp": 212,
+        "level": 77
+    },
+    {
+        "upg_exp": 10800,
+        "init_sp": 214,
+        "level": 78
+    },
+    {
+        "upg_exp": 11100,
+        "init_sp": 216,
+        "level": 79
+    },
+    {
+        "upg_exp": 11400,
+        "init_sp": 218,
+        "level": 80
+    },
+    {
+        "upg_exp": 11800,
+        "init_sp": 220,
+        "level": 81
+    },
+    {
+        "upg_exp": 12200,
+        "init_sp": 222,
+        "level": 82
+    },
+    {
+        "upg_exp": 12600,
+        "init_sp": 224,
+        "level": 83
+    },
+    {
+        "upg_exp": 13000,
+        "init_sp": 226,
+        "level": 84
+    },
+    {
+        "upg_exp": 13400,
+        "init_sp": 228,
+        "level": 85
+    },
+    {
+        "upg_exp": 13800,
+        "init_sp": 230,
+        "level": 86
+    },
+    {
+        "upg_exp": 14200,
+        "init_sp": 232,
+        "level": 87
+    },
+    {
+        "upg_exp": 14600,
+        "init_sp": 234,
+        "level": 88
+    },
+    {
+        "upg_exp": 15000,
+        "init_sp": 236,
+        "level": 89
+    },
+    {
+        "upg_exp": 15400,
+        "init_sp": 238,
+        "level": 90
+    },
+    {
+        "upg_exp": 15800,
+        "init_sp": 240,
+        "level": 91
+    },
+    {
+        "upg_exp": 16200,
+        "init_sp": 242,
+        "level": 92
+    },
+    {
+        "upg_exp": 16600,
+        "init_sp": 244,
+        "level": 93
+    },
+    {
+        "upg_exp": 17000,
+        "init_sp": 246,
+        "level": 94
+    },
+    {
+        "upg_exp": 17400,
+        "init_sp": 248,
+        "level": 95
+    },
+    {
+        "upg_exp": 17800,
+        "init_sp": 250,
+        "level": 96
+    },
+    {
+        "upg_exp": 18200,
+        "init_sp": 252,
+        "level": 97
+    },
+    {
+        "upg_exp": 18600,
+        "init_sp": 254,
+        "level": 98
+    },
+    {
+        "upg_exp": 19000,
+        "init_sp": 256,
+        "level": 99
+    },
+    {
+        "upg_exp": 19400,
+        "init_sp": 258,
+        "level": 100
+    },
+    {
+        "upg_exp": 19800,
+        "init_sp": 260,
+        "level": 101
+    },
+    {
+        "upg_exp": 20200,
+        "init_sp": 262,
+        "level": 102
+    },
+    {
+        "upg_exp": 20600,
+        "init_sp": 264,
+        "level": 103
+    },
+    {
+        "upg_exp": 21000,
+        "init_sp": 266,
+        "level": 104
+    },
+    {
+        "upg_exp": 21400,
+        "init_sp": 268,
+        "level": 105
+    },
+    {
+        "upg_exp": 21800,
+        "init_sp": 270,
+        "level": 106
+    },
+    {
+        "upg_exp": 22200,
+        "init_sp": 272,
+        "level": 107
+    },
+    {
+        "upg_exp": 22600,
+        "init_sp": 274,
+        "level": 108
+    },
+    {
+        "upg_exp": 23000,
+        "init_sp": 276,
+        "level": 109
+    },
+    {
+        "upg_exp": 25000,
+        "init_sp": 278,
+        "level": 110
+    },
+    {
+        "upg_exp": 25500,
+        "init_sp": 280,
+        "level": 111
+    },
+    {
+        "upg_exp": 26000,
+        "init_sp": 282,
+        "level": 112
+    },
+    {
+        "upg_exp": 26500,
+        "init_sp": 284,
+        "level": 113
+    },
+    {
+        "upg_exp": 27000,
+        "init_sp": 286,
+        "level": 114
+    },
+    {
+        "upg_exp": 27500,
+        "init_sp": 288,
+        "level": 115
+    },
+    {
+        "upg_exp": 28000,
+        "init_sp": 290,
+        "level": 116
+    },
+    {
+        "upg_exp": 28500,
+        "init_sp": 292,
+        "level": 117
+    },
+    {
+        "upg_exp": 29000,
+        "init_sp": 294,
+        "level": 118
+    },
+    {
+        "upg_exp": 29500,
+        "init_sp": 296,
+        "level": 119
+    },
+    {
+        "upg_exp": 30100,
+        "init_sp": 298,
+        "level": 120
+    },
+    {
+        "upg_exp": 30700,
+        "init_sp": 300,
+        "level": 121
+    },
+    {
+        "upg_exp": 31300,
+        "init_sp": 302,
+        "level": 122
+    },
+    {
+        "upg_exp": 31900,
+        "init_sp": 304,
+        "level": 123
+    },
+    {
+        "upg_exp": 32500,
+        "init_sp": 306,
+        "level": 124
+    },
+    {
+        "upg_exp": 33100,
+        "init_sp": 308,
+        "level": 125
+    },
+    {
+        "upg_exp": 33700,
+        "init_sp": 310,
+        "level": 126
+    },
+    {
+        "upg_exp": 34300,
+        "init_sp": 312,
+        "level": 127
+    },
+    {
+        "upg_exp": 34900,
+        "init_sp": 314,
+        "level": 128
+    },
+    {
+        "upg_exp": 35500,
+        "init_sp": 316,
+        "level": 129
+    },
+    {
+        "upg_exp": 36200,
+        "init_sp": 318,
+        "level": 130
+    },
+    {
+        "upg_exp": 36900,
+        "init_sp": 320,
+        "level": 131
+    },
+    {
+        "upg_exp": 37600,
+        "init_sp": 322,
+        "level": 132
+    },
+    {
+        "upg_exp": 38300,
+        "init_sp": 324,
+        "level": 133
+    },
+    {
+        "upg_exp": 39000,
+        "init_sp": 326,
+        "level": 134
+    },
+    {
+        "upg_exp": 39700,
+        "init_sp": 328,
+        "level": 135
+    },
+    {
+        "upg_exp": 40400,
+        "init_sp": 330,
+        "level": 136
+    },
+    {
+        "upg_exp": 41100,
+        "init_sp": 332,
+        "level": 137
+    },
+    {
+        "upg_exp": 41800,
+        "init_sp": 334,
+        "level": 138
+    },
+    {
+        "upg_exp": 42500,
+        "init_sp": 336,
+        "level": 139
+    },
+    {
+        "upg_exp": 43300,
+        "init_sp": 338,
+        "level": 140
+    },
+    {
+        "upg_exp": 44100,
+        "init_sp": 340,
+        "level": 141
+    },
+    {
+        "upg_exp": 44900,
+        "init_sp": 342,
+        "level": 142
+    },
+    {
+        "upg_exp": 45700,
+        "init_sp": 344,
+        "level": 143
+    },
+    {
+        "upg_exp": 46500,
+        "init_sp": 346,
+        "level": 144
+    },
+    {
+        "upg_exp": 47300,
+        "init_sp": 348,
+        "level": 145
+    },
+    {
+        "upg_exp": 48100,
+        "init_sp": 350,
+        "level": 146
+    },
+    {
+        "upg_exp": 48900,
+        "init_sp": 352,
+        "level": 147
+    },
+    {
+        "upg_exp": 49700,
+        "init_sp": 354,
+        "level": 148
+    },
+    {
+        "upg_exp": 50500,
+        "init_sp": 356,
+        "level": 149
+    },
+    {
+        "upg_exp": 51400,
+        "init_sp": 358,
+        "level": 150
+    },
+    {
+        "upg_exp": 52300,
+        "init_sp": 360,
+        "level": 151
+    },
+    {
+        "upg_exp": 53200,
+        "init_sp": 362,
+        "level": 152
+    },
+    {
+        "upg_exp": 54100,
+        "init_sp": 364,
+        "level": 153
+    },
+    {
+        "upg_exp": 55000,
+        "init_sp": 366,
+        "level": 154
+    },
+    {
+        "upg_exp": 55900,
+        "init_sp": 368,
+        "level": 155
+    },
+    {
+        "upg_exp": 56800,
+        "init_sp": 370,
+        "level": 156
+    },
+    {
+        "upg_exp": 57700,
+        "init_sp": 372,
+        "level": 157
+    },
+    {
+        "upg_exp": 58600,
+        "init_sp": 374,
+        "level": 158
+    },
+    {
+        "upg_exp": 59500,
+        "init_sp": 376,
+        "level": 159
+    },
+    {
+        "upg_exp": 60500,
+        "init_sp": 378,
+        "level": 160
+    },
+    {
+        "upg_exp": 61500,
+        "init_sp": 380,
+        "level": 161
+    },
+    {
+        "upg_exp": 62500,
+        "init_sp": 382,
+        "level": 162
+    },
+    {
+        "upg_exp": 63500,
+        "init_sp": 384,
+        "level": 163
+    },
+    {
+        "upg_exp": 64500,
+        "init_sp": 386,
+        "level": 164
+    },
+    {
+        "upg_exp": 65500,
+        "init_sp": 388,
+        "level": 165
+    },
+    {
+        "upg_exp": 66500,
+        "init_sp": 390,
+        "level": 166
+    },
+    {
+        "upg_exp": 67500,
+        "init_sp": 392,
+        "level": 167
+    },
+    {
+        "upg_exp": 68500,
+        "init_sp": 394,
+        "level": 168
+    },
+    {
+        "upg_exp": 69500,
+        "init_sp": 396,
+        "level": 169
+    },
+    {
+        "upg_exp": 70600,
+        "init_sp": 398,
+        "level": 170
+    },
+    {
+        "upg_exp": 71700,
+        "init_sp": 400,
+        "level": 171
+    },
+    {
+        "upg_exp": 72800,
+        "init_sp": 402,
+        "level": 172
+    },
+    {
+        "upg_exp": 73900,
+        "init_sp": 404,
+        "level": 173
+    },
+    {
+        "upg_exp": 75000,
+        "init_sp": 406,
+        "level": 174
+    },
+    {
+        "upg_exp": 76100,
+        "init_sp": 408,
+        "level": 175
+    },
+    {
+        "upg_exp": 77200,
+        "init_sp": 410,
+        "level": 176
+    },
+    {
+        "upg_exp": 78300,
+        "init_sp": 412,
+        "level": 177
+    },
+    {
+        "upg_exp": 79400,
+        "init_sp": 414,
+        "level": 178
+    },
+    {
+        "upg_exp": 80500,
+        "init_sp": 416,
+        "level": 179
+    },
+    {
+        "upg_exp": 81700,
+        "init_sp": 418,
+        "level": 180
+    },
+    {
+        "upg_exp": 82900,
+        "init_sp": 420,
+        "level": 181
+    },
+    {
+        "upg_exp": 84100,
+        "init_sp": 422,
+        "level": 182
+    },
+    {
+        "upg_exp": 85300,
+        "init_sp": 424,
+        "level": 183
+    },
+    {
+        "upg_exp": 86500,
+        "init_sp": 426,
+        "level": 184
+    },
+    {
+        "upg_exp": 87700,
+        "init_sp": 428,
+        "level": 185
+    },
+    {
+        "upg_exp": 88900,
+        "init_sp": 430,
+        "level": 186
+    },
+    {
+        "upg_exp": 90100,
+        "init_sp": 432,
+        "level": 187
+    },
+    {
+        "upg_exp": 91300,
+        "init_sp": 434,
+        "level": 188
+    },
+    {
+        "upg_exp": 92500,
+        "init_sp": 436,
+        "level": 189
+    },
+    {
+        "upg_exp": 93800,
+        "init_sp": 438,
+        "level": 190
+    },
+    {
+        "upg_exp": 95100,
+        "init_sp": 440,
+        "level": 191
+    },
+    {
+        "upg_exp": 96400,
+        "init_sp": 442,
+        "level": 192
+    },
+    {
+        "upg_exp": 97700,
+        "init_sp": 444,
+        "level": 193
+    },
+    {
+        "upg_exp": 99000,
+        "init_sp": 446,
+        "level": 194
+    },
+    {
+        "upg_exp": 100300,
+        "init_sp": 448,
+        "level": 195
+    },
+    {
+        "upg_exp": 101600,
+        "init_sp": 450,
+        "level": 196
+    },
+    {
+        "upg_exp": 102900,
+        "init_sp": 452,
+        "level": 197
+    },
+    {
+        "upg_exp": 104200,
+        "init_sp": 454,
+        "level": 198
+    },
+    {
+        "upg_exp": 105500,
+        "init_sp": 456,
+        "level": 199
+    },
+    {
+        "upg_exp": 106900,
+        "init_sp": 458,
+        "level": 200
+    },
+    {
+        "upg_exp": 120000,
+        "init_sp": 460,
+        "level": 201
+    },
+    {
+        "upg_exp": 120000,
+        "init_sp": 462,
+        "level": 202
+    },
+    {
+        "upg_exp": 120000,
+        "init_sp": 464,
+        "level": 203
+    },
+    {
+        "upg_exp": 120000,
+        "init_sp": 466,
+        "level": 204
+    },
+    {
+        "upg_exp": 120000,
+        "init_sp": 468,
+        "level": 205
+    },
+    {
+        "upg_exp": 120000,
+        "init_sp": 470,
+        "level": 206
+    },
+    {
+        "upg_exp": 120000,
+        "init_sp": 472,
+        "level": 207
+    },
+    {
+        "upg_exp": 120000,
+        "init_sp": 474,
+        "level": 208
+    },
+    {
+        "upg_exp": 120000,
+        "init_sp": 476,
+        "level": 209
+    },
+    {
+        "upg_exp": 120000,
+        "init_sp": 478,
+        "level": 210
+    },
+    {
+        "upg_exp": 130000,
+        "init_sp": 480,
+        "level": 211
+    },
+    {
+        "upg_exp": 130000,
+        "init_sp": 482,
+        "level": 212
+    },
+    {
+        "upg_exp": 130000,
+        "init_sp": 484,
+        "level": 213
+    },
+    {
+        "upg_exp": 130000,
+        "init_sp": 486,
+        "level": 214
+    },
+    {
+        "upg_exp": 130000,
+        "init_sp": 488,
+        "level": 215
+    },
+    {
+        "upg_exp": 130000,
+        "init_sp": 490,
+        "level": 216
+    },
+    {
+        "upg_exp": 130000,
+        "init_sp": 492,
+        "level": 217
+    },
+    {
+        "upg_exp": 130000,
+        "init_sp": 494,
+        "level": 218
+    },
+    {
+        "upg_exp": 130000,
+        "init_sp": 496,
+        "level": 219
+    },
+    {
+        "upg_exp": 130000,
+        "init_sp": 498,
+        "level": 220
+    }
+]

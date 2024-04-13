@@ -1,0 +1,272 @@
+[
+    {
+        "quality_change": -1,
+        "difficult": 1,
+        "lv_change": -15,
+        "wave": 1
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": -10,
+        "wave": 1
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 10,
+        "wave": 1
+    },
+    {
+        "quality_change": -1,
+        "difficult": 1,
+        "lv_change": -14,
+        "wave": 2
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": -7,
+        "wave": 2
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 10,
+        "wave": 2
+    },
+    {
+        "quality_change": -1,
+        "difficult": 1,
+        "lv_change": -13,
+        "wave": 3
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": -4,
+        "wave": 3
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 10,
+        "wave": 3
+    },
+    {
+        "quality_change": -1,
+        "difficult": 1,
+        "lv_change": -12,
+        "wave": 4
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": -1,
+        "wave": 4
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 12,
+        "wave": 4
+    },
+    {
+        "quality_change": -1,
+        "difficult": 1,
+        "lv_change": -11,
+        "wave": 5
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 0,
+        "wave": 5
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 14,
+        "wave": 5
+    },
+    {
+        "quality_change": 0,
+        "difficult": 1,
+        "lv_change": -10,
+        "wave": 6
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 1,
+        "wave": 6
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 16,
+        "wave": 6
+    },
+    {
+        "quality_change": 0,
+        "difficult": 1,
+        "lv_change": -9,
+        "wave": 7
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 3,
+        "wave": 7
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 18,
+        "wave": 7
+    },
+    {
+        "quality_change": 0,
+        "difficult": 1,
+        "lv_change": -8,
+        "wave": 8
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 5,
+        "wave": 8
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 20,
+        "wave": 8
+    },
+    {
+        "quality_change": 0,
+        "difficult": 1,
+        "lv_change": -7,
+        "wave": 9
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 7,
+        "wave": 9
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 22,
+        "wave": 9
+    },
+    {
+        "quality_change": 0,
+        "difficult": 1,
+        "lv_change": -6,
+        "wave": 10
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 9,
+        "wave": 10
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 23,
+        "wave": 10
+    },
+    {
+        "quality_change": 0,
+        "difficult": 1,
+        "lv_change": -5,
+        "wave": 11
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 10,
+        "wave": 11
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 24,
+        "wave": 11
+    },
+    {
+        "quality_change": 0,
+        "difficult": 1,
+        "lv_change": -4,
+        "wave": 12
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 11,
+        "wave": 12
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 25,
+        "wave": 12
+    },
+    {
+        "quality_change": 0,
+        "difficult": 1,
+        "lv_change": -3,
+        "wave": 13
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 12,
+        "wave": 13
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 26,
+        "wave": 13
+    },
+    {
+        "quality_change": 0,
+        "difficult": 1,
+        "lv_change": -2,
+        "wave": 14
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 13,
+        "wave": 14
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 27,
+        "wave": 14
+    },
+    {
+        "quality_change": 0,
+        "difficult": 1,
+        "lv_change": -1,
+        "wave": 15
+    },
+    {
+        "quality_change": 0,
+        "difficult": 2,
+        "lv_change": 14,
+        "wave": 15
+    },
+    {
+        "quality_change": 0,
+        "difficult": 3,
+        "lv_change": 30,
+        "wave": 15
+    }
+]

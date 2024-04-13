@@ -1,0 +1,121 @@
+[
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "box_id2": 81001,
+        "box_id": 80001,
+        "box_id_3": 81101
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "box_id2": 81002,
+        "box_id": 80002,
+        "box_id_3": 81102
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "box_id2": 81003,
+        "box_id": 80003,
+        "box_id_3": 81103
+    },
+    {
+        "rank_end": 4,
+        "rank_start": 4,
+        "box_id2": 81004,
+        "box_id": 80004,
+        "box_id_3": 81104
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 5,
+        "box_id2": 81005,
+        "box_id": 80005,
+        "box_id_3": 81104
+    },
+    {
+        "rank_end": 6,
+        "rank_start": 6,
+        "box_id2": 81007,
+        "box_id": 80006,
+        "box_id_3": 81105
+    },
+    {
+        "rank_end": 7,
+        "rank_start": 7,
+        "box_id2": 81007,
+        "box_id": 80007,
+        "box_id_3": 81105
+    },
+    {
+        "rank_end": 8,
+        "rank_start": 8,
+        "box_id2": 81008,
+        "box_id": 80008,
+        "box_id_3": 81105
+    },
+    {
+        "rank_end": 9,
+        "rank_start": 9,
+        "box_id2": 81009,
+        "box_id": 80009,
+        "box_id_3": 81105
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 10,
+        "box_id2": 81010,
+        "box_id": 80010,
+        "box_id_3": 81105
+    },
+    {
+        "rank_end": 20,
+        "rank_start": 11,
+        "box_id2": 81011,
+        "box_id": 80011,
+        "box_id_3": 81106
+    },
+    {
+        "rank_end": 30,
+        "rank_start": 21,
+        "box_id2": 81012,
+        "box_id": 80012,
+        "box_id_3": 81107
+    },
+    {
+        "rank_end": 40,
+        "rank_start": 31,
+        "box_id2": 81013,
+        "box_id": 80013,
+        "box_id_3": 0
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 41,
+        "box_id2": 81014,
+        "box_id": 80014,
+        "box_id_3": 0
+    },
+    {
+        "rank_end": 70,
+        "rank_start": 51,
+        "box_id2": 81015,
+        "box_id": 80015,
+        "box_id_3": 0
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 71,
+        "box_id2": 81016,
+        "box_id": 80016,
+        "box_id_3": 0
+    },
+    {
+        "rank_end": 200,
+        "rank_start": 101,
+        "box_id2": 81017,
+        "box_id": 80017,
+        "box_id_3": 0
+    }
+]

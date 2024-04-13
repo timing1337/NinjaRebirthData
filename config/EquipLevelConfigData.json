@@ -1,0 +1,458 @@
+[
+    {
+        "lv": 1,
+        "fight_value": 100,
+        "quality": 1,
+        "exp": 100
+    },
+    {
+        "lv": 1,
+        "fight_value": 100,
+        "quality": 2,
+        "exp": 120
+    },
+    {
+        "lv": 1,
+        "fight_value": 200,
+        "quality": 3,
+        "exp": 252
+    },
+    {
+        "lv": 1,
+        "fight_value": 300,
+        "quality": 4,
+        "exp": 528
+    },
+    {
+        "lv": 1,
+        "fight_value": 400,
+        "quality": 5,
+        "exp": 1400
+    },
+    {
+        "lv": 1,
+        "fight_value": 800,
+        "quality": 6,
+        "exp": 25000
+    },
+    {
+        "lv": 2,
+        "fight_value": 150,
+        "quality": 2,
+        "exp": 240
+    },
+    {
+        "lv": 2,
+        "fight_value": 300,
+        "quality": 3,
+        "exp": 504
+    },
+    {
+        "lv": 2,
+        "fight_value": 500,
+        "quality": 4,
+        "exp": 1056
+    },
+    {
+        "lv": 2,
+        "fight_value": 780,
+        "quality": 5,
+        "exp": 5400
+    },
+    {
+        "lv": 2,
+        "fight_value": 1560,
+        "quality": 6,
+        "exp": 50000
+    },
+    {
+        "lv": 3,
+        "fight_value": 220,
+        "quality": 2,
+        "exp": 480
+    },
+    {
+        "lv": 3,
+        "fight_value": 450,
+        "quality": 3,
+        "exp": 1008
+    },
+    {
+        "lv": 3,
+        "fight_value": 780,
+        "quality": 4,
+        "exp": 2112
+    },
+    {
+        "lv": 3,
+        "fight_value": 1200,
+        "quality": 5,
+        "exp": 9400
+    },
+    {
+        "lv": 3,
+        "fight_value": 2400,
+        "quality": 6,
+        "exp": 75000
+    },
+    {
+        "lv": 4,
+        "fight_value": 300,
+        "quality": 2,
+        "exp": 960
+    },
+    {
+        "lv": 4,
+        "fight_value": 600,
+        "quality": 3,
+        "exp": 2016
+    },
+    {
+        "lv": 4,
+        "fight_value": 1100,
+        "quality": 4,
+        "exp": 4224
+    },
+    {
+        "lv": 4,
+        "fight_value": 1800,
+        "quality": 5,
+        "exp": 13400
+    },
+    {
+        "lv": 4,
+        "fight_value": 3600,
+        "quality": 6,
+        "exp": 100000
+    },
+    {
+        "lv": 5,
+        "fight_value": 400,
+        "quality": 2,
+        "exp": 1920
+    },
+    {
+        "lv": 5,
+        "fight_value": 780,
+        "quality": 3,
+        "exp": 4032
+    },
+    {
+        "lv": 5,
+        "fight_value": 1500,
+        "quality": 4,
+        "exp": 6600
+    },
+    {
+        "lv": 5,
+        "fight_value": 2460,
+        "quality": 5,
+        "exp": 17400
+    },
+    {
+        "lv": 5,
+        "fight_value": 4920,
+        "quality": 6,
+        "exp": 125000
+    },
+    {
+        "lv": 6,
+        "fight_value": 500,
+        "quality": 2,
+        "exp": 3840
+    },
+    {
+        "lv": 6,
+        "fight_value": 1000,
+        "quality": 3,
+        "exp": 6300
+    },
+    {
+        "lv": 6,
+        "fight_value": 1900,
+        "quality": 4,
+        "exp": 9900
+    },
+    {
+        "lv": 6,
+        "fight_value": 3257,
+        "quality": 5,
+        "exp": 21400
+    },
+    {
+        "lv": 6,
+        "fight_value": 6514,
+        "quality": 6,
+        "exp": 150000
+    },
+    {
+        "lv": 7,
+        "fight_value": 650,
+        "quality": 2,
+        "exp": 6000
+    },
+    {
+        "lv": 7,
+        "fight_value": 1300,
+        "quality": 3,
+        "exp": 9450
+    },
+    {
+        "lv": 7,
+        "fight_value": 2500,
+        "quality": 4,
+        "exp": 14850
+    },
+    {
+        "lv": 7,
+        "fight_value": 4212,
+        "quality": 5,
+        "exp": 25400
+    },
+    {
+        "lv": 7,
+        "fight_value": 8424,
+        "quality": 6,
+        "exp": 175000
+    },
+    {
+        "lv": 8,
+        "fight_value": 800,
+        "quality": 2,
+        "exp": 9000
+    },
+    {
+        "lv": 8,
+        "fight_value": 1600,
+        "quality": 3,
+        "exp": 14175
+    },
+    {
+        "lv": 8,
+        "fight_value": 3100,
+        "quality": 4,
+        "exp": 22000
+    },
+    {
+        "lv": 8,
+        "fight_value": 5358,
+        "quality": 5,
+        "exp": 29400
+    },
+    {
+        "lv": 8,
+        "fight_value": 10716,
+        "quality": 6,
+        "exp": 200000
+    },
+    {
+        "lv": 9,
+        "fight_value": 1000,
+        "quality": 2,
+        "exp": 13500
+    },
+    {
+        "lv": 9,
+        "fight_value": 2000,
+        "quality": 3,
+        "exp": 21000
+    },
+    {
+        "lv": 9,
+        "fight_value": 3900,
+        "quality": 4,
+        "exp": 23000
+    },
+    {
+        "lv": 9,
+        "fight_value": 6734,
+        "quality": 5,
+        "exp": 33400
+    },
+    {
+        "lv": 9,
+        "fight_value": 13468,
+        "quality": 6,
+        "exp": 225000
+    },
+    {
+        "lv": 10,
+        "fight_value": 1250,
+        "quality": 2,
+        "exp": 16500
+    },
+    {
+        "lv": 10,
+        "fight_value": 2500,
+        "quality": 3,
+        "exp": 24000
+    },
+    {
+        "lv": 10,
+        "fight_value": 4800,
+        "quality": 4,
+        "exp": 24000
+    },
+    {
+        "lv": 10,
+        "fight_value": 8385,
+        "quality": 5,
+        "exp": 37400
+    },
+    {
+        "lv": 10,
+        "fight_value": 16770,
+        "quality": 6,
+        "exp": 250000
+    },
+    {
+        "lv": 11,
+        "fight_value": 1450,
+        "quality": 2,
+        "exp": 19500
+    },
+    {
+        "lv": 11,
+        "fight_value": 2900,
+        "quality": 3,
+        "exp": 27000
+    },
+    {
+        "lv": 11,
+        "fight_value": 5400,
+        "quality": 4,
+        "exp": 27000
+    },
+    {
+        "lv": 11,
+        "fight_value": 9085,
+        "quality": 5,
+        "exp": 41400
+    },
+    {
+        "lv": 11,
+        "fight_value": 18170,
+        "quality": 6,
+        "exp": 275000
+    },
+    {
+        "lv": 12,
+        "fight_value": 1650,
+        "quality": 2,
+        "exp": 22500
+    },
+    {
+        "lv": 12,
+        "fight_value": 3300,
+        "quality": 3,
+        "exp": 30000
+    },
+    {
+        "lv": 12,
+        "fight_value": 6000,
+        "quality": 4,
+        "exp": 30000
+    },
+    {
+        "lv": 12,
+        "fight_value": 9785,
+        "quality": 5,
+        "exp": 45400
+    },
+    {
+        "lv": 12,
+        "fight_value": 19570,
+        "quality": 6,
+        "exp": 300000
+    },
+    {
+        "lv": 13,
+        "fight_value": 1850,
+        "quality": 2,
+        "exp": 25500
+    },
+    {
+        "lv": 13,
+        "fight_value": 3700,
+        "quality": 3,
+        "exp": 33000
+    },
+    {
+        "lv": 13,
+        "fight_value": 6600,
+        "quality": 4,
+        "exp": 33000
+    },
+    {
+        "lv": 13,
+        "fight_value": 10485,
+        "quality": 5,
+        "exp": 49400
+    },
+    {
+        "lv": 13,
+        "fight_value": 20970,
+        "quality": 6,
+        "exp": 325000
+    },
+    {
+        "lv": 14,
+        "fight_value": 2050,
+        "quality": 2,
+        "exp": 28500
+    },
+    {
+        "lv": 14,
+        "fight_value": 4100,
+        "quality": 3,
+        "exp": 36000
+    },
+    {
+        "lv": 14,
+        "fight_value": 7200,
+        "quality": 4,
+        "exp": 36000
+    },
+    {
+        "lv": 14,
+        "fight_value": 11185,
+        "quality": 5,
+        "exp": 53400
+    },
+    {
+        "lv": 14,
+        "fight_value": 22370,
+        "quality": 6,
+        "exp": 350000
+    },
+    {
+        "lv": 15,
+        "fight_value": 2250,
+        "quality": 2,
+        "exp": 0
+    },
+    {
+        "lv": 15,
+        "fight_value": 4500,
+        "quality": 3,
+        "exp": 0
+    },
+    {
+        "lv": 15,
+        "fight_value": 7800,
+        "quality": 4,
+        "exp": 0
+    },
+    {
+        "lv": 15,
+        "fight_value": 11885,
+        "quality": 5,
+        "exp": 0
+    },
+    {
+        "lv": 15,
+        "fight_value": 23770,
+        "quality": 6,
+        "exp": 0
+    }
+]

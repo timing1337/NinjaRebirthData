@@ -1,0 +1,652 @@
+[
+    {
+        "k": "ADNV_BRONZE_ID",
+        "remark": "高级青铜宝箱id",
+        "v_string": "50012"
+    },
+    {
+        "k": "ADNV_GOLD_ID",
+        "remark": "高级黄金宝箱id",
+        "v_string": "50022"
+    },
+    {
+        "k": "ADNV_GOLD_ID2",
+        "remark": "十连新英雄",
+        "v_string": "50027"
+    },
+    {
+        "k": "ARENA_CD_COST_STONE",
+        "remark": "竞技场消除cd花费的钻石",
+        "v_string": "50"
+    },
+    {
+        "k": "ARENA_OPEN_LV",
+        "remark": "竞技场开放等级",
+        "v_string": "10"
+    },
+    {
+        "k": "BEAST_EQUIP_PER_GOLD",
+        "remark": "用装备喂养尾兽每点经验花费的金币",
+        "v_string": "100"
+    },
+    {
+        "k": "BEAST_FIGHT_OPEN_LV",
+        "remark": "尾兽讨伐开放等级",
+        "v_string": "45"
+    },
+    {
+        "k": "BEAST_OPEN_LV",
+        "remark": "尾兽系统开放等级",
+        "v_string": "1"
+    },
+    {
+        "k": "BEAST_PER_STONE",
+        "remark": "钻石喂养每次喂养尾兽消耗的钻石",
+        "v_string": "500"
+    },
+    {
+        "k": "BEAST_PER_STONE_EXP",
+        "remark": "钻石喂养尾兽每次加的经验",
+        "v_string": "5000"
+    },
+    {
+        "k": "BEAST_UNLOCK_NEED_SOUL",
+        "remark": "尾兽解锁需要的魂魄数",
+        "v_string": "20,40,60,80,100,120,140,160,180"
+    },
+    {
+        "k": "BRONE_FREE_TIME",
+        "remark": "青铜宝箱免费抽取间隔时间(秒)",
+        "v_string": "600"
+    },
+    {
+        "k": "BRONZE_FREE_COUNT",
+        "remark": "青铜宝箱每日免费次数",
+        "v_string": "5"
+    },
+    {
+        "k": "BRONZE_TEN_DISCOUNT",
+        "remark": "青铜宝箱10连抽折扣",
+        "v_string": "0.9"
+    },
+    {
+        "k": "BUY_GOLD_CRIT",
+        "remark": "购买金币暴击几率 100以内数值",
+        "v_string": "20"
+    },
+    {
+        "k": "CHANGE_NAME_COST_STONE",
+        "remark": "改名字要花的钻石",
+        "v_string": "100"
+    },
+    {
+        "k": "CHAT_OPEN_LV",
+        "remark": "聊天系统开放等级",
+        "v_string": "20"
+    },
+    {
+        "k": "CHOICE_NINJA_FIGHT_HERO_IDS",
+        "remark": "忍者争霸战敌人npc英雄列表",
+        "v_string": "10010,10020,10030,10040,10050,10060,10070,10080,10090,10100,10110,10120,10130,10140,10160,10170,10180,10190,10200,10210,10220,10230,10240,10250,10260,10270,10280,10290,10320,10330,10370,10390,10400,10150,10300,10310,10340,10350,10360,10380,10410,10420,10430,10440,10450,10460"
+    },
+    {
+        "k": "CREATE_GROUP_STONE",
+        "remark": "创建工会的花费",
+        "v_string": "1000"
+    },
+    {
+        "k": "CS_ARENA_CD_COST_STONE",
+        "remark": "跨服单人清除cd的砖石",
+        "v_string": "50"
+    },
+    {
+        "k": "CS_ARENA_OPEN_LV",
+        "remark": "单人跨服开放等级",
+        "v_string": "60"
+    },
+    {
+        "k": "CS_DARK_ARENA_CD_COST_STONE",
+        "remark": "清除跨服影竞技场cd钻石",
+        "v_string": "100"
+    },
+    {
+        "k": "CS_DARK_ARENA_MAX_POINT",
+        "remark": "跨服竞技场最大累积点数",
+        "v_string": "1000000"
+    },
+    {
+        "k": "CS_DARK_ARENA_OPEN_LV",
+        "remark": "跨服竞技场开放等级",
+        "v_string": "60"
+    },
+    {
+        "k": "DARK_ARENA_CD_COST_STONE",
+        "remark": "清除影竞技场cd钻石",
+        "v_string": "50"
+    },
+    {
+        "k": "DARK_ARENA_OPEN_LV",
+        "remark": "影竞技场开放等级",
+        "v_string": "52"
+    },
+    {
+        "k": "DIFF_2_OPEN_LV",
+        "remark": "精英难度开放等级",
+        "v_string": "5"
+    },
+    {
+        "k": "DIFF_3_OPEN_LV",
+        "remark": "英雄难度开放等级",
+        "v_string": "10"
+    },
+    {
+        "k": "FACEBOOK_GROUP_URL",
+        "remark": "FaceBook Page Url",
+        "v_string": "https://www.facebook.com/groups/NinjaRebirth/"
+    },
+    {
+        "k": "FACEBOOK_PAGE_URL",
+        "remark": "FaceBook Group Url",
+        "v_string": "https://www.facebook.com/NinjaRebirth/"
+    },
+    {
+        "k": "FIRE_PER_MINUTE_GOLD",
+        "remark": "派驻佣兵每分钟金币",
+        "v_string": "50"
+    },
+    {
+        "k": "FIRST_BRONZE_BOX_ID",
+        "remark": "第一次打开的免费青铜宝箱id",
+        "v_string": "50013"
+    },
+    {
+        "k": "FIRST_GOLD_BOX_ID",
+        "remark": "第一次打开的免费黄金宝箱id",
+        "v_string": "50023"
+    },
+    {
+        "k": "FIRST_NONE_FREE_BRONZE_BOX_ID",
+        "remark": "第一次打开的收费青铜宝箱id",
+        "v_string": "50014"
+    },
+    {
+        "k": "FIRST_NONE_FREE_GOLD_BOX_ID",
+        "remark": "第一次打开的收费黄金宝箱id",
+        "v_string": "50024"
+    },
+    {
+        "k": "FIRST_RECHARGE_ID",
+        "remark": "首充宝箱id",
+        "v_string": "50041"
+    },
+    {
+        "k": "FIRST_TEN_GOLD_BOX_IDS",
+        "remark": "黄金宝箱十连抽 第一个九次第二个一次",
+        "v_string": "50025,50026"
+    },
+    {
+        "k": "FIVE_STAR_BOX_ID",
+        "remark": "五星好评礼包",
+        "v_string": "50071"
+    },
+    {
+        "k": "FRIEND_OPEN_LV",
+        "remark": "友情系统开放等级",
+        "v_string": "1"
+    },
+    {
+        "k": "GEM_OPEN_LV",
+        "remark": "宝石系统开启等级",
+        "v_string": "80"
+    },
+    {
+        "k": "GOLD_CARD_USER_BRONZE_FREE_COUNT",
+        "remark": "黄金月卡每日免费青铜宝箱次数",
+        "v_string": "7"
+    },
+    {
+        "k": "GOLD_FREE_TIME",
+        "remark": "黄金宝箱免费抽取间隔时间(秒)",
+        "v_string": "172800"
+    },
+    {
+        "k": "GOLD_TEN_DISCOUNT",
+        "remark": "黄金宝箱10连抽折扣",
+        "v_string": "0.9"
+    },
+    {
+        "k": "GOODS_3001_DAILT_BUY_COUNT",
+        "remark": "物品3001每日购买次数",
+        "v_string": "0"
+    },
+    {
+        "k": "GOODS_3001_EXTRA_BOX_ID",
+        "remark": "物品3001每日额外赠送宝箱id",
+        "v_string": "50081"
+    },
+    {
+        "k": "GROUP_BOSS_EXTEND_DAY",
+        "remark": "会长不上线几天以上，那么点击的人就变为会长",
+        "v_string": "15"
+    },
+    {
+        "k": "GROUP_FIGHT_ATK_COUNT",
+        "remark": "公会战职位可以打的次数. 会长,长老,暗部,普通会员",
+        "v_string": "4,4,4,2"
+    },
+    {
+        "k": "GROUP_FIGHT_BASE_GOLD",
+        "remark": "公会战参加最少可以获得的金币",
+        "v_string": "5000"
+    },
+    {
+        "k": "GROUP_FIGHT_BASE_GROUP_FIGHT",
+        "remark": "公会战参加最少可以获得的贡献",
+        "v_string": "30"
+    },
+    {
+        "k": "GROUP_FIGHT_FIGHT_POWER_LIST",
+        "remark": "公会战战力参数 会长，长老，暗部，成员",
+        "v_string": "10,5,2,1"
+    },
+    {
+        "k": "GROUP_FIGHT_MIN_NIUM",
+        "remark": "公会战每个工会的成员最小数量",
+        "v_string": "15"
+    },
+    {
+        "k": "GROUP_FIGHT_NOT_MATCH_GOLD",
+        "remark": "公会战匹配失败获得金币",
+        "v_string": "500000"
+    },
+    {
+        "k": "GROUP_FIGHT_NOT_MATCH_GROUP_POINT",
+        "remark": "公会战未匹配补偿",
+        "v_string": "200"
+    },
+    {
+        "k": "GROUP_FIGHT_PER_ATK_GOLD",
+        "remark": "公会战每发动一次进攻获得的金币",
+        "v_string": "3000"
+    },
+    {
+        "k": "GROUP_FIGHT_PER_ATK_GROUP_POINT",
+        "remark": "公会战每发动一次进攻获得的帮贡",
+        "v_string": "10"
+    },
+    {
+        "k": "GROUP_FIGHT_PER_STAR_GOLD",
+        "remark": "公会战每颗星获得的金币",
+        "v_string": "1000"
+    },
+    {
+        "k": "GROUP_FIGHT_PER_STAR_GROUP_POINT",
+        "remark": "公会战每颗星获得的帮派贡献",
+        "v_string": "5"
+    },
+    {
+        "k": "GROUP_FIGHT_RESOURCE",
+        "remark": "工会战消耗物资",
+        "v_string": "5000"
+    },
+    {
+        "k": "GROUP_FIGHT_WIN_MILIT",
+        "remark": "公会战胜利奖励翻倍的倍数",
+        "v_string": "3"
+    },
+    {
+        "k": "GROUP_HIRE_CD_MINUTE",
+        "remark": "工会佣兵派遣间隔",
+        "v_string": "30"
+    },
+    {
+        "k": "GROUP_OPEN_LV",
+        "remark": "工会开放等级",
+        "v_string": "30"
+    },
+    {
+        "k": "HERO2SOUL",
+        "remark": "获得同名伙伴转换成的魂魄数",
+        "v_string": "10"
+    },
+    {
+        "k": "HERO_LIMIT_MUYE",
+        "remark": "英雄限制-木叶",
+        "v_string": "10010,10020,10030,10040,10050,10070,10080,10100,10130,10180,10200,10210,10220,10230,10250,10270,10300,10390,10400,10410,10420,10460,10470,10540,10550,10610,10620,10640,10650,10740,10750,10760,10790,10810"
+    },
+    {
+        "k": "HERO_LIMIT_OTHER",
+        "remark": "英雄限制-其他忍村",
+        "v_string": "10060,10090,10170,10190,10240,10260,10430,10440,10450,10480,10490,10500,10510,10530,10600,10630,10670,10680,10690,10770,10820,10830"
+    },
+    {
+        "k": "HERO_LIMIT_XIAO",
+        "remark": "英雄限制-晓和其他组织",
+        "v_string": "10110,10120,10140,10150,10160,10280,10290,10310,10320,10330,10340,10350,10360,10370,10380,10520,10560,10570,10590,10660,10700,10710,10720,10730,10780,10800"
+    },
+    {
+        "k": "HERO_UPGRADE_LIMIT",
+        "remark": "伙伴等级低于小队等级仍可获得经验",
+        "v_string": "10"
+    },
+    {
+        "k": "INIT_EQUIPS",
+        "remark": "创建角色给的忍术",
+        "v_string": "20001,20002,20003,20004,20005,20008"
+    },
+    {
+        "k": "INIT_GOLD",
+        "remark": "初始给的金币",
+        "v_string": "1000000"
+    },
+    {
+        "k": "INIT_HEROS",
+        "remark": "初始人物",
+        "v_string": "10070"
+    },
+    {
+        "k": "INIT_ITEMS",
+        "remark": "创建角色给的道具",
+        "v_string": ""
+    },
+    {
+        "k": "INIT_STONE",
+        "remark": "初始给的钻石",
+        "v_string": "10000"
+    },
+    {
+        "k": "INIT_VIP",
+        "remark": "初始vip",
+        "v_string": "8"
+    },
+    {
+        "k": "INTERVAL_SP",
+        "remark": "体力回复时间(秒)",
+        "v_string": "60"
+    },
+    {
+        "k": "LIUDAO_SHOP_OPEN_LV",
+        "remark": "六道商人系统开放等级",
+        "v_string": "30"
+    },
+    {
+        "k": "MONEY_2_GOLD",
+        "remark": "货币和钻石的转化率",
+        "v_string": "1000"
+    },
+    {
+        "k": "MONTH_CARD_EXTRA_STONE",
+        "remark": "配置月卡给的钻石数量",
+        "v_string": "600"
+    },
+    {
+        "k": "MONTH_CARD_FOREVER_EXTRA_STONE",
+        "remark": "配置永久卡额外的钻石数量",
+        "v_string": "3000"
+    },
+    {
+        "k": "MYSTERY_SHOP_OPEN_LV",
+        "remark": "神秘商店开发等级",
+        "v_string": "15"
+    },
+    {
+        "k": "MYSTER_BOX_IDS",
+        "remark": "神秘宝箱每日宝箱（从星期天开始）抽一次",
+        "v_string": "50031,50032,50033,50034,50035,50036,50037"
+    },
+    {
+        "k": "MYSTER_ID",
+        "remark": "神秘宝箱id抽五次",
+        "v_string": "50038"
+    },
+    {
+        "k": "NINJA_FIGHT_OPEN_LV",
+        "remark": "忍者争霸战开放等级",
+        "v_string": "30"
+    },
+    {
+        "k": "NOEND_TOWER_EXTRA_BONUS",
+        "remark": "无尽之塔每20层额外奖励",
+        "v_string": "100000"
+    },
+    {
+        "k": "NORMAL_BRONZE_ID",
+        "remark": "普通青铜宝箱id",
+        "v_string": "50011"
+    },
+    {
+        "k": "NORMAL_GOLD_ID",
+        "remark": "普通黄金宝箱id",
+        "v_string": "50021"
+    },
+    {
+        "k": "PER_SP_ADD",
+        "remark": "每次体力回复增加的数量",
+        "v_string": "1"
+    },
+    {
+        "k": "RENZHE_SHILIAN_OPEN_LV",
+        "remark": "忍者试炼开放等级",
+        "v_string": "25"
+    },
+    {
+        "k": "SCHOOL_NOT_FIGHT_VIP_LV",
+        "remark": "忍者训练可以跳过训练的vip等级",
+        "v_string": "3"
+    },
+    {
+        "k": "SCHOOL_OPEN_LV",
+        "remark": "忍者学院开放等级",
+        "v_string": "52"
+    },
+    {
+        "k": "SCHOOL_SWEEP_NEED_VIP",
+        "remark": "忍者学院一键完成需要的vip等级",
+        "v_string": "0"
+    },
+    {
+        "k": "SHOULIE_OPEN_LV",
+        "remark": "狩猎森林开放等级",
+        "v_string": "14"
+    },
+    {
+        "k": "SOUL_MYSTER_ID",
+        "remark": "魂魄宝箱的id",
+        "v_string": "50101"
+    },
+    {
+        "k": "SOUL_MYSTER_ID_EXTRA",
+        "remark": "魂魄兑换附加宝箱",
+        "v_string": "50102"
+    },
+    {
+        "k": "SWEEP_NINJA_COST_ITEM_ID",
+        "remark": "忍界争霸扫荡消耗道具ID",
+        "v_string": "40010"
+    },
+    {
+        "k": "SWEEP_NINJA_COST_ITEM_NUM",
+        "remark": "忍界争霸扫荡消耗道具数量",
+        "v_string": "5"
+    },
+    {
+        "k": "SWEEP_NINJA_COST_STONE_NUM",
+        "remark": "忍界争霸扫荡消耗钻石数量",
+        "v_string": "50"
+    },
+    {
+        "k": "SWEEP_SPECIAL_COST_ITEM_ID",
+        "remark": "日常副本扫荡消耗道具ID",
+        "v_string": "40010"
+    },
+    {
+        "k": "SWEEP_SPECIAL_COST_ITEM_NUM",
+        "remark": "日常副本扫荡消耗道具数量",
+        "v_string": "10"
+    },
+    {
+        "k": "SWEEP_SPECIAL_COST_STONE_NUM",
+        "remark": "日常副本扫荡消耗钻石数量",
+        "v_string": "100"
+    },
+    {
+        "k": "SWEEP_VIP_MULTI",
+        "remark": "扫荡券倍数",
+        "v_string": "10"
+    },
+    {
+        "k": "TASK_GOLD_REFRESH_COST",
+        "remark": "金币刷新消耗",
+        "v_string": "50000"
+    },
+    {
+        "k": "TASK_GOLD_REFRESH_PER_DAY_COUNT",
+        "remark": "金币刷新每日刷新次数",
+        "v_string": "20"
+    },
+    {
+        "k": "TASK_OPEN_LV",
+        "remark": "任务系统开放等级",
+        "v_string": "40"
+    },
+    {
+        "k": "TASK_SEEEP_STONE_COST",
+        "remark": "任务一键完成消耗钻石",
+        "v_string": "50"
+    },
+    {
+        "k": "TASK_STONE_REFRESH_COST",
+        "remark": "钻石刷新消耗",
+        "v_string": "30"
+    },
+    {
+        "k": "TASK_STONE_REFRESH_VIP_LIMIT",
+        "remark": "钻石刷新vip最小等级限制",
+        "v_string": "5"
+    },
+    {
+        "k": "TASK_SWEEP_VIP_LIMIT",
+        "remark": "任务一键完成vip最小等级",
+        "v_string": "7"
+    },
+    {
+        "k": "THREE_STAR_GOLD_MUTLI",
+        "remark": "普通关卡三星通关获取的金币倍数",
+        "v_string": "3"
+    },
+    {
+        "k": "TOWER_BOX_1_STONE",
+        "remark": "失落之塔开宝箱价格第1次",
+        "v_string": "0"
+    },
+    {
+        "k": "TOWER_BOX_2_STONE",
+        "remark": "失落之塔开宝箱价格第2次",
+        "v_string": "100"
+    },
+    {
+        "k": "TOWER_BOX_3_STONE",
+        "remark": "失落之塔开宝箱价格第3次",
+        "v_string": "150"
+    },
+    {
+        "k": "TOWER_BOX_4_STONE",
+        "remark": "失落之塔开宝箱价格第4次",
+        "v_string": "200"
+    },
+    {
+        "k": "TOWER_OPEN_LV",
+        "remark": "失落之塔开放等级",
+        "v_string": "60"
+    },
+    {
+        "k": "TREASURE_FULL_HORE",
+        "remark": "宝藏开启完成的小时数",
+        "v_string": "4"
+    },
+    {
+        "k": "TREASURE_OPEN_LV",
+        "remark": "忍者据点开放等级",
+        "v_string": "30"
+    },
+    {
+        "k": "TREASURE_PORTECT_HOUR",
+        "remark": "宝藏的保护时间(小时)",
+        "v_string": "2"
+    },
+    {
+        "k": "VIP_11_BOX",
+        "remark": "VIP11礼包",
+        "v_string": "50071"
+    },
+    {
+        "k": "VIP_13_BOX",
+        "remark": "VIP13礼包",
+        "v_string": "50091"
+    },
+    {
+        "k": "VIP_5_BOX",
+        "remark": "VIP5礼包",
+        "v_string": "50051"
+    },
+    {
+        "k": "VIP_9_BOX",
+        "remark": "VIP9礼包",
+        "v_string": "50061"
+    },
+    {
+        "k": "WAR_OPEN_LV",
+        "remark": "忍界大战开放等级",
+        "v_string": "70"
+    },
+    {
+        "k": "WHITE_GOLD_CAED_GOLD_BOX_FREE_CD",
+        "remark": "白金月卡用户免费黄金宝箱cd（秒）",
+        "v_string": "129600"
+    },
+    {
+        "k": "WORLD_CHAT_FREE_COUNT",
+        "remark": "世界聊天每日免费次数",
+        "v_string": "0"
+    },
+    {
+        "k": "WORSHIP_FREE_GOLD",
+        "remark": "被免费膜拜获得的金币",
+        "v_string": "1000"
+    },
+    {
+        "k": "WORSHIP_FREE_SP",
+        "remark": "免费膜拜获得的体力",
+        "v_string": "15"
+    },
+    {
+        "k": "WORSHIP_GOLD_COST",
+        "remark": "金币膜拜消耗的金币",
+        "v_string": "3000"
+    },
+    {
+        "k": "WORSHIP_GOLD_GOLD",
+        "remark": "被金币膜拜获得的金币",
+        "v_string": "3000"
+    },
+    {
+        "k": "WORSHIP_GOLD_SP",
+        "remark": "金币膜拜获得的体力",
+        "v_string": "30"
+    },
+    {
+        "k": "WORSHIP_STONE_COST",
+        "remark": "钻石膜拜消耗的钻石",
+        "v_string": "100"
+    },
+    {
+        "k": "WORSHIP_STONE_GOLD",
+        "remark": "被钻石膜拜获得的金币",
+        "v_string": "10000"
+    },
+    {
+        "k": "WORSHIP_STONE_SP",
+        "remark": "钻石膜拜获得的体力",
+        "v_string": "100"
+    }
+]

@@ -1,0 +1,2477 @@
+[
+    {
+        "price": 500,
+        "quality": 1,
+        "level": 1
+    },
+    {
+        "price": 1000,
+        "quality": 2,
+        "level": 1
+    },
+    {
+        "price": 10500,
+        "quality": 3,
+        "level": 1
+    },
+    {
+        "price": 22000,
+        "quality": 4,
+        "level": 1
+    },
+    {
+        "price": 48000,
+        "quality": 5,
+        "level": 1
+    },
+    {
+        "price": 1000,
+        "quality": 1,
+        "level": 2
+    },
+    {
+        "price": 1500,
+        "quality": 2,
+        "level": 2
+    },
+    {
+        "price": 11025,
+        "quality": 3,
+        "level": 2
+    },
+    {
+        "price": 23100,
+        "quality": 4,
+        "level": 2
+    },
+    {
+        "price": 50400,
+        "quality": 5,
+        "level": 2
+    },
+    {
+        "price": 1500,
+        "quality": 1,
+        "level": 3
+    },
+    {
+        "price": 2000,
+        "quality": 2,
+        "level": 3
+    },
+    {
+        "price": 11550,
+        "quality": 3,
+        "level": 3
+    },
+    {
+        "price": 24200,
+        "quality": 4,
+        "level": 3
+    },
+    {
+        "price": 52800,
+        "quality": 5,
+        "level": 3
+    },
+    {
+        "price": 2000,
+        "quality": 1,
+        "level": 4
+    },
+    {
+        "price": 2500,
+        "quality": 2,
+        "level": 4
+    },
+    {
+        "price": 12075,
+        "quality": 3,
+        "level": 4
+    },
+    {
+        "price": 25300,
+        "quality": 4,
+        "level": 4
+    },
+    {
+        "price": 55200,
+        "quality": 5,
+        "level": 4
+    },
+    {
+        "price": 2500,
+        "quality": 1,
+        "level": 5
+    },
+    {
+        "price": 3000,
+        "quality": 2,
+        "level": 5
+    },
+    {
+        "price": 12600,
+        "quality": 3,
+        "level": 5
+    },
+    {
+        "price": 26400,
+        "quality": 4,
+        "level": 5
+    },
+    {
+        "price": 57600,
+        "quality": 5,
+        "level": 5
+    },
+    {
+        "price": 3000,
+        "quality": 1,
+        "level": 6
+    },
+    {
+        "price": 3500,
+        "quality": 2,
+        "level": 6
+    },
+    {
+        "price": 13125,
+        "quality": 3,
+        "level": 6
+    },
+    {
+        "price": 27500,
+        "quality": 4,
+        "level": 6
+    },
+    {
+        "price": 60000,
+        "quality": 5,
+        "level": 6
+    },
+    {
+        "price": 3500,
+        "quality": 1,
+        "level": 7
+    },
+    {
+        "price": 4000,
+        "quality": 2,
+        "level": 7
+    },
+    {
+        "price": 13650,
+        "quality": 3,
+        "level": 7
+    },
+    {
+        "price": 28600,
+        "quality": 4,
+        "level": 7
+    },
+    {
+        "price": 62400,
+        "quality": 5,
+        "level": 7
+    },
+    {
+        "price": 4000,
+        "quality": 1,
+        "level": 8
+    },
+    {
+        "price": 4500,
+        "quality": 2,
+        "level": 8
+    },
+    {
+        "price": 14175,
+        "quality": 3,
+        "level": 8
+    },
+    {
+        "price": 29700,
+        "quality": 4,
+        "level": 8
+    },
+    {
+        "price": 64800,
+        "quality": 5,
+        "level": 8
+    },
+    {
+        "price": 4500,
+        "quality": 1,
+        "level": 9
+    },
+    {
+        "price": 5000,
+        "quality": 2,
+        "level": 9
+    },
+    {
+        "price": 14700,
+        "quality": 3,
+        "level": 9
+    },
+    {
+        "price": 30800,
+        "quality": 4,
+        "level": 9
+    },
+    {
+        "price": 67200,
+        "quality": 5,
+        "level": 9
+    },
+    {
+        "price": 5000,
+        "quality": 1,
+        "level": 10
+    },
+    {
+        "price": 5500,
+        "quality": 2,
+        "level": 10
+    },
+    {
+        "price": 15225,
+        "quality": 3,
+        "level": 10
+    },
+    {
+        "price": 31900,
+        "quality": 4,
+        "level": 10
+    },
+    {
+        "price": 69600,
+        "quality": 5,
+        "level": 10
+    },
+    {
+        "price": 5500,
+        "quality": 1,
+        "level": 11
+    },
+    {
+        "price": 6000,
+        "quality": 2,
+        "level": 11
+    },
+    {
+        "price": 15750,
+        "quality": 3,
+        "level": 11
+    },
+    {
+        "price": 33000,
+        "quality": 4,
+        "level": 11
+    },
+    {
+        "price": 72000,
+        "quality": 5,
+        "level": 11
+    },
+    {
+        "price": 6000,
+        "quality": 1,
+        "level": 12
+    },
+    {
+        "price": 6500,
+        "quality": 2,
+        "level": 12
+    },
+    {
+        "price": 16275,
+        "quality": 3,
+        "level": 12
+    },
+    {
+        "price": 34100,
+        "quality": 4,
+        "level": 12
+    },
+    {
+        "price": 74400,
+        "quality": 5,
+        "level": 12
+    },
+    {
+        "price": 6500,
+        "quality": 1,
+        "level": 13
+    },
+    {
+        "price": 7000,
+        "quality": 2,
+        "level": 13
+    },
+    {
+        "price": 16800,
+        "quality": 3,
+        "level": 13
+    },
+    {
+        "price": 35200,
+        "quality": 4,
+        "level": 13
+    },
+    {
+        "price": 76800,
+        "quality": 5,
+        "level": 13
+    },
+    {
+        "price": 7000,
+        "quality": 1,
+        "level": 14
+    },
+    {
+        "price": 7500,
+        "quality": 2,
+        "level": 14
+    },
+    {
+        "price": 17325,
+        "quality": 3,
+        "level": 14
+    },
+    {
+        "price": 36300,
+        "quality": 4,
+        "level": 14
+    },
+    {
+        "price": 79200,
+        "quality": 5,
+        "level": 14
+    },
+    {
+        "price": 7500,
+        "quality": 1,
+        "level": 15
+    },
+    {
+        "price": 8000,
+        "quality": 2,
+        "level": 15
+    },
+    {
+        "price": 17850,
+        "quality": 3,
+        "level": 15
+    },
+    {
+        "price": 37400,
+        "quality": 4,
+        "level": 15
+    },
+    {
+        "price": 81600,
+        "quality": 5,
+        "level": 15
+    },
+    {
+        "price": 8000,
+        "quality": 1,
+        "level": 16
+    },
+    {
+        "price": 8500,
+        "quality": 2,
+        "level": 16
+    },
+    {
+        "price": 18375,
+        "quality": 3,
+        "level": 16
+    },
+    {
+        "price": 38500,
+        "quality": 4,
+        "level": 16
+    },
+    {
+        "price": 84000,
+        "quality": 5,
+        "level": 16
+    },
+    {
+        "price": 8500,
+        "quality": 1,
+        "level": 17
+    },
+    {
+        "price": 9000,
+        "quality": 2,
+        "level": 17
+    },
+    {
+        "price": 18900,
+        "quality": 3,
+        "level": 17
+    },
+    {
+        "price": 39600,
+        "quality": 4,
+        "level": 17
+    },
+    {
+        "price": 86400,
+        "quality": 5,
+        "level": 17
+    },
+    {
+        "price": 9000,
+        "quality": 1,
+        "level": 18
+    },
+    {
+        "price": 9500,
+        "quality": 2,
+        "level": 18
+    },
+    {
+        "price": 19425,
+        "quality": 3,
+        "level": 18
+    },
+    {
+        "price": 40700,
+        "quality": 4,
+        "level": 18
+    },
+    {
+        "price": 88800,
+        "quality": 5,
+        "level": 18
+    },
+    {
+        "price": 9500,
+        "quality": 1,
+        "level": 19
+    },
+    {
+        "price": 10000,
+        "quality": 2,
+        "level": 19
+    },
+    {
+        "price": 19950,
+        "quality": 3,
+        "level": 19
+    },
+    {
+        "price": 41800,
+        "quality": 4,
+        "level": 19
+    },
+    {
+        "price": 91200,
+        "quality": 5,
+        "level": 19
+    },
+    {
+        "price": 10000,
+        "quality": 1,
+        "level": 20
+    },
+    {
+        "price": 10500,
+        "quality": 2,
+        "level": 20
+    },
+    {
+        "price": 20475,
+        "quality": 3,
+        "level": 20
+    },
+    {
+        "price": 42900,
+        "quality": 4,
+        "level": 20
+    },
+    {
+        "price": 93600,
+        "quality": 5,
+        "level": 20
+    },
+    {
+        "price": 10500,
+        "quality": 1,
+        "level": 21
+    },
+    {
+        "price": 11000,
+        "quality": 2,
+        "level": 21
+    },
+    {
+        "price": 21000,
+        "quality": 3,
+        "level": 21
+    },
+    {
+        "price": 44000,
+        "quality": 4,
+        "level": 21
+    },
+    {
+        "price": 96000,
+        "quality": 5,
+        "level": 21
+    },
+    {
+        "price": 11000,
+        "quality": 1,
+        "level": 22
+    },
+    {
+        "price": 11500,
+        "quality": 2,
+        "level": 22
+    },
+    {
+        "price": 21525,
+        "quality": 3,
+        "level": 22
+    },
+    {
+        "price": 45100,
+        "quality": 4,
+        "level": 22
+    },
+    {
+        "price": 98400,
+        "quality": 5,
+        "level": 22
+    },
+    {
+        "price": 11500,
+        "quality": 1,
+        "level": 23
+    },
+    {
+        "price": 12000,
+        "quality": 2,
+        "level": 23
+    },
+    {
+        "price": 22050,
+        "quality": 3,
+        "level": 23
+    },
+    {
+        "price": 46200,
+        "quality": 4,
+        "level": 23
+    },
+    {
+        "price": 100800,
+        "quality": 5,
+        "level": 23
+    },
+    {
+        "price": 12000,
+        "quality": 1,
+        "level": 24
+    },
+    {
+        "price": 12500,
+        "quality": 2,
+        "level": 24
+    },
+    {
+        "price": 22575,
+        "quality": 3,
+        "level": 24
+    },
+    {
+        "price": 47300,
+        "quality": 4,
+        "level": 24
+    },
+    {
+        "price": 103200,
+        "quality": 5,
+        "level": 24
+    },
+    {
+        "price": 12500,
+        "quality": 1,
+        "level": 25
+    },
+    {
+        "price": 13000,
+        "quality": 2,
+        "level": 25
+    },
+    {
+        "price": 23100,
+        "quality": 3,
+        "level": 25
+    },
+    {
+        "price": 48400,
+        "quality": 4,
+        "level": 25
+    },
+    {
+        "price": 105600,
+        "quality": 5,
+        "level": 25
+    },
+    {
+        "price": 13000,
+        "quality": 1,
+        "level": 26
+    },
+    {
+        "price": 13500,
+        "quality": 2,
+        "level": 26
+    },
+    {
+        "price": 23625,
+        "quality": 3,
+        "level": 26
+    },
+    {
+        "price": 49500,
+        "quality": 4,
+        "level": 26
+    },
+    {
+        "price": 108000,
+        "quality": 5,
+        "level": 26
+    },
+    {
+        "price": 13500,
+        "quality": 1,
+        "level": 27
+    },
+    {
+        "price": 14000,
+        "quality": 2,
+        "level": 27
+    },
+    {
+        "price": 24150,
+        "quality": 3,
+        "level": 27
+    },
+    {
+        "price": 50600,
+        "quality": 4,
+        "level": 27
+    },
+    {
+        "price": 110400,
+        "quality": 5,
+        "level": 27
+    },
+    {
+        "price": 14000,
+        "quality": 1,
+        "level": 28
+    },
+    {
+        "price": 14500,
+        "quality": 2,
+        "level": 28
+    },
+    {
+        "price": 24675,
+        "quality": 3,
+        "level": 28
+    },
+    {
+        "price": 51700,
+        "quality": 4,
+        "level": 28
+    },
+    {
+        "price": 112800,
+        "quality": 5,
+        "level": 28
+    },
+    {
+        "price": 14500,
+        "quality": 1,
+        "level": 29
+    },
+    {
+        "price": 15000,
+        "quality": 2,
+        "level": 29
+    },
+    {
+        "price": 25200,
+        "quality": 3,
+        "level": 29
+    },
+    {
+        "price": 52800,
+        "quality": 4,
+        "level": 29
+    },
+    {
+        "price": 115200,
+        "quality": 5,
+        "level": 29
+    },
+    {
+        "price": 15000,
+        "quality": 1,
+        "level": 30
+    },
+    {
+        "price": 15500,
+        "quality": 2,
+        "level": 30
+    },
+    {
+        "price": 25725,
+        "quality": 3,
+        "level": 30
+    },
+    {
+        "price": 53900,
+        "quality": 4,
+        "level": 30
+    },
+    {
+        "price": 117600,
+        "quality": 5,
+        "level": 30
+    },
+    {
+        "price": 15500,
+        "quality": 1,
+        "level": 31
+    },
+    {
+        "price": 16000,
+        "quality": 2,
+        "level": 31
+    },
+    {
+        "price": 26250,
+        "quality": 3,
+        "level": 31
+    },
+    {
+        "price": 55000,
+        "quality": 4,
+        "level": 31
+    },
+    {
+        "price": 120000,
+        "quality": 5,
+        "level": 31
+    },
+    {
+        "price": 16000,
+        "quality": 1,
+        "level": 32
+    },
+    {
+        "price": 16500,
+        "quality": 2,
+        "level": 32
+    },
+    {
+        "price": 26775,
+        "quality": 3,
+        "level": 32
+    },
+    {
+        "price": 56100,
+        "quality": 4,
+        "level": 32
+    },
+    {
+        "price": 122400,
+        "quality": 5,
+        "level": 32
+    },
+    {
+        "price": 16500,
+        "quality": 1,
+        "level": 33
+    },
+    {
+        "price": 17000,
+        "quality": 2,
+        "level": 33
+    },
+    {
+        "price": 27300,
+        "quality": 3,
+        "level": 33
+    },
+    {
+        "price": 57200,
+        "quality": 4,
+        "level": 33
+    },
+    {
+        "price": 124800,
+        "quality": 5,
+        "level": 33
+    },
+    {
+        "price": 17000,
+        "quality": 1,
+        "level": 34
+    },
+    {
+        "price": 17500,
+        "quality": 2,
+        "level": 34
+    },
+    {
+        "price": 27825,
+        "quality": 3,
+        "level": 34
+    },
+    {
+        "price": 58300,
+        "quality": 4,
+        "level": 34
+    },
+    {
+        "price": 127200,
+        "quality": 5,
+        "level": 34
+    },
+    {
+        "price": 17500,
+        "quality": 1,
+        "level": 35
+    },
+    {
+        "price": 18000,
+        "quality": 2,
+        "level": 35
+    },
+    {
+        "price": 28350,
+        "quality": 3,
+        "level": 35
+    },
+    {
+        "price": 59400,
+        "quality": 4,
+        "level": 35
+    },
+    {
+        "price": 129600,
+        "quality": 5,
+        "level": 35
+    },
+    {
+        "price": 18000,
+        "quality": 1,
+        "level": 36
+    },
+    {
+        "price": 18500,
+        "quality": 2,
+        "level": 36
+    },
+    {
+        "price": 28875,
+        "quality": 3,
+        "level": 36
+    },
+    {
+        "price": 60500,
+        "quality": 4,
+        "level": 36
+    },
+    {
+        "price": 132000,
+        "quality": 5,
+        "level": 36
+    },
+    {
+        "price": 18500,
+        "quality": 1,
+        "level": 37
+    },
+    {
+        "price": 19000,
+        "quality": 2,
+        "level": 37
+    },
+    {
+        "price": 29400,
+        "quality": 3,
+        "level": 37
+    },
+    {
+        "price": 61600,
+        "quality": 4,
+        "level": 37
+    },
+    {
+        "price": 134400,
+        "quality": 5,
+        "level": 37
+    },
+    {
+        "price": 19000,
+        "quality": 1,
+        "level": 38
+    },
+    {
+        "price": 19500,
+        "quality": 2,
+        "level": 38
+    },
+    {
+        "price": 29925,
+        "quality": 3,
+        "level": 38
+    },
+    {
+        "price": 62700,
+        "quality": 4,
+        "level": 38
+    },
+    {
+        "price": 136800,
+        "quality": 5,
+        "level": 38
+    },
+    {
+        "price": 19500,
+        "quality": 1,
+        "level": 39
+    },
+    {
+        "price": 20000,
+        "quality": 2,
+        "level": 39
+    },
+    {
+        "price": 30450,
+        "quality": 3,
+        "level": 39
+    },
+    {
+        "price": 63800,
+        "quality": 4,
+        "level": 39
+    },
+    {
+        "price": 139200,
+        "quality": 5,
+        "level": 39
+    },
+    {
+        "price": 20000,
+        "quality": 1,
+        "level": 40
+    },
+    {
+        "price": 20500,
+        "quality": 2,
+        "level": 40
+    },
+    {
+        "price": 30975,
+        "quality": 3,
+        "level": 40
+    },
+    {
+        "price": 64900,
+        "quality": 4,
+        "level": 40
+    },
+    {
+        "price": 141600,
+        "quality": 5,
+        "level": 40
+    },
+    {
+        "price": 20500,
+        "quality": 1,
+        "level": 41
+    },
+    {
+        "price": 21000,
+        "quality": 2,
+        "level": 41
+    },
+    {
+        "price": 31500,
+        "quality": 3,
+        "level": 41
+    },
+    {
+        "price": 66000,
+        "quality": 4,
+        "level": 41
+    },
+    {
+        "price": 144000,
+        "quality": 5,
+        "level": 41
+    },
+    {
+        "price": 21000,
+        "quality": 1,
+        "level": 42
+    },
+    {
+        "price": 21500,
+        "quality": 2,
+        "level": 42
+    },
+    {
+        "price": 32025,
+        "quality": 3,
+        "level": 42
+    },
+    {
+        "price": 67100,
+        "quality": 4,
+        "level": 42
+    },
+    {
+        "price": 146400,
+        "quality": 5,
+        "level": 42
+    },
+    {
+        "price": 21500,
+        "quality": 1,
+        "level": 43
+    },
+    {
+        "price": 22000,
+        "quality": 2,
+        "level": 43
+    },
+    {
+        "price": 32550,
+        "quality": 3,
+        "level": 43
+    },
+    {
+        "price": 68200,
+        "quality": 4,
+        "level": 43
+    },
+    {
+        "price": 148800,
+        "quality": 5,
+        "level": 43
+    },
+    {
+        "price": 22000,
+        "quality": 1,
+        "level": 44
+    },
+    {
+        "price": 22500,
+        "quality": 2,
+        "level": 44
+    },
+    {
+        "price": 33075,
+        "quality": 3,
+        "level": 44
+    },
+    {
+        "price": 69300,
+        "quality": 4,
+        "level": 44
+    },
+    {
+        "price": 151200,
+        "quality": 5,
+        "level": 44
+    },
+    {
+        "price": 22500,
+        "quality": 1,
+        "level": 45
+    },
+    {
+        "price": 23000,
+        "quality": 2,
+        "level": 45
+    },
+    {
+        "price": 33600,
+        "quality": 3,
+        "level": 45
+    },
+    {
+        "price": 70400,
+        "quality": 4,
+        "level": 45
+    },
+    {
+        "price": 153600,
+        "quality": 5,
+        "level": 45
+    },
+    {
+        "price": 23000,
+        "quality": 1,
+        "level": 46
+    },
+    {
+        "price": 23500,
+        "quality": 2,
+        "level": 46
+    },
+    {
+        "price": 34125,
+        "quality": 3,
+        "level": 46
+    },
+    {
+        "price": 71500,
+        "quality": 4,
+        "level": 46
+    },
+    {
+        "price": 156000,
+        "quality": 5,
+        "level": 46
+    },
+    {
+        "price": 23500,
+        "quality": 1,
+        "level": 47
+    },
+    {
+        "price": 24000,
+        "quality": 2,
+        "level": 47
+    },
+    {
+        "price": 34650,
+        "quality": 3,
+        "level": 47
+    },
+    {
+        "price": 72600,
+        "quality": 4,
+        "level": 47
+    },
+    {
+        "price": 158400,
+        "quality": 5,
+        "level": 47
+    },
+    {
+        "price": 24000,
+        "quality": 1,
+        "level": 48
+    },
+    {
+        "price": 24500,
+        "quality": 2,
+        "level": 48
+    },
+    {
+        "price": 35175,
+        "quality": 3,
+        "level": 48
+    },
+    {
+        "price": 73700,
+        "quality": 4,
+        "level": 48
+    },
+    {
+        "price": 160800,
+        "quality": 5,
+        "level": 48
+    },
+    {
+        "price": 24500,
+        "quality": 1,
+        "level": 49
+    },
+    {
+        "price": 25000,
+        "quality": 2,
+        "level": 49
+    },
+    {
+        "price": 35700,
+        "quality": 3,
+        "level": 49
+    },
+    {
+        "price": 74800,
+        "quality": 4,
+        "level": 49
+    },
+    {
+        "price": 163200,
+        "quality": 5,
+        "level": 49
+    },
+    {
+        "price": 25000,
+        "quality": 1,
+        "level": 50
+    },
+    {
+        "price": 25500,
+        "quality": 2,
+        "level": 50
+    },
+    {
+        "price": 36225,
+        "quality": 3,
+        "level": 50
+    },
+    {
+        "price": 75900,
+        "quality": 4,
+        "level": 50
+    },
+    {
+        "price": 165600,
+        "quality": 5,
+        "level": 50
+    },
+    {
+        "price": 25500,
+        "quality": 1,
+        "level": 51
+    },
+    {
+        "price": 26000,
+        "quality": 2,
+        "level": 51
+    },
+    {
+        "price": 36750,
+        "quality": 3,
+        "level": 51
+    },
+    {
+        "price": 77000,
+        "quality": 4,
+        "level": 51
+    },
+    {
+        "price": 168000,
+        "quality": 5,
+        "level": 51
+    },
+    {
+        "price": 26000,
+        "quality": 1,
+        "level": 52
+    },
+    {
+        "price": 26500,
+        "quality": 2,
+        "level": 52
+    },
+    {
+        "price": 37275,
+        "quality": 3,
+        "level": 52
+    },
+    {
+        "price": 78100,
+        "quality": 4,
+        "level": 52
+    },
+    {
+        "price": 170400,
+        "quality": 5,
+        "level": 52
+    },
+    {
+        "price": 26500,
+        "quality": 1,
+        "level": 53
+    },
+    {
+        "price": 27000,
+        "quality": 2,
+        "level": 53
+    },
+    {
+        "price": 37800,
+        "quality": 3,
+        "level": 53
+    },
+    {
+        "price": 79200,
+        "quality": 4,
+        "level": 53
+    },
+    {
+        "price": 172800,
+        "quality": 5,
+        "level": 53
+    },
+    {
+        "price": 27000,
+        "quality": 1,
+        "level": 54
+    },
+    {
+        "price": 27500,
+        "quality": 2,
+        "level": 54
+    },
+    {
+        "price": 38325,
+        "quality": 3,
+        "level": 54
+    },
+    {
+        "price": 80300,
+        "quality": 4,
+        "level": 54
+    },
+    {
+        "price": 175200,
+        "quality": 5,
+        "level": 54
+    },
+    {
+        "price": 27500,
+        "quality": 1,
+        "level": 55
+    },
+    {
+        "price": 28000,
+        "quality": 2,
+        "level": 55
+    },
+    {
+        "price": 38850,
+        "quality": 3,
+        "level": 55
+    },
+    {
+        "price": 81400,
+        "quality": 4,
+        "level": 55
+    },
+    {
+        "price": 177600,
+        "quality": 5,
+        "level": 55
+    },
+    {
+        "price": 28000,
+        "quality": 1,
+        "level": 56
+    },
+    {
+        "price": 28500,
+        "quality": 2,
+        "level": 56
+    },
+    {
+        "price": 39375,
+        "quality": 3,
+        "level": 56
+    },
+    {
+        "price": 82500,
+        "quality": 4,
+        "level": 56
+    },
+    {
+        "price": 180000,
+        "quality": 5,
+        "level": 56
+    },
+    {
+        "price": 28500,
+        "quality": 1,
+        "level": 57
+    },
+    {
+        "price": 29000,
+        "quality": 2,
+        "level": 57
+    },
+    {
+        "price": 39900,
+        "quality": 3,
+        "level": 57
+    },
+    {
+        "price": 83600,
+        "quality": 4,
+        "level": 57
+    },
+    {
+        "price": 182400,
+        "quality": 5,
+        "level": 57
+    },
+    {
+        "price": 29000,
+        "quality": 1,
+        "level": 58
+    },
+    {
+        "price": 29500,
+        "quality": 2,
+        "level": 58
+    },
+    {
+        "price": 40425,
+        "quality": 3,
+        "level": 58
+    },
+    {
+        "price": 84700,
+        "quality": 4,
+        "level": 58
+    },
+    {
+        "price": 184800,
+        "quality": 5,
+        "level": 58
+    },
+    {
+        "price": 29500,
+        "quality": 1,
+        "level": 59
+    },
+    {
+        "price": 30000,
+        "quality": 2,
+        "level": 59
+    },
+    {
+        "price": 40950,
+        "quality": 3,
+        "level": 59
+    },
+    {
+        "price": 85800,
+        "quality": 4,
+        "level": 59
+    },
+    {
+        "price": 187200,
+        "quality": 5,
+        "level": 59
+    },
+    {
+        "price": 30000,
+        "quality": 1,
+        "level": 60
+    },
+    {
+        "price": 30500,
+        "quality": 2,
+        "level": 60
+    },
+    {
+        "price": 41475,
+        "quality": 3,
+        "level": 60
+    },
+    {
+        "price": 86900,
+        "quality": 4,
+        "level": 60
+    },
+    {
+        "price": 189600,
+        "quality": 5,
+        "level": 60
+    },
+    {
+        "price": 30500,
+        "quality": 1,
+        "level": 61
+    },
+    {
+        "price": 31000,
+        "quality": 2,
+        "level": 61
+    },
+    {
+        "price": 42000,
+        "quality": 3,
+        "level": 61
+    },
+    {
+        "price": 88000,
+        "quality": 4,
+        "level": 61
+    },
+    {
+        "price": 192000,
+        "quality": 5,
+        "level": 61
+    },
+    {
+        "price": 31000,
+        "quality": 1,
+        "level": 62
+    },
+    {
+        "price": 31500,
+        "quality": 2,
+        "level": 62
+    },
+    {
+        "price": 42525,
+        "quality": 3,
+        "level": 62
+    },
+    {
+        "price": 89100,
+        "quality": 4,
+        "level": 62
+    },
+    {
+        "price": 194400,
+        "quality": 5,
+        "level": 62
+    },
+    {
+        "price": 31500,
+        "quality": 1,
+        "level": 63
+    },
+    {
+        "price": 32000,
+        "quality": 2,
+        "level": 63
+    },
+    {
+        "price": 43050,
+        "quality": 3,
+        "level": 63
+    },
+    {
+        "price": 90200,
+        "quality": 4,
+        "level": 63
+    },
+    {
+        "price": 196800,
+        "quality": 5,
+        "level": 63
+    },
+    {
+        "price": 32000,
+        "quality": 1,
+        "level": 64
+    },
+    {
+        "price": 32500,
+        "quality": 2,
+        "level": 64
+    },
+    {
+        "price": 43575,
+        "quality": 3,
+        "level": 64
+    },
+    {
+        "price": 91300,
+        "quality": 4,
+        "level": 64
+    },
+    {
+        "price": 199200,
+        "quality": 5,
+        "level": 64
+    },
+    {
+        "price": 32500,
+        "quality": 1,
+        "level": 65
+    },
+    {
+        "price": 33000,
+        "quality": 2,
+        "level": 65
+    },
+    {
+        "price": 44100,
+        "quality": 3,
+        "level": 65
+    },
+    {
+        "price": 92400,
+        "quality": 4,
+        "level": 65
+    },
+    {
+        "price": 201600,
+        "quality": 5,
+        "level": 65
+    },
+    {
+        "price": 33000,
+        "quality": 1,
+        "level": 66
+    },
+    {
+        "price": 33500,
+        "quality": 2,
+        "level": 66
+    },
+    {
+        "price": 44625,
+        "quality": 3,
+        "level": 66
+    },
+    {
+        "price": 93500,
+        "quality": 4,
+        "level": 66
+    },
+    {
+        "price": 204000,
+        "quality": 5,
+        "level": 66
+    },
+    {
+        "price": 33500,
+        "quality": 1,
+        "level": 67
+    },
+    {
+        "price": 34000,
+        "quality": 2,
+        "level": 67
+    },
+    {
+        "price": 45150,
+        "quality": 3,
+        "level": 67
+    },
+    {
+        "price": 94600,
+        "quality": 4,
+        "level": 67
+    },
+    {
+        "price": 206400,
+        "quality": 5,
+        "level": 67
+    },
+    {
+        "price": 34000,
+        "quality": 1,
+        "level": 68
+    },
+    {
+        "price": 34500,
+        "quality": 2,
+        "level": 68
+    },
+    {
+        "price": 45675,
+        "quality": 3,
+        "level": 68
+    },
+    {
+        "price": 95700,
+        "quality": 4,
+        "level": 68
+    },
+    {
+        "price": 208800,
+        "quality": 5,
+        "level": 68
+    },
+    {
+        "price": 34500,
+        "quality": 1,
+        "level": 69
+    },
+    {
+        "price": 35000,
+        "quality": 2,
+        "level": 69
+    },
+    {
+        "price": 46200,
+        "quality": 3,
+        "level": 69
+    },
+    {
+        "price": 96800,
+        "quality": 4,
+        "level": 69
+    },
+    {
+        "price": 211200,
+        "quality": 5,
+        "level": 69
+    },
+    {
+        "price": 35000,
+        "quality": 1,
+        "level": 70
+    },
+    {
+        "price": 35500,
+        "quality": 2,
+        "level": 70
+    },
+    {
+        "price": 46725,
+        "quality": 3,
+        "level": 70
+    },
+    {
+        "price": 97900,
+        "quality": 4,
+        "level": 70
+    },
+    {
+        "price": 213600,
+        "quality": 5,
+        "level": 70
+    },
+    {
+        "price": 35500,
+        "quality": 1,
+        "level": 71
+    },
+    {
+        "price": 36000,
+        "quality": 2,
+        "level": 71
+    },
+    {
+        "price": 47250,
+        "quality": 3,
+        "level": 71
+    },
+    {
+        "price": 99000,
+        "quality": 4,
+        "level": 71
+    },
+    {
+        "price": 216000,
+        "quality": 5,
+        "level": 71
+    },
+    {
+        "price": 36000,
+        "quality": 1,
+        "level": 72
+    },
+    {
+        "price": 36500,
+        "quality": 2,
+        "level": 72
+    },
+    {
+        "price": 47775,
+        "quality": 3,
+        "level": 72
+    },
+    {
+        "price": 100100,
+        "quality": 4,
+        "level": 72
+    },
+    {
+        "price": 218400,
+        "quality": 5,
+        "level": 72
+    },
+    {
+        "price": 36500,
+        "quality": 1,
+        "level": 73
+    },
+    {
+        "price": 37000,
+        "quality": 2,
+        "level": 73
+    },
+    {
+        "price": 48300,
+        "quality": 3,
+        "level": 73
+    },
+    {
+        "price": 101200,
+        "quality": 4,
+        "level": 73
+    },
+    {
+        "price": 220800,
+        "quality": 5,
+        "level": 73
+    },
+    {
+        "price": 37000,
+        "quality": 1,
+        "level": 74
+    },
+    {
+        "price": 37500,
+        "quality": 2,
+        "level": 74
+    },
+    {
+        "price": 48825,
+        "quality": 3,
+        "level": 74
+    },
+    {
+        "price": 102300,
+        "quality": 4,
+        "level": 74
+    },
+    {
+        "price": 223200,
+        "quality": 5,
+        "level": 74
+    },
+    {
+        "price": 37500,
+        "quality": 1,
+        "level": 75
+    },
+    {
+        "price": 38000,
+        "quality": 2,
+        "level": 75
+    },
+    {
+        "price": 49350,
+        "quality": 3,
+        "level": 75
+    },
+    {
+        "price": 103400,
+        "quality": 4,
+        "level": 75
+    },
+    {
+        "price": 225600,
+        "quality": 5,
+        "level": 75
+    },
+    {
+        "price": 38000,
+        "quality": 1,
+        "level": 76
+    },
+    {
+        "price": 38500,
+        "quality": 2,
+        "level": 76
+    },
+    {
+        "price": 49875,
+        "quality": 3,
+        "level": 76
+    },
+    {
+        "price": 104500,
+        "quality": 4,
+        "level": 76
+    },
+    {
+        "price": 228000,
+        "quality": 5,
+        "level": 76
+    },
+    {
+        "price": 38500,
+        "quality": 1,
+        "level": 77
+    },
+    {
+        "price": 39000,
+        "quality": 2,
+        "level": 77
+    },
+    {
+        "price": 50400,
+        "quality": 3,
+        "level": 77
+    },
+    {
+        "price": 105600,
+        "quality": 4,
+        "level": 77
+    },
+    {
+        "price": 230400,
+        "quality": 5,
+        "level": 77
+    },
+    {
+        "price": 39000,
+        "quality": 1,
+        "level": 78
+    },
+    {
+        "price": 39500,
+        "quality": 2,
+        "level": 78
+    },
+    {
+        "price": 50925,
+        "quality": 3,
+        "level": 78
+    },
+    {
+        "price": 106700,
+        "quality": 4,
+        "level": 78
+    },
+    {
+        "price": 232800,
+        "quality": 5,
+        "level": 78
+    },
+    {
+        "price": 39500,
+        "quality": 1,
+        "level": 79
+    },
+    {
+        "price": 40000,
+        "quality": 2,
+        "level": 79
+    },
+    {
+        "price": 51450,
+        "quality": 3,
+        "level": 79
+    },
+    {
+        "price": 107800,
+        "quality": 4,
+        "level": 79
+    },
+    {
+        "price": 235200,
+        "quality": 5,
+        "level": 79
+    },
+    {
+        "price": 40000,
+        "quality": 1,
+        "level": 80
+    },
+    {
+        "price": 40500,
+        "quality": 2,
+        "level": 80
+    },
+    {
+        "price": 51975,
+        "quality": 3,
+        "level": 80
+    },
+    {
+        "price": 108900,
+        "quality": 4,
+        "level": 80
+    },
+    {
+        "price": 237600,
+        "quality": 5,
+        "level": 80
+    },
+    {
+        "price": 40500,
+        "quality": 1,
+        "level": 81
+    },
+    {
+        "price": 41000,
+        "quality": 2,
+        "level": 81
+    },
+    {
+        "price": 52500,
+        "quality": 3,
+        "level": 81
+    },
+    {
+        "price": 110000,
+        "quality": 4,
+        "level": 81
+    },
+    {
+        "price": 240000,
+        "quality": 5,
+        "level": 81
+    },
+    {
+        "price": 41000,
+        "quality": 1,
+        "level": 82
+    },
+    {
+        "price": 41500,
+        "quality": 2,
+        "level": 82
+    },
+    {
+        "price": 53025,
+        "quality": 3,
+        "level": 82
+    },
+    {
+        "price": 111100,
+        "quality": 4,
+        "level": 82
+    },
+    {
+        "price": 242400,
+        "quality": 5,
+        "level": 82
+    },
+    {
+        "price": 41500,
+        "quality": 1,
+        "level": 83
+    },
+    {
+        "price": 42000,
+        "quality": 2,
+        "level": 83
+    },
+    {
+        "price": 53550,
+        "quality": 3,
+        "level": 83
+    },
+    {
+        "price": 112200,
+        "quality": 4,
+        "level": 83
+    },
+    {
+        "price": 244800,
+        "quality": 5,
+        "level": 83
+    },
+    {
+        "price": 42000,
+        "quality": 1,
+        "level": 84
+    },
+    {
+        "price": 42500,
+        "quality": 2,
+        "level": 84
+    },
+    {
+        "price": 54075,
+        "quality": 3,
+        "level": 84
+    },
+    {
+        "price": 113300,
+        "quality": 4,
+        "level": 84
+    },
+    {
+        "price": 247200,
+        "quality": 5,
+        "level": 84
+    },
+    {
+        "price": 42500,
+        "quality": 1,
+        "level": 85
+    },
+    {
+        "price": 43000,
+        "quality": 2,
+        "level": 85
+    },
+    {
+        "price": 54600,
+        "quality": 3,
+        "level": 85
+    },
+    {
+        "price": 114400,
+        "quality": 4,
+        "level": 85
+    },
+    {
+        "price": 249600,
+        "quality": 5,
+        "level": 85
+    },
+    {
+        "price": 43000,
+        "quality": 1,
+        "level": 86
+    },
+    {
+        "price": 43500,
+        "quality": 2,
+        "level": 86
+    },
+    {
+        "price": 55125,
+        "quality": 3,
+        "level": 86
+    },
+    {
+        "price": 115500,
+        "quality": 4,
+        "level": 86
+    },
+    {
+        "price": 252000,
+        "quality": 5,
+        "level": 86
+    },
+    {
+        "price": 43500,
+        "quality": 1,
+        "level": 87
+    },
+    {
+        "price": 44000,
+        "quality": 2,
+        "level": 87
+    },
+    {
+        "price": 55650,
+        "quality": 3,
+        "level": 87
+    },
+    {
+        "price": 116600,
+        "quality": 4,
+        "level": 87
+    },
+    {
+        "price": 254400,
+        "quality": 5,
+        "level": 87
+    },
+    {
+        "price": 44000,
+        "quality": 1,
+        "level": 88
+    },
+    {
+        "price": 44500,
+        "quality": 2,
+        "level": 88
+    },
+    {
+        "price": 56175,
+        "quality": 3,
+        "level": 88
+    },
+    {
+        "price": 117700,
+        "quality": 4,
+        "level": 88
+    },
+    {
+        "price": 256800,
+        "quality": 5,
+        "level": 88
+    },
+    {
+        "price": 44500,
+        "quality": 1,
+        "level": 89
+    },
+    {
+        "price": 45000,
+        "quality": 2,
+        "level": 89
+    },
+    {
+        "price": 56700,
+        "quality": 3,
+        "level": 89
+    },
+    {
+        "price": 118800,
+        "quality": 4,
+        "level": 89
+    },
+    {
+        "price": 259200,
+        "quality": 5,
+        "level": 89
+    },
+    {
+        "price": 45000,
+        "quality": 1,
+        "level": 90
+    },
+    {
+        "price": 45500,
+        "quality": 2,
+        "level": 90
+    },
+    {
+        "price": 57225,
+        "quality": 3,
+        "level": 90
+    },
+    {
+        "price": 119900,
+        "quality": 4,
+        "level": 90
+    },
+    {
+        "price": 261600,
+        "quality": 5,
+        "level": 90
+    },
+    {
+        "price": 45500,
+        "quality": 1,
+        "level": 91
+    },
+    {
+        "price": 46000,
+        "quality": 2,
+        "level": 91
+    },
+    {
+        "price": 57750,
+        "quality": 3,
+        "level": 91
+    },
+    {
+        "price": 121000,
+        "quality": 4,
+        "level": 91
+    },
+    {
+        "price": 264000,
+        "quality": 5,
+        "level": 91
+    },
+    {
+        "price": 46000,
+        "quality": 1,
+        "level": 92
+    },
+    {
+        "price": 46500,
+        "quality": 2,
+        "level": 92
+    },
+    {
+        "price": 58275,
+        "quality": 3,
+        "level": 92
+    },
+    {
+        "price": 122100,
+        "quality": 4,
+        "level": 92
+    },
+    {
+        "price": 266400,
+        "quality": 5,
+        "level": 92
+    },
+    {
+        "price": 46500,
+        "quality": 1,
+        "level": 93
+    },
+    {
+        "price": 47000,
+        "quality": 2,
+        "level": 93
+    },
+    {
+        "price": 58800,
+        "quality": 3,
+        "level": 93
+    },
+    {
+        "price": 123200,
+        "quality": 4,
+        "level": 93
+    },
+    {
+        "price": 268800,
+        "quality": 5,
+        "level": 93
+    },
+    {
+        "price": 47000,
+        "quality": 1,
+        "level": 94
+    },
+    {
+        "price": 47500,
+        "quality": 2,
+        "level": 94
+    },
+    {
+        "price": 59325,
+        "quality": 3,
+        "level": 94
+    },
+    {
+        "price": 124300,
+        "quality": 4,
+        "level": 94
+    },
+    {
+        "price": 271200,
+        "quality": 5,
+        "level": 94
+    },
+    {
+        "price": 47500,
+        "quality": 1,
+        "level": 95
+    },
+    {
+        "price": 48000,
+        "quality": 2,
+        "level": 95
+    },
+    {
+        "price": 59850,
+        "quality": 3,
+        "level": 95
+    },
+    {
+        "price": 125400,
+        "quality": 4,
+        "level": 95
+    },
+    {
+        "price": 273600,
+        "quality": 5,
+        "level": 95
+    },
+    {
+        "price": 48000,
+        "quality": 1,
+        "level": 96
+    },
+    {
+        "price": 48500,
+        "quality": 2,
+        "level": 96
+    },
+    {
+        "price": 60375,
+        "quality": 3,
+        "level": 96
+    },
+    {
+        "price": 126500,
+        "quality": 4,
+        "level": 96
+    },
+    {
+        "price": 276000,
+        "quality": 5,
+        "level": 96
+    },
+    {
+        "price": 48500,
+        "quality": 1,
+        "level": 97
+    },
+    {
+        "price": 49000,
+        "quality": 2,
+        "level": 97
+    },
+    {
+        "price": 60900,
+        "quality": 3,
+        "level": 97
+    },
+    {
+        "price": 127600,
+        "quality": 4,
+        "level": 97
+    },
+    {
+        "price": 278400,
+        "quality": 5,
+        "level": 97
+    },
+    {
+        "price": 49000,
+        "quality": 1,
+        "level": 98
+    },
+    {
+        "price": 49500,
+        "quality": 2,
+        "level": 98
+    },
+    {
+        "price": 61425,
+        "quality": 3,
+        "level": 98
+    },
+    {
+        "price": 128700,
+        "quality": 4,
+        "level": 98
+    },
+    {
+        "price": 280800,
+        "quality": 5,
+        "level": 98
+    },
+    {
+        "price": 49500,
+        "quality": 1,
+        "level": 99
+    },
+    {
+        "price": 50000,
+        "quality": 2,
+        "level": 99
+    },
+    {
+        "price": 61950,
+        "quality": 3,
+        "level": 99
+    },
+    {
+        "price": 129800,
+        "quality": 4,
+        "level": 99
+    },
+    {
+        "price": 283200,
+        "quality": 5,
+        "level": 99
+    }
+]

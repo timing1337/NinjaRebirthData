@@ -1,0 +1,222 @@
+[
+    {
+        "need_fruit": 0,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 1,
+        "new_skill": 2,
+        "quality": 1,
+        "need_soul": 0
+    },
+    {
+        "need_fruit": 0,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 1,
+        "new_skill": 0,
+        "quality": 2,
+        "need_soul": 0
+    },
+    {
+        "need_fruit": 0,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 1,
+        "new_skill": 3,
+        "quality": 3,
+        "need_soul": 0
+    },
+    {
+        "need_fruit": 0,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 1,
+        "new_skill": 0,
+        "quality": 4,
+        "need_soul": 0
+    },
+    {
+        "need_fruit": 0,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 1,
+        "new_skill": 0,
+        "quality": 5,
+        "need_soul": 0
+    },
+    {
+        "need_fruit": 0,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 1,
+        "new_skill": 4,
+        "quality": 6,
+        "need_soul": 0
+    },
+    {
+        "need_fruit": 0,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 1,
+        "new_skill": 0,
+        "quality": 7,
+        "need_soul": 0
+    },
+    {
+        "need_fruit": 0,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 1,
+        "new_skill": 0,
+        "quality": 8,
+        "need_soul": 0
+    },
+    {
+        "need_fruit": 0,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 1,
+        "new_skill": 0,
+        "quality": 9,
+        "need_soul": 0
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 10,
+        "new_skill": 0,
+        "quality": 10,
+        "need_soul": 100
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 1,
+        "is_open": 1,
+        "fruit_level": 10,
+        "new_skill": 5,
+        "quality": 11,
+        "need_soul": 200
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 1,
+        "need_item": "0",
+        "type": 2,
+        "is_open": 1,
+        "fruit_level": 10,
+        "new_skill": 6,
+        "quality": 12,
+        "need_soul": 300
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 2,
+        "need_item": "21401,21402,21403,21404,21405",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 10,
+        "new_skill": 7,
+        "quality": 13,
+        "need_soul": 400
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 3,
+        "need_item": "21401,21402,21403,21404,21405",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 10,
+        "new_skill": 8,
+        "quality": 14,
+        "need_soul": 500
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 4,
+        "need_item": "21401,21402,21403,21404,21405",
+        "type": 0,
+        "is_open": 1,
+        "fruit_level": 10,
+        "new_skill": 9,
+        "quality": 15,
+        "need_soul": 600
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 5,
+        "need_item": "21401,21402,21403,21404,21405",
+        "type": 0,
+        "is_open": 0,
+        "fruit_level": 10,
+        "new_skill": 10,
+        "quality": 16,
+        "need_soul": 500
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 0,
+        "need_item": "21401,21402,21403,21404,21405",
+        "type": 0,
+        "is_open": 0,
+        "fruit_level": 10,
+        "new_skill": 0,
+        "quality": 17,
+        "need_soul": 500
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 0,
+        "fruit_level": 10,
+        "new_skill": 0,
+        "quality": 18,
+        "need_soul": 500
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 0,
+        "fruit_level": 10,
+        "new_skill": 0,
+        "quality": 19,
+        "need_soul": 500
+    },
+    {
+        "need_fruit": 9,
+        "del_skill": 0,
+        "need_item": "0",
+        "type": 0,
+        "is_open": 0,
+        "fruit_level": 10,
+        "new_skill": 0,
+        "quality": 20,
+        "need_soul": 500
+    }
+]

@@ -1,0 +1,9764 @@
+[
+    {
+        "difficulty": 1,
+        "chapter_id": 50001,
+        "weight": 0,
+        "box_id": 0
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50011,
+        "weight": 100,
+        "box_id": 10011
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50012,
+        "weight": 100,
+        "box_id": 10012
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50013,
+        "weight": 100,
+        "box_id": 10013
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50014,
+        "weight": 100,
+        "box_id": 10014
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50015,
+        "weight": 100,
+        "box_id": 10015
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50016,
+        "weight": 100,
+        "box_id": 10016
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50017,
+        "weight": 100,
+        "box_id": 10017
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50018,
+        "weight": 100,
+        "box_id": 10018
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50021,
+        "weight": 100,
+        "box_id": 10021
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50022,
+        "weight": 100,
+        "box_id": 10022
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50023,
+        "weight": 100,
+        "box_id": 10023
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50024,
+        "weight": 100,
+        "box_id": 10024
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50025,
+        "weight": 100,
+        "box_id": 10025
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50026,
+        "weight": 100,
+        "box_id": 10026
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50027,
+        "weight": 100,
+        "box_id": 10027
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50028,
+        "weight": 100,
+        "box_id": 10028
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50031,
+        "weight": 100,
+        "box_id": 10031
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50032,
+        "weight": 100,
+        "box_id": 10032
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50033,
+        "weight": 100,
+        "box_id": 10033
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50034,
+        "weight": 100,
+        "box_id": 10034
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50035,
+        "weight": 100,
+        "box_id": 10035
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50036,
+        "weight": 100,
+        "box_id": 10036
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50037,
+        "weight": 100,
+        "box_id": 10037
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50038,
+        "weight": 100,
+        "box_id": 10038
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50041,
+        "weight": 100,
+        "box_id": 10041
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50042,
+        "weight": 100,
+        "box_id": 10042
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50043,
+        "weight": 100,
+        "box_id": 10043
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50044,
+        "weight": 100,
+        "box_id": 10044
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50045,
+        "weight": 100,
+        "box_id": 10045
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50046,
+        "weight": 100,
+        "box_id": 10046
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50047,
+        "weight": 100,
+        "box_id": 10047
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50048,
+        "weight": 100,
+        "box_id": 10048
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50051,
+        "weight": 100,
+        "box_id": 10051
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50052,
+        "weight": 100,
+        "box_id": 10052
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50053,
+        "weight": 100,
+        "box_id": 10053
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50054,
+        "weight": 100,
+        "box_id": 10054
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50055,
+        "weight": 100,
+        "box_id": 10055
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50056,
+        "weight": 100,
+        "box_id": 10056
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50057,
+        "weight": 100,
+        "box_id": 10057
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50058,
+        "weight": 100,
+        "box_id": 10058
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50061,
+        "weight": 100,
+        "box_id": 10061
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50062,
+        "weight": 100,
+        "box_id": 10062
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50063,
+        "weight": 100,
+        "box_id": 10063
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50064,
+        "weight": 100,
+        "box_id": 10064
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50065,
+        "weight": 100,
+        "box_id": 10065
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50066,
+        "weight": 100,
+        "box_id": 10066
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50067,
+        "weight": 100,
+        "box_id": 10067
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50068,
+        "weight": 100,
+        "box_id": 10068
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50071,
+        "weight": 100,
+        "box_id": 10071
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50072,
+        "weight": 100,
+        "box_id": 10072
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50073,
+        "weight": 100,
+        "box_id": 10073
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50074,
+        "weight": 100,
+        "box_id": 10074
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50075,
+        "weight": 100,
+        "box_id": 10075
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50076,
+        "weight": 100,
+        "box_id": 10076
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50077,
+        "weight": 100,
+        "box_id": 10077
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50078,
+        "weight": 100,
+        "box_id": 10078
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50081,
+        "weight": 100,
+        "box_id": 10081
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50082,
+        "weight": 100,
+        "box_id": 10082
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50083,
+        "weight": 100,
+        "box_id": 10083
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50084,
+        "weight": 100,
+        "box_id": 10084
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50085,
+        "weight": 100,
+        "box_id": 10085
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50086,
+        "weight": 100,
+        "box_id": 10086
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50087,
+        "weight": 100,
+        "box_id": 10087
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50088,
+        "weight": 100,
+        "box_id": 10088
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50091,
+        "weight": 100,
+        "box_id": 10091
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50092,
+        "weight": 100,
+        "box_id": 10092
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50093,
+        "weight": 100,
+        "box_id": 10093
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50094,
+        "weight": 100,
+        "box_id": 10094
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50095,
+        "weight": 100,
+        "box_id": 10095
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50096,
+        "weight": 100,
+        "box_id": 10096
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50097,
+        "weight": 100,
+        "box_id": 10097
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50098,
+        "weight": 100,
+        "box_id": 10098
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50101,
+        "weight": 100,
+        "box_id": 10101
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50102,
+        "weight": 100,
+        "box_id": 10102
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50103,
+        "weight": 100,
+        "box_id": 10103
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50104,
+        "weight": 100,
+        "box_id": 10104
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50105,
+        "weight": 100,
+        "box_id": 10105
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50106,
+        "weight": 100,
+        "box_id": 10106
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50107,
+        "weight": 100,
+        "box_id": 10107
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50108,
+        "weight": 100,
+        "box_id": 10108
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50111,
+        "weight": 100,
+        "box_id": 10111
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50112,
+        "weight": 100,
+        "box_id": 10112
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50113,
+        "weight": 100,
+        "box_id": 10113
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50114,
+        "weight": 100,
+        "box_id": 10114
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50115,
+        "weight": 100,
+        "box_id": 10115
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50116,
+        "weight": 100,
+        "box_id": 10116
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50117,
+        "weight": 100,
+        "box_id": 10117
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50118,
+        "weight": 100,
+        "box_id": 10118
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50121,
+        "weight": 100,
+        "box_id": 10121
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50122,
+        "weight": 100,
+        "box_id": 10122
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50123,
+        "weight": 100,
+        "box_id": 10123
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50124,
+        "weight": 100,
+        "box_id": 10124
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50125,
+        "weight": 100,
+        "box_id": 10125
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50126,
+        "weight": 100,
+        "box_id": 10126
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50127,
+        "weight": 100,
+        "box_id": 10127
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50128,
+        "weight": 100,
+        "box_id": 10128
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50131,
+        "weight": 100,
+        "box_id": 10131
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50132,
+        "weight": 100,
+        "box_id": 10132
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50133,
+        "weight": 100,
+        "box_id": 10133
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50134,
+        "weight": 100,
+        "box_id": 10134
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50135,
+        "weight": 100,
+        "box_id": 10135
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50136,
+        "weight": 100,
+        "box_id": 10136
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50137,
+        "weight": 100,
+        "box_id": 10137
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50138,
+        "weight": 100,
+        "box_id": 10138
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50141,
+        "weight": 100,
+        "box_id": 10141
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50142,
+        "weight": 100,
+        "box_id": 10142
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50143,
+        "weight": 100,
+        "box_id": 10143
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50144,
+        "weight": 100,
+        "box_id": 10144
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50145,
+        "weight": 100,
+        "box_id": 10145
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50146,
+        "weight": 100,
+        "box_id": 10146
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50147,
+        "weight": 100,
+        "box_id": 10147
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50148,
+        "weight": 100,
+        "box_id": 10148
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50151,
+        "weight": 100,
+        "box_id": 10151
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50152,
+        "weight": 100,
+        "box_id": 10152
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50153,
+        "weight": 100,
+        "box_id": 10153
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50154,
+        "weight": 100,
+        "box_id": 10154
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50155,
+        "weight": 100,
+        "box_id": 10155
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50156,
+        "weight": 100,
+        "box_id": 10156
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50157,
+        "weight": 100,
+        "box_id": 10157
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50158,
+        "weight": 100,
+        "box_id": 10158
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50161,
+        "weight": 100,
+        "box_id": 10161
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50162,
+        "weight": 100,
+        "box_id": 10162
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50163,
+        "weight": 100,
+        "box_id": 10163
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50164,
+        "weight": 100,
+        "box_id": 10164
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50165,
+        "weight": 100,
+        "box_id": 10165
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50166,
+        "weight": 100,
+        "box_id": 10166
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50167,
+        "weight": 100,
+        "box_id": 10167
+    },
+    {
+        "difficulty": 1,
+        "chapter_id": 50168,
+        "weight": 100,
+        "box_id": 10168
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51011,
+        "weight": 100,
+        "box_id": 20011
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51012,
+        "weight": 100,
+        "box_id": 20012
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51013,
+        "weight": 100,
+        "box_id": 20013
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51014,
+        "weight": 100,
+        "box_id": 20014
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51015,
+        "weight": 100,
+        "box_id": 20015
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51016,
+        "weight": 100,
+        "box_id": 20016
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51017,
+        "weight": 100,
+        "box_id": 20017
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51018,
+        "weight": 100,
+        "box_id": 20018
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51021,
+        "weight": 100,
+        "box_id": 20021
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51022,
+        "weight": 100,
+        "box_id": 20022
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51023,
+        "weight": 100,
+        "box_id": 20023
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51024,
+        "weight": 100,
+        "box_id": 20024
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51025,
+        "weight": 100,
+        "box_id": 20025
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51026,
+        "weight": 100,
+        "box_id": 20026
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51027,
+        "weight": 100,
+        "box_id": 20027
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51028,
+        "weight": 100,
+        "box_id": 20028
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51031,
+        "weight": 100,
+        "box_id": 20031
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51032,
+        "weight": 100,
+        "box_id": 20032
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51033,
+        "weight": 100,
+        "box_id": 20033
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51034,
+        "weight": 100,
+        "box_id": 20034
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51035,
+        "weight": 100,
+        "box_id": 20035
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51036,
+        "weight": 100,
+        "box_id": 20036
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51037,
+        "weight": 100,
+        "box_id": 20037
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51038,
+        "weight": 100,
+        "box_id": 20038
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51041,
+        "weight": 100,
+        "box_id": 20041
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51042,
+        "weight": 100,
+        "box_id": 20042
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51043,
+        "weight": 100,
+        "box_id": 20043
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51044,
+        "weight": 100,
+        "box_id": 20044
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51045,
+        "weight": 100,
+        "box_id": 20045
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51046,
+        "weight": 100,
+        "box_id": 20046
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51047,
+        "weight": 100,
+        "box_id": 20047
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51048,
+        "weight": 100,
+        "box_id": 20048
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51051,
+        "weight": 100,
+        "box_id": 20051
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51052,
+        "weight": 100,
+        "box_id": 20052
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51053,
+        "weight": 100,
+        "box_id": 20053
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51054,
+        "weight": 100,
+        "box_id": 20054
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51055,
+        "weight": 100,
+        "box_id": 20055
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51056,
+        "weight": 100,
+        "box_id": 20056
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51057,
+        "weight": 100,
+        "box_id": 20057
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51058,
+        "weight": 100,
+        "box_id": 20058
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51061,
+        "weight": 100,
+        "box_id": 20061
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51062,
+        "weight": 100,
+        "box_id": 20062
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51063,
+        "weight": 100,
+        "box_id": 20063
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51064,
+        "weight": 100,
+        "box_id": 20064
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51065,
+        "weight": 100,
+        "box_id": 20065
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51066,
+        "weight": 100,
+        "box_id": 20066
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51067,
+        "weight": 100,
+        "box_id": 20067
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51068,
+        "weight": 100,
+        "box_id": 20068
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51071,
+        "weight": 100,
+        "box_id": 20071
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51072,
+        "weight": 100,
+        "box_id": 20072
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51073,
+        "weight": 100,
+        "box_id": 20073
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51074,
+        "weight": 100,
+        "box_id": 20074
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51075,
+        "weight": 100,
+        "box_id": 20075
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51076,
+        "weight": 100,
+        "box_id": 20076
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51077,
+        "weight": 100,
+        "box_id": 20077
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51078,
+        "weight": 100,
+        "box_id": 20078
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51081,
+        "weight": 100,
+        "box_id": 20081
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51082,
+        "weight": 100,
+        "box_id": 20082
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51083,
+        "weight": 100,
+        "box_id": 20083
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51084,
+        "weight": 100,
+        "box_id": 20084
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51085,
+        "weight": 100,
+        "box_id": 20085
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51086,
+        "weight": 100,
+        "box_id": 20086
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51087,
+        "weight": 100,
+        "box_id": 20087
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51088,
+        "weight": 100,
+        "box_id": 20088
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51091,
+        "weight": 100,
+        "box_id": 20091
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51092,
+        "weight": 100,
+        "box_id": 20092
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51093,
+        "weight": 100,
+        "box_id": 20093
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51094,
+        "weight": 100,
+        "box_id": 20094
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51095,
+        "weight": 100,
+        "box_id": 20095
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51096,
+        "weight": 100,
+        "box_id": 20096
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51097,
+        "weight": 100,
+        "box_id": 20097
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51098,
+        "weight": 100,
+        "box_id": 20098
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51101,
+        "weight": 100,
+        "box_id": 20101
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51102,
+        "weight": 100,
+        "box_id": 20102
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51103,
+        "weight": 100,
+        "box_id": 20103
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51104,
+        "weight": 100,
+        "box_id": 20104
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51105,
+        "weight": 100,
+        "box_id": 20105
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51106,
+        "weight": 100,
+        "box_id": 20106
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51107,
+        "weight": 100,
+        "box_id": 20107
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51108,
+        "weight": 100,
+        "box_id": 20108
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51111,
+        "weight": 100,
+        "box_id": 20111
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51112,
+        "weight": 100,
+        "box_id": 20112
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51113,
+        "weight": 100,
+        "box_id": 20113
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51114,
+        "weight": 100,
+        "box_id": 20114
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51115,
+        "weight": 100,
+        "box_id": 20115
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51116,
+        "weight": 100,
+        "box_id": 20116
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51117,
+        "weight": 100,
+        "box_id": 20117
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51118,
+        "weight": 100,
+        "box_id": 20118
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51121,
+        "weight": 100,
+        "box_id": 20121
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51122,
+        "weight": 100,
+        "box_id": 20122
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51123,
+        "weight": 100,
+        "box_id": 20123
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51124,
+        "weight": 100,
+        "box_id": 20124
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51125,
+        "weight": 100,
+        "box_id": 20125
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51126,
+        "weight": 100,
+        "box_id": 20126
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51127,
+        "weight": 100,
+        "box_id": 20127
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51128,
+        "weight": 100,
+        "box_id": 20128
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51131,
+        "weight": 100,
+        "box_id": 20131
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51132,
+        "weight": 100,
+        "box_id": 20132
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51133,
+        "weight": 100,
+        "box_id": 20133
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51134,
+        "weight": 100,
+        "box_id": 20134
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51135,
+        "weight": 100,
+        "box_id": 20135
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51136,
+        "weight": 100,
+        "box_id": 20136
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51137,
+        "weight": 100,
+        "box_id": 20137
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51138,
+        "weight": 100,
+        "box_id": 20138
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51141,
+        "weight": 100,
+        "box_id": 20141
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51142,
+        "weight": 100,
+        "box_id": 20142
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51143,
+        "weight": 100,
+        "box_id": 20143
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51144,
+        "weight": 100,
+        "box_id": 20144
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51145,
+        "weight": 100,
+        "box_id": 20145
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51146,
+        "weight": 100,
+        "box_id": 20146
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51147,
+        "weight": 100,
+        "box_id": 20147
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51148,
+        "weight": 100,
+        "box_id": 20148
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51151,
+        "weight": 100,
+        "box_id": 20151
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51152,
+        "weight": 100,
+        "box_id": 20152
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51153,
+        "weight": 100,
+        "box_id": 20153
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51154,
+        "weight": 100,
+        "box_id": 20154
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51155,
+        "weight": 100,
+        "box_id": 20155
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51156,
+        "weight": 100,
+        "box_id": 20156
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51157,
+        "weight": 100,
+        "box_id": 20157
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51158,
+        "weight": 100,
+        "box_id": 20158
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51161,
+        "weight": 100,
+        "box_id": 20161
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51162,
+        "weight": 100,
+        "box_id": 20162
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51163,
+        "weight": 100,
+        "box_id": 20163
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51164,
+        "weight": 100,
+        "box_id": 20164
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51165,
+        "weight": 100,
+        "box_id": 20165
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51166,
+        "weight": 100,
+        "box_id": 20166
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51167,
+        "weight": 100,
+        "box_id": 20167
+    },
+    {
+        "difficulty": 2,
+        "chapter_id": 51168,
+        "weight": 100,
+        "box_id": 20168
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52011,
+        "weight": 100,
+        "box_id": 30011
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52012,
+        "weight": 100,
+        "box_id": 30012
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52013,
+        "weight": 100,
+        "box_id": 30013
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52014,
+        "weight": 100,
+        "box_id": 30014
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52015,
+        "weight": 100,
+        "box_id": 30015
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52016,
+        "weight": 100,
+        "box_id": 30016
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52017,
+        "weight": 100,
+        "box_id": 30017
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52018,
+        "weight": 100,
+        "box_id": 30018
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52021,
+        "weight": 100,
+        "box_id": 30021
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52022,
+        "weight": 100,
+        "box_id": 30022
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52023,
+        "weight": 100,
+        "box_id": 30023
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52024,
+        "weight": 100,
+        "box_id": 30024
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52025,
+        "weight": 100,
+        "box_id": 30025
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52026,
+        "weight": 100,
+        "box_id": 30026
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52027,
+        "weight": 100,
+        "box_id": 30027
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52028,
+        "weight": 100,
+        "box_id": 30028
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52031,
+        "weight": 100,
+        "box_id": 30031
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52032,
+        "weight": 100,
+        "box_id": 30032
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52033,
+        "weight": 100,
+        "box_id": 30033
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52034,
+        "weight": 100,
+        "box_id": 30034
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52035,
+        "weight": 100,
+        "box_id": 30035
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52036,
+        "weight": 100,
+        "box_id": 30036
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52037,
+        "weight": 100,
+        "box_id": 30037
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52038,
+        "weight": 100,
+        "box_id": 30038
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52041,
+        "weight": 100,
+        "box_id": 30041
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52042,
+        "weight": 100,
+        "box_id": 30042
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52043,
+        "weight": 100,
+        "box_id": 30043
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52044,
+        "weight": 100,
+        "box_id": 30044
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52045,
+        "weight": 100,
+        "box_id": 30045
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52046,
+        "weight": 100,
+        "box_id": 30046
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52047,
+        "weight": 100,
+        "box_id": 30047
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52048,
+        "weight": 100,
+        "box_id": 30048
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52051,
+        "weight": 100,
+        "box_id": 30051
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52052,
+        "weight": 100,
+        "box_id": 30052
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52053,
+        "weight": 100,
+        "box_id": 30053
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52054,
+        "weight": 100,
+        "box_id": 30054
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52055,
+        "weight": 100,
+        "box_id": 30055
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52056,
+        "weight": 100,
+        "box_id": 30056
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52057,
+        "weight": 100,
+        "box_id": 30057
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52058,
+        "weight": 100,
+        "box_id": 30058
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52061,
+        "weight": 100,
+        "box_id": 30061
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52062,
+        "weight": 100,
+        "box_id": 30062
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52063,
+        "weight": 100,
+        "box_id": 30063
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52064,
+        "weight": 100,
+        "box_id": 30064
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52065,
+        "weight": 100,
+        "box_id": 30065
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52066,
+        "weight": 100,
+        "box_id": 30066
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52067,
+        "weight": 100,
+        "box_id": 30067
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52068,
+        "weight": 100,
+        "box_id": 30068
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52071,
+        "weight": 100,
+        "box_id": 30071
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52072,
+        "weight": 100,
+        "box_id": 30072
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52073,
+        "weight": 100,
+        "box_id": 30073
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52074,
+        "weight": 100,
+        "box_id": 30074
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52075,
+        "weight": 100,
+        "box_id": 30075
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52076,
+        "weight": 100,
+        "box_id": 30076
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52077,
+        "weight": 100,
+        "box_id": 30077
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52078,
+        "weight": 100,
+        "box_id": 30078
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52081,
+        "weight": 100,
+        "box_id": 30081
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52082,
+        "weight": 100,
+        "box_id": 30082
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52083,
+        "weight": 100,
+        "box_id": 30083
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52084,
+        "weight": 100,
+        "box_id": 30084
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52085,
+        "weight": 100,
+        "box_id": 30085
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52086,
+        "weight": 100,
+        "box_id": 30086
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52087,
+        "weight": 100,
+        "box_id": 30087
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52088,
+        "weight": 100,
+        "box_id": 30088
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52091,
+        "weight": 100,
+        "box_id": 30091
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52092,
+        "weight": 100,
+        "box_id": 30092
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52093,
+        "weight": 100,
+        "box_id": 30093
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52094,
+        "weight": 100,
+        "box_id": 30094
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52095,
+        "weight": 100,
+        "box_id": 30095
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52096,
+        "weight": 100,
+        "box_id": 30096
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52097,
+        "weight": 100,
+        "box_id": 30097
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52098,
+        "weight": 100,
+        "box_id": 30098
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52101,
+        "weight": 100,
+        "box_id": 30101
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52102,
+        "weight": 100,
+        "box_id": 30102
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52103,
+        "weight": 100,
+        "box_id": 30103
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52104,
+        "weight": 100,
+        "box_id": 30104
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52105,
+        "weight": 100,
+        "box_id": 30105
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52106,
+        "weight": 100,
+        "box_id": 30106
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52107,
+        "weight": 100,
+        "box_id": 30107
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52108,
+        "weight": 100,
+        "box_id": 30108
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52111,
+        "weight": 100,
+        "box_id": 30111
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52112,
+        "weight": 100,
+        "box_id": 30112
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52113,
+        "weight": 100,
+        "box_id": 30113
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52114,
+        "weight": 100,
+        "box_id": 30114
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52115,
+        "weight": 100,
+        "box_id": 30115
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52116,
+        "weight": 100,
+        "box_id": 30116
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52117,
+        "weight": 100,
+        "box_id": 30117
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52118,
+        "weight": 100,
+        "box_id": 30118
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52121,
+        "weight": 100,
+        "box_id": 30121
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52122,
+        "weight": 100,
+        "box_id": 30122
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52123,
+        "weight": 100,
+        "box_id": 30123
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52124,
+        "weight": 100,
+        "box_id": 30124
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52125,
+        "weight": 100,
+        "box_id": 30125
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52126,
+        "weight": 100,
+        "box_id": 30126
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52127,
+        "weight": 100,
+        "box_id": 30127
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52128,
+        "weight": 100,
+        "box_id": 30128
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52131,
+        "weight": 100,
+        "box_id": 30131
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52132,
+        "weight": 100,
+        "box_id": 30132
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52133,
+        "weight": 100,
+        "box_id": 30133
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52134,
+        "weight": 100,
+        "box_id": 30134
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52135,
+        "weight": 100,
+        "box_id": 30135
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52136,
+        "weight": 100,
+        "box_id": 30136
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52137,
+        "weight": 100,
+        "box_id": 30137
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52138,
+        "weight": 100,
+        "box_id": 30138
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52141,
+        "weight": 100,
+        "box_id": 30141
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52142,
+        "weight": 100,
+        "box_id": 30142
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52143,
+        "weight": 100,
+        "box_id": 30143
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52144,
+        "weight": 100,
+        "box_id": 30144
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52145,
+        "weight": 100,
+        "box_id": 30145
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52146,
+        "weight": 100,
+        "box_id": 30146
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52147,
+        "weight": 100,
+        "box_id": 30147
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52148,
+        "weight": 100,
+        "box_id": 30148
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52151,
+        "weight": 100,
+        "box_id": 30151
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52152,
+        "weight": 100,
+        "box_id": 30152
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52153,
+        "weight": 100,
+        "box_id": 30153
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52154,
+        "weight": 100,
+        "box_id": 30154
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52155,
+        "weight": 100,
+        "box_id": 30155
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52156,
+        "weight": 100,
+        "box_id": 30156
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52157,
+        "weight": 100,
+        "box_id": 30157
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52158,
+        "weight": 100,
+        "box_id": 30158
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52161,
+        "weight": 100,
+        "box_id": 30161
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52162,
+        "weight": 100,
+        "box_id": 30162
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52163,
+        "weight": 100,
+        "box_id": 30163
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52164,
+        "weight": 100,
+        "box_id": 30164
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52165,
+        "weight": 100,
+        "box_id": 30165
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52166,
+        "weight": 100,
+        "box_id": 30166
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52167,
+        "weight": 100,
+        "box_id": 30167
+    },
+    {
+        "difficulty": 3,
+        "chapter_id": 52168,
+        "weight": 100,
+        "box_id": 30168
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55001,
+        "weight": 100,
+        "box_id": 40001
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55002,
+        "weight": 100,
+        "box_id": 40002
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55003,
+        "weight": 100,
+        "box_id": 40003
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55004,
+        "weight": 100,
+        "box_id": 40004
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55005,
+        "weight": 100,
+        "box_id": 40005
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55006,
+        "weight": 100,
+        "box_id": 40006
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55007,
+        "weight": 1,
+        "box_id": 40007
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55008,
+        "weight": 1,
+        "box_id": 40008
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55009,
+        "weight": 1,
+        "box_id": 40009
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55011,
+        "weight": 100,
+        "box_id": 40011
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55012,
+        "weight": 100,
+        "box_id": 40012
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55013,
+        "weight": 100,
+        "box_id": 40013
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55014,
+        "weight": 100,
+        "box_id": 40014
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55015,
+        "weight": 100,
+        "box_id": 40015
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55016,
+        "weight": 100,
+        "box_id": 40016
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55017,
+        "weight": 1,
+        "box_id": 40017
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55018,
+        "weight": 1,
+        "box_id": 40018
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55019,
+        "weight": 1,
+        "box_id": 40019
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55021,
+        "weight": 100,
+        "box_id": 40021
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55022,
+        "weight": 100,
+        "box_id": 40022
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55023,
+        "weight": 100,
+        "box_id": 40023
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55024,
+        "weight": 100,
+        "box_id": 40024
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55025,
+        "weight": 100,
+        "box_id": 40025
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55026,
+        "weight": 100,
+        "box_id": 40026
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55027,
+        "weight": 1,
+        "box_id": 40027
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55028,
+        "weight": 1,
+        "box_id": 40028
+    },
+    {
+        "difficulty": 4,
+        "chapter_id": 55029,
+        "weight": 1,
+        "box_id": 40029
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55031,
+        "weight": 100,
+        "box_id": 40031
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55032,
+        "weight": 100,
+        "box_id": 40032
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55033,
+        "weight": 100,
+        "box_id": 40033
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55034,
+        "weight": 100,
+        "box_id": 40034
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55035,
+        "weight": 100,
+        "box_id": 40035
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55036,
+        "weight": 100,
+        "box_id": 40036
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55037,
+        "weight": 1,
+        "box_id": 40037
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55038,
+        "weight": 1,
+        "box_id": 40038
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55039,
+        "weight": 1,
+        "box_id": 40039
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55041,
+        "weight": 100,
+        "box_id": 40041
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55042,
+        "weight": 100,
+        "box_id": 40042
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55043,
+        "weight": 100,
+        "box_id": 40043
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55044,
+        "weight": 100,
+        "box_id": 40044
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55045,
+        "weight": 100,
+        "box_id": 40045
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55046,
+        "weight": 100,
+        "box_id": 40046
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55047,
+        "weight": 1,
+        "box_id": 40047
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55048,
+        "weight": 1,
+        "box_id": 40048
+    },
+    {
+        "difficulty": 5,
+        "chapter_id": 55049,
+        "weight": 1,
+        "box_id": 40049
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55051,
+        "weight": 1,
+        "box_id": 40051
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55052,
+        "weight": 1,
+        "box_id": 40052
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55053,
+        "weight": 1,
+        "box_id": 40053
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55054,
+        "weight": 1,
+        "box_id": 40054
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55055,
+        "weight": 1,
+        "box_id": 40055
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55056,
+        "weight": 1,
+        "box_id": 40056
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55057,
+        "weight": 1,
+        "box_id": 40057
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55061,
+        "weight": 1,
+        "box_id": 40061
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55062,
+        "weight": 1,
+        "box_id": 40062
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55063,
+        "weight": 1,
+        "box_id": 40063
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55064,
+        "weight": 1,
+        "box_id": 40064
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55065,
+        "weight": 1,
+        "box_id": 40065
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55066,
+        "weight": 1,
+        "box_id": 40066
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55067,
+        "weight": 1,
+        "box_id": 40067
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55071,
+        "weight": 1,
+        "box_id": 40071
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55072,
+        "weight": 1,
+        "box_id": 40072
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55073,
+        "weight": 1,
+        "box_id": 40073
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55074,
+        "weight": 1,
+        "box_id": 40074
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55075,
+        "weight": 1,
+        "box_id": 40075
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55076,
+        "weight": 1,
+        "box_id": 40076
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55077,
+        "weight": 1,
+        "box_id": 40077
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55081,
+        "weight": 1,
+        "box_id": 40081
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55082,
+        "weight": 1,
+        "box_id": 40082
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55083,
+        "weight": 1,
+        "box_id": 40083
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55084,
+        "weight": 1,
+        "box_id": 40084
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55085,
+        "weight": 1,
+        "box_id": 40085
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55086,
+        "weight": 1,
+        "box_id": 40086
+    },
+    {
+        "difficulty": 8,
+        "chapter_id": 55087,
+        "weight": 1,
+        "box_id": 40087
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60001,
+        "weight": 100,
+        "box_id": 60011
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60001,
+        "weight": 100,
+        "box_id": 60012
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60002,
+        "weight": 100,
+        "box_id": 60021
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60002,
+        "weight": 100,
+        "box_id": 60022
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60003,
+        "weight": 100,
+        "box_id": 60031
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60003,
+        "weight": 100,
+        "box_id": 60032
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60003,
+        "weight": 100,
+        "box_id": 60033
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60003,
+        "weight": 100,
+        "box_id": 60034
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60004,
+        "weight": 100,
+        "box_id": 60041
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60004,
+        "weight": 100,
+        "box_id": 60042
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60005,
+        "weight": 100,
+        "box_id": 60051
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60005,
+        "weight": 100,
+        "box_id": 60052
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60006,
+        "weight": 100,
+        "box_id": 60061
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60006,
+        "weight": 100,
+        "box_id": 60062
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60006,
+        "weight": 100,
+        "box_id": 60063
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60006,
+        "weight": 100,
+        "box_id": 60064
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60007,
+        "weight": 100,
+        "box_id": 60071
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60007,
+        "weight": 100,
+        "box_id": 60072
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60008,
+        "weight": 100,
+        "box_id": 60081
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60008,
+        "weight": 100,
+        "box_id": 60082
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60009,
+        "weight": 100,
+        "box_id": 60091
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60009,
+        "weight": 100,
+        "box_id": 60092
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60009,
+        "weight": 100,
+        "box_id": 60093
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60009,
+        "weight": 100,
+        "box_id": 60094
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60010,
+        "weight": 100,
+        "box_id": 60101
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60010,
+        "weight": 100,
+        "box_id": 60102
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60011,
+        "weight": 100,
+        "box_id": 60111
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60011,
+        "weight": 100,
+        "box_id": 60112
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60012,
+        "weight": 100,
+        "box_id": 60121
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60012,
+        "weight": 100,
+        "box_id": 60122
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60012,
+        "weight": 100,
+        "box_id": 60123
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60012,
+        "weight": 100,
+        "box_id": 60124
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60013,
+        "weight": 100,
+        "box_id": 60131
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60013,
+        "weight": 100,
+        "box_id": 60132
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60014,
+        "weight": 100,
+        "box_id": 60141
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60014,
+        "weight": 100,
+        "box_id": 60142
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60015,
+        "weight": 100,
+        "box_id": 60151
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60015,
+        "weight": 100,
+        "box_id": 60152
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60015,
+        "weight": 100,
+        "box_id": 60153
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60015,
+        "weight": 100,
+        "box_id": 60154
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60101,
+        "weight": 100,
+        "box_id": 61011
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60101,
+        "weight": 100,
+        "box_id": 61012
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60102,
+        "weight": 100,
+        "box_id": 61021
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60102,
+        "weight": 100,
+        "box_id": 61022
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60103,
+        "weight": 100,
+        "box_id": 61031
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60103,
+        "weight": 100,
+        "box_id": 61032
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60103,
+        "weight": 100,
+        "box_id": 61033
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60103,
+        "weight": 100,
+        "box_id": 61034
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60104,
+        "weight": 100,
+        "box_id": 61041
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60104,
+        "weight": 100,
+        "box_id": 61042
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60105,
+        "weight": 100,
+        "box_id": 61051
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60105,
+        "weight": 100,
+        "box_id": 61052
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60106,
+        "weight": 100,
+        "box_id": 61061
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60106,
+        "weight": 100,
+        "box_id": 61062
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60106,
+        "weight": 100,
+        "box_id": 61063
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60106,
+        "weight": 100,
+        "box_id": 61064
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60107,
+        "weight": 100,
+        "box_id": 61071
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60107,
+        "weight": 100,
+        "box_id": 61072
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60108,
+        "weight": 100,
+        "box_id": 61081
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60108,
+        "weight": 100,
+        "box_id": 61082
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60109,
+        "weight": 100,
+        "box_id": 61091
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60109,
+        "weight": 100,
+        "box_id": 61092
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60109,
+        "weight": 100,
+        "box_id": 61093
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60109,
+        "weight": 100,
+        "box_id": 61094
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60110,
+        "weight": 100,
+        "box_id": 61101
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60110,
+        "weight": 100,
+        "box_id": 61102
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60111,
+        "weight": 100,
+        "box_id": 61111
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60111,
+        "weight": 100,
+        "box_id": 61112
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60112,
+        "weight": 100,
+        "box_id": 61121
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60112,
+        "weight": 100,
+        "box_id": 61122
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60112,
+        "weight": 100,
+        "box_id": 61123
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60112,
+        "weight": 100,
+        "box_id": 61124
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60113,
+        "weight": 100,
+        "box_id": 61131
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60113,
+        "weight": 100,
+        "box_id": 61132
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60114,
+        "weight": 100,
+        "box_id": 61141
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60114,
+        "weight": 100,
+        "box_id": 61142
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60115,
+        "weight": 100,
+        "box_id": 61151
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60115,
+        "weight": 100,
+        "box_id": 61152
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60115,
+        "weight": 100,
+        "box_id": 61153
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60115,
+        "weight": 100,
+        "box_id": 61154
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60201,
+        "weight": 100,
+        "box_id": 62011
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60201,
+        "weight": 100,
+        "box_id": 62012
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60202,
+        "weight": 100,
+        "box_id": 62021
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60202,
+        "weight": 100,
+        "box_id": 62022
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60203,
+        "weight": 100,
+        "box_id": 62031
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60203,
+        "weight": 100,
+        "box_id": 62032
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60203,
+        "weight": 100,
+        "box_id": 62033
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60203,
+        "weight": 100,
+        "box_id": 62034
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60204,
+        "weight": 100,
+        "box_id": 62041
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60204,
+        "weight": 100,
+        "box_id": 62042
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60205,
+        "weight": 100,
+        "box_id": 62051
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60205,
+        "weight": 100,
+        "box_id": 62052
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60206,
+        "weight": 100,
+        "box_id": 62061
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60206,
+        "weight": 100,
+        "box_id": 62062
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60206,
+        "weight": 100,
+        "box_id": 62063
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60206,
+        "weight": 100,
+        "box_id": 62064
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60207,
+        "weight": 100,
+        "box_id": 62071
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60207,
+        "weight": 100,
+        "box_id": 62072
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60208,
+        "weight": 100,
+        "box_id": 62081
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60208,
+        "weight": 100,
+        "box_id": 62082
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60209,
+        "weight": 100,
+        "box_id": 62091
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60209,
+        "weight": 100,
+        "box_id": 62092
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60209,
+        "weight": 100,
+        "box_id": 62093
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60209,
+        "weight": 100,
+        "box_id": 62094
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60210,
+        "weight": 100,
+        "box_id": 62101
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60210,
+        "weight": 100,
+        "box_id": 62102
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60211,
+        "weight": 100,
+        "box_id": 62111
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60211,
+        "weight": 100,
+        "box_id": 62112
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60212,
+        "weight": 100,
+        "box_id": 62121
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60212,
+        "weight": 100,
+        "box_id": 62122
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60212,
+        "weight": 100,
+        "box_id": 62123
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60212,
+        "weight": 100,
+        "box_id": 62124
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60213,
+        "weight": 100,
+        "box_id": 62131
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60213,
+        "weight": 100,
+        "box_id": 62132
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60214,
+        "weight": 100,
+        "box_id": 62141
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60214,
+        "weight": 100,
+        "box_id": 62142
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60215,
+        "weight": 100,
+        "box_id": 62151
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60215,
+        "weight": 100,
+        "box_id": 62152
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60215,
+        "weight": 100,
+        "box_id": 62153
+    },
+    {
+        "difficulty": 6,
+        "chapter_id": 60215,
+        "weight": 100,
+        "box_id": 62154
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81101,
+        "weight": 100,
+        "box_id": 96101
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81201,
+        "weight": 100,
+        "box_id": 96201
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81202,
+        "weight": 100,
+        "box_id": 96202
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81203,
+        "weight": 100,
+        "box_id": 96203
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81301,
+        "weight": 100,
+        "box_id": 96301
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81302,
+        "weight": 100,
+        "box_id": 96302
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81303,
+        "weight": 100,
+        "box_id": 96303
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81304,
+        "weight": 100,
+        "box_id": 96304
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81305,
+        "weight": 100,
+        "box_id": 96305
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81306,
+        "weight": 100,
+        "box_id": 96306
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81307,
+        "weight": 100,
+        "box_id": 96307
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81401,
+        "weight": 100,
+        "box_id": 96401
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81402,
+        "weight": 100,
+        "box_id": 96402
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81403,
+        "weight": 100,
+        "box_id": 96403
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81404,
+        "weight": 100,
+        "box_id": 96404
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81405,
+        "weight": 100,
+        "box_id": 96405
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81406,
+        "weight": 100,
+        "box_id": 96406
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81407,
+        "weight": 100,
+        "box_id": 96407
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81408,
+        "weight": 100,
+        "box_id": 96408
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81409,
+        "weight": 100,
+        "box_id": 96409
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81410,
+        "weight": 100,
+        "box_id": 96410
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81411,
+        "weight": 100,
+        "box_id": 96411
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81412,
+        "weight": 100,
+        "box_id": 96412
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81413,
+        "weight": 100,
+        "box_id": 96413
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81414,
+        "weight": 100,
+        "box_id": 96414
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81415,
+        "weight": 100,
+        "box_id": 96415
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81416,
+        "weight": 100,
+        "box_id": 96416
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81417,
+        "weight": 100,
+        "box_id": 96417
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81418,
+        "weight": 100,
+        "box_id": 96418
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81501,
+        "weight": 100,
+        "box_id": 96501
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81502,
+        "weight": 100,
+        "box_id": 96502
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81503,
+        "weight": 100,
+        "box_id": 96503
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81504,
+        "weight": 100,
+        "box_id": 96504
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81505,
+        "weight": 100,
+        "box_id": 96505
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81506,
+        "weight": 100,
+        "box_id": 96506
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81507,
+        "weight": 100,
+        "box_id": 96507
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81508,
+        "weight": 100,
+        "box_id": 96508
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81509,
+        "weight": 100,
+        "box_id": 96509
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81510,
+        "weight": 100,
+        "box_id": 96510
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81511,
+        "weight": 100,
+        "box_id": 96511
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81512,
+        "weight": 100,
+        "box_id": 96512
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81513,
+        "weight": 100,
+        "box_id": 96513
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81514,
+        "weight": 100,
+        "box_id": 96514
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81515,
+        "weight": 100,
+        "box_id": 96515
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81516,
+        "weight": 100,
+        "box_id": 96516
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81517,
+        "weight": 100,
+        "box_id": 96517
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81518,
+        "weight": 100,
+        "box_id": 96518
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81519,
+        "weight": 100,
+        "box_id": 96519
+    },
+    {
+        "difficulty": 9,
+        "chapter_id": 81520,
+        "weight": 100,
+        "box_id": 96520
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85001,
+        "weight": 100,
+        "box_id": 100001
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85002,
+        "weight": 100,
+        "box_id": 100002
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85003,
+        "weight": 100,
+        "box_id": 100003
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85004,
+        "weight": 100,
+        "box_id": 100004
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85005,
+        "weight": 100,
+        "box_id": 100005
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85006,
+        "weight": 100,
+        "box_id": 100006
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85007,
+        "weight": 100,
+        "box_id": 100007
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85008,
+        "weight": 100,
+        "box_id": 100008
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85009,
+        "weight": 100,
+        "box_id": 100009
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85010,
+        "weight": 100,
+        "box_id": 100010
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85011,
+        "weight": 100,
+        "box_id": 100011
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85012,
+        "weight": 100,
+        "box_id": 100012
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85013,
+        "weight": 100,
+        "box_id": 100013
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85014,
+        "weight": 100,
+        "box_id": 100014
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85015,
+        "weight": 100,
+        "box_id": 100015
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85016,
+        "weight": 100,
+        "box_id": 100016
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85017,
+        "weight": 100,
+        "box_id": 100017
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85018,
+        "weight": 100,
+        "box_id": 100018
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85019,
+        "weight": 100,
+        "box_id": 100019
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85020,
+        "weight": 100,
+        "box_id": 100020
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85021,
+        "weight": 100,
+        "box_id": 100021
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85022,
+        "weight": 100,
+        "box_id": 100022
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85023,
+        "weight": 100,
+        "box_id": 100023
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85024,
+        "weight": 100,
+        "box_id": 100024
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85025,
+        "weight": 100,
+        "box_id": 100025
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85026,
+        "weight": 100,
+        "box_id": 100026
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85027,
+        "weight": 100,
+        "box_id": 100027
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85028,
+        "weight": 100,
+        "box_id": 100028
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85029,
+        "weight": 100,
+        "box_id": 100029
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85030,
+        "weight": 100,
+        "box_id": 100030
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85031,
+        "weight": 100,
+        "box_id": 100031
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85032,
+        "weight": 100,
+        "box_id": 100032
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85033,
+        "weight": 100,
+        "box_id": 100033
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85034,
+        "weight": 100,
+        "box_id": 100034
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85035,
+        "weight": 100,
+        "box_id": 100035
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85036,
+        "weight": 100,
+        "box_id": 100036
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85037,
+        "weight": 100,
+        "box_id": 100037
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85038,
+        "weight": 100,
+        "box_id": 100038
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85039,
+        "weight": 100,
+        "box_id": 100039
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85040,
+        "weight": 100,
+        "box_id": 100040
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85041,
+        "weight": 100,
+        "box_id": 100041
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85042,
+        "weight": 100,
+        "box_id": 100042
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85043,
+        "weight": 100,
+        "box_id": 100043
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85044,
+        "weight": 100,
+        "box_id": 100044
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85045,
+        "weight": 100,
+        "box_id": 100045
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85046,
+        "weight": 100,
+        "box_id": 100046
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85047,
+        "weight": 100,
+        "box_id": 100047
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85048,
+        "weight": 100,
+        "box_id": 100048
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85049,
+        "weight": 100,
+        "box_id": 100049
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85050,
+        "weight": 100,
+        "box_id": 100050
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85051,
+        "weight": 100,
+        "box_id": 100051
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85052,
+        "weight": 100,
+        "box_id": 100052
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85053,
+        "weight": 100,
+        "box_id": 100053
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85054,
+        "weight": 100,
+        "box_id": 100054
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85055,
+        "weight": 100,
+        "box_id": 100055
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85056,
+        "weight": 100,
+        "box_id": 100056
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85057,
+        "weight": 100,
+        "box_id": 100057
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85058,
+        "weight": 100,
+        "box_id": 100058
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85059,
+        "weight": 100,
+        "box_id": 100059
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85060,
+        "weight": 100,
+        "box_id": 100060
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85061,
+        "weight": 100,
+        "box_id": 100061
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85062,
+        "weight": 100,
+        "box_id": 100062
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85063,
+        "weight": 100,
+        "box_id": 100063
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85064,
+        "weight": 100,
+        "box_id": 100064
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85065,
+        "weight": 100,
+        "box_id": 100065
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85066,
+        "weight": 100,
+        "box_id": 100066
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85067,
+        "weight": 100,
+        "box_id": 100067
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85068,
+        "weight": 100,
+        "box_id": 100068
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85069,
+        "weight": 100,
+        "box_id": 100069
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85070,
+        "weight": 100,
+        "box_id": 100070
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85071,
+        "weight": 100,
+        "box_id": 100071
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85072,
+        "weight": 100,
+        "box_id": 100072
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85073,
+        "weight": 100,
+        "box_id": 100073
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85074,
+        "weight": 100,
+        "box_id": 100074
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85075,
+        "weight": 100,
+        "box_id": 100075
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85076,
+        "weight": 100,
+        "box_id": 100076
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85077,
+        "weight": 100,
+        "box_id": 100077
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85078,
+        "weight": 100,
+        "box_id": 100078
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85079,
+        "weight": 100,
+        "box_id": 100079
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85080,
+        "weight": 100,
+        "box_id": 100080
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85081,
+        "weight": 100,
+        "box_id": 100081
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85082,
+        "weight": 100,
+        "box_id": 100082
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85083,
+        "weight": 100,
+        "box_id": 100083
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85084,
+        "weight": 100,
+        "box_id": 100084
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85085,
+        "weight": 100,
+        "box_id": 100085
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85086,
+        "weight": 100,
+        "box_id": 100086
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85087,
+        "weight": 100,
+        "box_id": 100087
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85088,
+        "weight": 100,
+        "box_id": 100088
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85089,
+        "weight": 100,
+        "box_id": 100089
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85090,
+        "weight": 100,
+        "box_id": 100090
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85091,
+        "weight": 100,
+        "box_id": 100091
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85092,
+        "weight": 100,
+        "box_id": 100092
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85093,
+        "weight": 100,
+        "box_id": 100093
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85094,
+        "weight": 100,
+        "box_id": 100094
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85095,
+        "weight": 100,
+        "box_id": 100095
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85096,
+        "weight": 100,
+        "box_id": 100096
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85097,
+        "weight": 100,
+        "box_id": 100097
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85098,
+        "weight": 100,
+        "box_id": 100098
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85099,
+        "weight": 100,
+        "box_id": 100099
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85100,
+        "weight": 100,
+        "box_id": 100100
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85101,
+        "weight": 100,
+        "box_id": 100101
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85102,
+        "weight": 100,
+        "box_id": 100102
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85103,
+        "weight": 100,
+        "box_id": 100103
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85104,
+        "weight": 100,
+        "box_id": 100104
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85105,
+        "weight": 100,
+        "box_id": 100105
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85106,
+        "weight": 100,
+        "box_id": 100106
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85107,
+        "weight": 100,
+        "box_id": 100107
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85108,
+        "weight": 100,
+        "box_id": 100108
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85109,
+        "weight": 100,
+        "box_id": 100109
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85110,
+        "weight": 100,
+        "box_id": 100110
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85111,
+        "weight": 100,
+        "box_id": 100111
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85112,
+        "weight": 100,
+        "box_id": 100112
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85113,
+        "weight": 100,
+        "box_id": 100113
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85114,
+        "weight": 100,
+        "box_id": 100114
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85115,
+        "weight": 100,
+        "box_id": 100115
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85116,
+        "weight": 100,
+        "box_id": 100116
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85117,
+        "weight": 100,
+        "box_id": 100117
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85118,
+        "weight": 100,
+        "box_id": 100118
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85119,
+        "weight": 100,
+        "box_id": 100119
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85120,
+        "weight": 100,
+        "box_id": 100120
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85121,
+        "weight": 100,
+        "box_id": 100121
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85122,
+        "weight": 100,
+        "box_id": 100122
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85123,
+        "weight": 100,
+        "box_id": 100123
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85124,
+        "weight": 100,
+        "box_id": 100124
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85125,
+        "weight": 100,
+        "box_id": 100125
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85126,
+        "weight": 100,
+        "box_id": 100126
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85127,
+        "weight": 100,
+        "box_id": 100127
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85128,
+        "weight": 100,
+        "box_id": 100128
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85129,
+        "weight": 100,
+        "box_id": 100129
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85130,
+        "weight": 100,
+        "box_id": 100130
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85131,
+        "weight": 100,
+        "box_id": 100131
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85132,
+        "weight": 100,
+        "box_id": 100132
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85133,
+        "weight": 100,
+        "box_id": 100133
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85134,
+        "weight": 100,
+        "box_id": 100134
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85135,
+        "weight": 100,
+        "box_id": 100135
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85136,
+        "weight": 100,
+        "box_id": 100136
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85137,
+        "weight": 100,
+        "box_id": 100137
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85138,
+        "weight": 100,
+        "box_id": 100138
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85139,
+        "weight": 100,
+        "box_id": 100139
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85140,
+        "weight": 100,
+        "box_id": 100140
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85141,
+        "weight": 100,
+        "box_id": 100141
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85142,
+        "weight": 100,
+        "box_id": 100142
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85143,
+        "weight": 100,
+        "box_id": 100143
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85144,
+        "weight": 100,
+        "box_id": 100144
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85145,
+        "weight": 100,
+        "box_id": 100145
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85146,
+        "weight": 100,
+        "box_id": 100146
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85147,
+        "weight": 100,
+        "box_id": 100147
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85148,
+        "weight": 100,
+        "box_id": 100148
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85149,
+        "weight": 100,
+        "box_id": 100149
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85150,
+        "weight": 100,
+        "box_id": 100150
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85151,
+        "weight": 100,
+        "box_id": 100151
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85152,
+        "weight": 100,
+        "box_id": 100152
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85153,
+        "weight": 100,
+        "box_id": 100153
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85154,
+        "weight": 100,
+        "box_id": 100154
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85155,
+        "weight": 100,
+        "box_id": 100155
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85156,
+        "weight": 100,
+        "box_id": 100156
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85157,
+        "weight": 100,
+        "box_id": 100157
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85158,
+        "weight": 100,
+        "box_id": 100158
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85159,
+        "weight": 100,
+        "box_id": 100159
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85160,
+        "weight": 100,
+        "box_id": 100160
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85161,
+        "weight": 100,
+        "box_id": 100161
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85162,
+        "weight": 100,
+        "box_id": 100162
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85163,
+        "weight": 100,
+        "box_id": 100163
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85164,
+        "weight": 100,
+        "box_id": 100164
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85165,
+        "weight": 100,
+        "box_id": 100165
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85166,
+        "weight": 100,
+        "box_id": 100166
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85167,
+        "weight": 100,
+        "box_id": 100167
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85168,
+        "weight": 100,
+        "box_id": 100168
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85169,
+        "weight": 100,
+        "box_id": 100169
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85170,
+        "weight": 100,
+        "box_id": 100170
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85171,
+        "weight": 100,
+        "box_id": 100171
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85172,
+        "weight": 100,
+        "box_id": 100172
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85173,
+        "weight": 100,
+        "box_id": 100173
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85174,
+        "weight": 100,
+        "box_id": 100174
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85175,
+        "weight": 100,
+        "box_id": 100175
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85176,
+        "weight": 100,
+        "box_id": 100176
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85177,
+        "weight": 100,
+        "box_id": 100177
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85178,
+        "weight": 100,
+        "box_id": 100178
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85179,
+        "weight": 100,
+        "box_id": 100179
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85180,
+        "weight": 100,
+        "box_id": 100180
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85181,
+        "weight": 100,
+        "box_id": 100181
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85182,
+        "weight": 100,
+        "box_id": 100182
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85183,
+        "weight": 100,
+        "box_id": 100183
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85184,
+        "weight": 100,
+        "box_id": 100184
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85185,
+        "weight": 100,
+        "box_id": 100185
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85186,
+        "weight": 100,
+        "box_id": 100186
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85187,
+        "weight": 100,
+        "box_id": 100187
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85188,
+        "weight": 100,
+        "box_id": 100188
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85189,
+        "weight": 100,
+        "box_id": 100189
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85190,
+        "weight": 100,
+        "box_id": 100190
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85191,
+        "weight": 100,
+        "box_id": 100191
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85192,
+        "weight": 100,
+        "box_id": 100192
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85193,
+        "weight": 100,
+        "box_id": 100193
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85194,
+        "weight": 100,
+        "box_id": 100194
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85195,
+        "weight": 100,
+        "box_id": 100195
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85196,
+        "weight": 100,
+        "box_id": 100196
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85197,
+        "weight": 100,
+        "box_id": 100197
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85198,
+        "weight": 100,
+        "box_id": 100198
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85199,
+        "weight": 100,
+        "box_id": 100199
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85200,
+        "weight": 100,
+        "box_id": 100200
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85201,
+        "weight": 100,
+        "box_id": 100201
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85202,
+        "weight": 100,
+        "box_id": 100202
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85203,
+        "weight": 100,
+        "box_id": 100203
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85204,
+        "weight": 100,
+        "box_id": 100204
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85205,
+        "weight": 100,
+        "box_id": 100205
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85206,
+        "weight": 100,
+        "box_id": 100206
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85207,
+        "weight": 100,
+        "box_id": 100207
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85208,
+        "weight": 100,
+        "box_id": 100208
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85209,
+        "weight": 100,
+        "box_id": 100209
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85210,
+        "weight": 100,
+        "box_id": 100210
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85211,
+        "weight": 100,
+        "box_id": 100211
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85212,
+        "weight": 100,
+        "box_id": 100212
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85213,
+        "weight": 100,
+        "box_id": 100213
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85214,
+        "weight": 100,
+        "box_id": 100214
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85215,
+        "weight": 100,
+        "box_id": 100215
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85216,
+        "weight": 100,
+        "box_id": 100216
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85217,
+        "weight": 100,
+        "box_id": 100217
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85218,
+        "weight": 100,
+        "box_id": 100218
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85219,
+        "weight": 100,
+        "box_id": 100219
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85220,
+        "weight": 100,
+        "box_id": 100220
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85221,
+        "weight": 100,
+        "box_id": 100221
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85222,
+        "weight": 100,
+        "box_id": 100222
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85223,
+        "weight": 100,
+        "box_id": 100223
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85224,
+        "weight": 100,
+        "box_id": 100224
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85225,
+        "weight": 100,
+        "box_id": 100225
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85226,
+        "weight": 100,
+        "box_id": 100226
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85227,
+        "weight": 100,
+        "box_id": 100227
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85228,
+        "weight": 100,
+        "box_id": 100228
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85229,
+        "weight": 100,
+        "box_id": 100229
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85230,
+        "weight": 100,
+        "box_id": 100230
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85231,
+        "weight": 100,
+        "box_id": 100231
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85232,
+        "weight": 100,
+        "box_id": 100232
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85233,
+        "weight": 100,
+        "box_id": 100233
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85234,
+        "weight": 100,
+        "box_id": 100234
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85235,
+        "weight": 100,
+        "box_id": 100235
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85236,
+        "weight": 100,
+        "box_id": 100236
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85237,
+        "weight": 100,
+        "box_id": 100237
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85238,
+        "weight": 100,
+        "box_id": 100238
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85239,
+        "weight": 100,
+        "box_id": 100239
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85240,
+        "weight": 100,
+        "box_id": 100240
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85241,
+        "weight": 100,
+        "box_id": 100241
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85242,
+        "weight": 100,
+        "box_id": 100242
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85243,
+        "weight": 100,
+        "box_id": 100243
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85244,
+        "weight": 100,
+        "box_id": 100244
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85245,
+        "weight": 100,
+        "box_id": 100245
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85246,
+        "weight": 100,
+        "box_id": 100246
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85247,
+        "weight": 100,
+        "box_id": 100247
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85248,
+        "weight": 100,
+        "box_id": 100248
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85249,
+        "weight": 100,
+        "box_id": 100249
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85250,
+        "weight": 100,
+        "box_id": 100250
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85251,
+        "weight": 100,
+        "box_id": 100251
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85252,
+        "weight": 100,
+        "box_id": 100252
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85253,
+        "weight": 100,
+        "box_id": 100253
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85254,
+        "weight": 100,
+        "box_id": 100254
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85255,
+        "weight": 100,
+        "box_id": 100255
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85256,
+        "weight": 100,
+        "box_id": 100256
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85257,
+        "weight": 100,
+        "box_id": 100257
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85258,
+        "weight": 100,
+        "box_id": 100258
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85259,
+        "weight": 100,
+        "box_id": 100259
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85260,
+        "weight": 100,
+        "box_id": 100260
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85261,
+        "weight": 100,
+        "box_id": 100261
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85262,
+        "weight": 100,
+        "box_id": 100262
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85263,
+        "weight": 100,
+        "box_id": 100263
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85264,
+        "weight": 100,
+        "box_id": 100264
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85265,
+        "weight": 100,
+        "box_id": 100265
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85266,
+        "weight": 100,
+        "box_id": 100266
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85267,
+        "weight": 100,
+        "box_id": 100267
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85268,
+        "weight": 100,
+        "box_id": 100268
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85269,
+        "weight": 100,
+        "box_id": 100269
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85270,
+        "weight": 100,
+        "box_id": 100270
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85271,
+        "weight": 100,
+        "box_id": 100271
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85272,
+        "weight": 100,
+        "box_id": 100272
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85273,
+        "weight": 100,
+        "box_id": 100273
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85274,
+        "weight": 100,
+        "box_id": 100274
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85275,
+        "weight": 100,
+        "box_id": 100275
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85276,
+        "weight": 100,
+        "box_id": 100276
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85277,
+        "weight": 100,
+        "box_id": 100277
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85278,
+        "weight": 100,
+        "box_id": 100278
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85279,
+        "weight": 100,
+        "box_id": 100279
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85280,
+        "weight": 100,
+        "box_id": 100280
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85281,
+        "weight": 100,
+        "box_id": 100281
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85282,
+        "weight": 100,
+        "box_id": 100282
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85283,
+        "weight": 100,
+        "box_id": 100283
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85284,
+        "weight": 100,
+        "box_id": 100284
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85285,
+        "weight": 100,
+        "box_id": 100285
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85286,
+        "weight": 100,
+        "box_id": 100286
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85287,
+        "weight": 100,
+        "box_id": 100287
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85288,
+        "weight": 100,
+        "box_id": 100288
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85289,
+        "weight": 100,
+        "box_id": 100289
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85290,
+        "weight": 100,
+        "box_id": 100290
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85291,
+        "weight": 100,
+        "box_id": 100291
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85292,
+        "weight": 100,
+        "box_id": 100292
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85293,
+        "weight": 100,
+        "box_id": 100293
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85294,
+        "weight": 100,
+        "box_id": 100294
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85295,
+        "weight": 100,
+        "box_id": 100295
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85296,
+        "weight": 100,
+        "box_id": 100296
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85297,
+        "weight": 100,
+        "box_id": 100297
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85298,
+        "weight": 100,
+        "box_id": 100298
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85299,
+        "weight": 100,
+        "box_id": 100299
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85300,
+        "weight": 100,
+        "box_id": 100300
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85301,
+        "weight": 100,
+        "box_id": 100301
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85302,
+        "weight": 100,
+        "box_id": 100302
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85303,
+        "weight": 100,
+        "box_id": 100303
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85304,
+        "weight": 100,
+        "box_id": 100304
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85305,
+        "weight": 100,
+        "box_id": 100305
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85306,
+        "weight": 100,
+        "box_id": 100306
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85307,
+        "weight": 100,
+        "box_id": 100307
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85308,
+        "weight": 100,
+        "box_id": 100308
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85309,
+        "weight": 100,
+        "box_id": 100309
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85310,
+        "weight": 100,
+        "box_id": 100310
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85311,
+        "weight": 100,
+        "box_id": 100311
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85312,
+        "weight": 100,
+        "box_id": 100312
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85313,
+        "weight": 100,
+        "box_id": 100313
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85314,
+        "weight": 100,
+        "box_id": 100314
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85315,
+        "weight": 100,
+        "box_id": 100315
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85316,
+        "weight": 100,
+        "box_id": 100316
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85317,
+        "weight": 100,
+        "box_id": 100317
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85318,
+        "weight": 100,
+        "box_id": 100318
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85319,
+        "weight": 100,
+        "box_id": 100319
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85320,
+        "weight": 100,
+        "box_id": 100320
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85321,
+        "weight": 100,
+        "box_id": 100321
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85322,
+        "weight": 100,
+        "box_id": 100322
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85323,
+        "weight": 100,
+        "box_id": 100323
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85324,
+        "weight": 100,
+        "box_id": 100324
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85325,
+        "weight": 100,
+        "box_id": 100325
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85326,
+        "weight": 100,
+        "box_id": 100326
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85327,
+        "weight": 100,
+        "box_id": 100327
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85328,
+        "weight": 100,
+        "box_id": 100328
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85329,
+        "weight": 100,
+        "box_id": 100329
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85330,
+        "weight": 100,
+        "box_id": 100330
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85331,
+        "weight": 100,
+        "box_id": 100331
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85332,
+        "weight": 100,
+        "box_id": 100332
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85333,
+        "weight": 100,
+        "box_id": 100333
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85334,
+        "weight": 100,
+        "box_id": 100334
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85335,
+        "weight": 100,
+        "box_id": 100335
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85336,
+        "weight": 100,
+        "box_id": 100336
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85337,
+        "weight": 100,
+        "box_id": 100337
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85338,
+        "weight": 100,
+        "box_id": 100338
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85339,
+        "weight": 100,
+        "box_id": 100339
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85340,
+        "weight": 100,
+        "box_id": 100340
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85341,
+        "weight": 100,
+        "box_id": 100341
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85342,
+        "weight": 100,
+        "box_id": 100342
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85343,
+        "weight": 100,
+        "box_id": 100343
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85344,
+        "weight": 100,
+        "box_id": 100344
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85345,
+        "weight": 100,
+        "box_id": 100345
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85346,
+        "weight": 100,
+        "box_id": 100346
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85347,
+        "weight": 100,
+        "box_id": 100347
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85348,
+        "weight": 100,
+        "box_id": 100348
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85349,
+        "weight": 100,
+        "box_id": 100349
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85350,
+        "weight": 100,
+        "box_id": 100350
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85351,
+        "weight": 100,
+        "box_id": 100351
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85352,
+        "weight": 100,
+        "box_id": 100352
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85353,
+        "weight": 100,
+        "box_id": 100353
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85354,
+        "weight": 100,
+        "box_id": 100354
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85355,
+        "weight": 100,
+        "box_id": 100355
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85356,
+        "weight": 100,
+        "box_id": 100356
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85357,
+        "weight": 100,
+        "box_id": 100357
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85358,
+        "weight": 100,
+        "box_id": 100358
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85359,
+        "weight": 100,
+        "box_id": 100359
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85360,
+        "weight": 100,
+        "box_id": 100360
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85361,
+        "weight": 100,
+        "box_id": 100361
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85362,
+        "weight": 100,
+        "box_id": 100362
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85363,
+        "weight": 100,
+        "box_id": 100363
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85364,
+        "weight": 100,
+        "box_id": 100364
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85365,
+        "weight": 100,
+        "box_id": 100365
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85366,
+        "weight": 100,
+        "box_id": 100366
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85367,
+        "weight": 100,
+        "box_id": 100367
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85368,
+        "weight": 100,
+        "box_id": 100368
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85369,
+        "weight": 100,
+        "box_id": 100369
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85370,
+        "weight": 100,
+        "box_id": 100370
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85371,
+        "weight": 100,
+        "box_id": 100371
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85372,
+        "weight": 100,
+        "box_id": 100372
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85373,
+        "weight": 100,
+        "box_id": 100373
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85374,
+        "weight": 100,
+        "box_id": 100374
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85375,
+        "weight": 100,
+        "box_id": 100375
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85376,
+        "weight": 100,
+        "box_id": 100376
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85377,
+        "weight": 100,
+        "box_id": 100377
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85378,
+        "weight": 100,
+        "box_id": 100378
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85379,
+        "weight": 100,
+        "box_id": 100379
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85380,
+        "weight": 100,
+        "box_id": 100380
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85381,
+        "weight": 100,
+        "box_id": 100381
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85382,
+        "weight": 100,
+        "box_id": 100382
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85383,
+        "weight": 100,
+        "box_id": 100383
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85384,
+        "weight": 100,
+        "box_id": 100384
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85385,
+        "weight": 100,
+        "box_id": 100385
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85386,
+        "weight": 100,
+        "box_id": 100386
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85387,
+        "weight": 100,
+        "box_id": 100387
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85388,
+        "weight": 100,
+        "box_id": 100388
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85389,
+        "weight": 100,
+        "box_id": 100389
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85390,
+        "weight": 100,
+        "box_id": 100390
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85391,
+        "weight": 100,
+        "box_id": 100391
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85392,
+        "weight": 100,
+        "box_id": 100392
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85393,
+        "weight": 100,
+        "box_id": 100393
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85394,
+        "weight": 100,
+        "box_id": 100394
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85395,
+        "weight": 100,
+        "box_id": 100395
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85396,
+        "weight": 100,
+        "box_id": 100396
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85397,
+        "weight": 100,
+        "box_id": 100397
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85398,
+        "weight": 100,
+        "box_id": 100398
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85399,
+        "weight": 100,
+        "box_id": 100399
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85400,
+        "weight": 100,
+        "box_id": 100400
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85401,
+        "weight": 100,
+        "box_id": 100401
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85402,
+        "weight": 100,
+        "box_id": 100402
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85403,
+        "weight": 100,
+        "box_id": 100403
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85404,
+        "weight": 100,
+        "box_id": 100404
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85405,
+        "weight": 100,
+        "box_id": 100405
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85406,
+        "weight": 100,
+        "box_id": 100406
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85407,
+        "weight": 100,
+        "box_id": 100407
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85408,
+        "weight": 100,
+        "box_id": 100408
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85409,
+        "weight": 100,
+        "box_id": 100409
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85410,
+        "weight": 100,
+        "box_id": 100410
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85411,
+        "weight": 100,
+        "box_id": 100411
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85412,
+        "weight": 100,
+        "box_id": 100412
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85413,
+        "weight": 100,
+        "box_id": 100413
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85414,
+        "weight": 100,
+        "box_id": 100414
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85415,
+        "weight": 100,
+        "box_id": 100415
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85416,
+        "weight": 100,
+        "box_id": 100416
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85417,
+        "weight": 100,
+        "box_id": 100417
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85418,
+        "weight": 100,
+        "box_id": 100418
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85419,
+        "weight": 100,
+        "box_id": 100419
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85420,
+        "weight": 100,
+        "box_id": 100420
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85421,
+        "weight": 100,
+        "box_id": 100421
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85422,
+        "weight": 100,
+        "box_id": 100422
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85423,
+        "weight": 100,
+        "box_id": 100423
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85424,
+        "weight": 100,
+        "box_id": 100424
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85425,
+        "weight": 100,
+        "box_id": 100425
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85426,
+        "weight": 100,
+        "box_id": 100426
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85427,
+        "weight": 100,
+        "box_id": 100427
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85428,
+        "weight": 100,
+        "box_id": 100428
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85429,
+        "weight": 100,
+        "box_id": 100429
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85430,
+        "weight": 100,
+        "box_id": 100430
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85431,
+        "weight": 100,
+        "box_id": 100431
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85432,
+        "weight": 100,
+        "box_id": 100432
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85433,
+        "weight": 100,
+        "box_id": 100433
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85434,
+        "weight": 100,
+        "box_id": 100434
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85435,
+        "weight": 100,
+        "box_id": 100435
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85436,
+        "weight": 100,
+        "box_id": 100436
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85437,
+        "weight": 100,
+        "box_id": 100437
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85438,
+        "weight": 100,
+        "box_id": 100438
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85439,
+        "weight": 100,
+        "box_id": 100439
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85440,
+        "weight": 100,
+        "box_id": 100440
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85441,
+        "weight": 100,
+        "box_id": 100441
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85442,
+        "weight": 100,
+        "box_id": 100442
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85443,
+        "weight": 100,
+        "box_id": 100443
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85444,
+        "weight": 100,
+        "box_id": 100444
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85445,
+        "weight": 100,
+        "box_id": 100445
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85446,
+        "weight": 100,
+        "box_id": 100446
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85447,
+        "weight": 100,
+        "box_id": 100447
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85448,
+        "weight": 100,
+        "box_id": 100448
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85449,
+        "weight": 100,
+        "box_id": 100449
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85450,
+        "weight": 100,
+        "box_id": 100450
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85451,
+        "weight": 100,
+        "box_id": 100451
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85452,
+        "weight": 100,
+        "box_id": 100452
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85453,
+        "weight": 100,
+        "box_id": 100453
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85454,
+        "weight": 100,
+        "box_id": 100454
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85455,
+        "weight": 100,
+        "box_id": 100455
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85456,
+        "weight": 100,
+        "box_id": 100456
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85457,
+        "weight": 100,
+        "box_id": 100457
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85458,
+        "weight": 100,
+        "box_id": 100458
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85459,
+        "weight": 100,
+        "box_id": 100459
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85460,
+        "weight": 100,
+        "box_id": 100460
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85461,
+        "weight": 100,
+        "box_id": 100461
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85462,
+        "weight": 100,
+        "box_id": 100462
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85463,
+        "weight": 100,
+        "box_id": 100463
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85464,
+        "weight": 100,
+        "box_id": 100464
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85465,
+        "weight": 100,
+        "box_id": 100465
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85466,
+        "weight": 100,
+        "box_id": 100466
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85467,
+        "weight": 100,
+        "box_id": 100467
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85468,
+        "weight": 100,
+        "box_id": 100468
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85469,
+        "weight": 100,
+        "box_id": 100469
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85470,
+        "weight": 100,
+        "box_id": 100470
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85471,
+        "weight": 100,
+        "box_id": 100471
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85472,
+        "weight": 100,
+        "box_id": 100472
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85473,
+        "weight": 100,
+        "box_id": 100473
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85474,
+        "weight": 100,
+        "box_id": 100474
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85475,
+        "weight": 100,
+        "box_id": 100475
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85476,
+        "weight": 100,
+        "box_id": 100476
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85477,
+        "weight": 100,
+        "box_id": 100477
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85478,
+        "weight": 100,
+        "box_id": 100478
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85479,
+        "weight": 100,
+        "box_id": 100479
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85480,
+        "weight": 100,
+        "box_id": 100480
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85481,
+        "weight": 100,
+        "box_id": 100481
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85482,
+        "weight": 100,
+        "box_id": 100482
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85483,
+        "weight": 100,
+        "box_id": 100483
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85484,
+        "weight": 100,
+        "box_id": 100484
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85485,
+        "weight": 100,
+        "box_id": 100485
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85486,
+        "weight": 100,
+        "box_id": 100486
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85487,
+        "weight": 100,
+        "box_id": 100487
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85488,
+        "weight": 100,
+        "box_id": 100488
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85489,
+        "weight": 100,
+        "box_id": 100489
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85490,
+        "weight": 100,
+        "box_id": 100490
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85491,
+        "weight": 100,
+        "box_id": 100491
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85492,
+        "weight": 100,
+        "box_id": 100492
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85493,
+        "weight": 100,
+        "box_id": 100493
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85494,
+        "weight": 100,
+        "box_id": 100494
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85495,
+        "weight": 100,
+        "box_id": 100495
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85496,
+        "weight": 100,
+        "box_id": 100496
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85497,
+        "weight": 100,
+        "box_id": 100497
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85498,
+        "weight": 100,
+        "box_id": 100498
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85499,
+        "weight": 100,
+        "box_id": 100499
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85500,
+        "weight": 100,
+        "box_id": 100500
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85501,
+        "weight": 100,
+        "box_id": 100501
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85502,
+        "weight": 100,
+        "box_id": 100502
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85503,
+        "weight": 100,
+        "box_id": 100503
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85504,
+        "weight": 100,
+        "box_id": 100504
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85505,
+        "weight": 100,
+        "box_id": 100505
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85506,
+        "weight": 100,
+        "box_id": 100506
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85507,
+        "weight": 100,
+        "box_id": 100507
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85508,
+        "weight": 100,
+        "box_id": 100508
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85509,
+        "weight": 100,
+        "box_id": 100509
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85510,
+        "weight": 100,
+        "box_id": 100510
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85511,
+        "weight": 100,
+        "box_id": 100511
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85512,
+        "weight": 100,
+        "box_id": 100512
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85513,
+        "weight": 100,
+        "box_id": 100513
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85514,
+        "weight": 100,
+        "box_id": 100514
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85515,
+        "weight": 100,
+        "box_id": 100515
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85516,
+        "weight": 100,
+        "box_id": 100516
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85517,
+        "weight": 100,
+        "box_id": 100517
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85518,
+        "weight": 100,
+        "box_id": 100518
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85519,
+        "weight": 100,
+        "box_id": 100519
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85520,
+        "weight": 100,
+        "box_id": 100520
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85521,
+        "weight": 100,
+        "box_id": 100521
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85522,
+        "weight": 100,
+        "box_id": 100522
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85523,
+        "weight": 100,
+        "box_id": 100523
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85524,
+        "weight": 100,
+        "box_id": 100524
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85525,
+        "weight": 100,
+        "box_id": 100525
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85526,
+        "weight": 100,
+        "box_id": 100526
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85527,
+        "weight": 100,
+        "box_id": 100527
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85528,
+        "weight": 100,
+        "box_id": 100528
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85529,
+        "weight": 100,
+        "box_id": 100529
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85530,
+        "weight": 100,
+        "box_id": 100530
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85531,
+        "weight": 100,
+        "box_id": 100531
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85532,
+        "weight": 100,
+        "box_id": 100532
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85533,
+        "weight": 100,
+        "box_id": 100533
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85534,
+        "weight": 100,
+        "box_id": 100534
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85535,
+        "weight": 100,
+        "box_id": 100535
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85536,
+        "weight": 100,
+        "box_id": 100536
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85537,
+        "weight": 100,
+        "box_id": 100537
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85538,
+        "weight": 100,
+        "box_id": 100538
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85539,
+        "weight": 100,
+        "box_id": 100539
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85540,
+        "weight": 100,
+        "box_id": 100540
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85541,
+        "weight": 100,
+        "box_id": 100541
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85542,
+        "weight": 100,
+        "box_id": 100542
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85543,
+        "weight": 100,
+        "box_id": 100543
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85544,
+        "weight": 100,
+        "box_id": 100544
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85545,
+        "weight": 100,
+        "box_id": 100545
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85546,
+        "weight": 100,
+        "box_id": 100546
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85547,
+        "weight": 100,
+        "box_id": 100547
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85548,
+        "weight": 100,
+        "box_id": 100548
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85549,
+        "weight": 100,
+        "box_id": 100549
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85550,
+        "weight": 100,
+        "box_id": 100550
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85551,
+        "weight": 100,
+        "box_id": 100551
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85552,
+        "weight": 100,
+        "box_id": 100552
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85553,
+        "weight": 100,
+        "box_id": 100553
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85554,
+        "weight": 100,
+        "box_id": 100554
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85555,
+        "weight": 100,
+        "box_id": 100555
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85556,
+        "weight": 100,
+        "box_id": 100556
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85557,
+        "weight": 100,
+        "box_id": 100557
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85558,
+        "weight": 100,
+        "box_id": 100558
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85559,
+        "weight": 100,
+        "box_id": 100559
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85560,
+        "weight": 100,
+        "box_id": 100560
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85561,
+        "weight": 100,
+        "box_id": 100561
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85562,
+        "weight": 100,
+        "box_id": 100562
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85563,
+        "weight": 100,
+        "box_id": 100563
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85564,
+        "weight": 100,
+        "box_id": 100564
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85565,
+        "weight": 100,
+        "box_id": 100565
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85566,
+        "weight": 100,
+        "box_id": 100566
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85567,
+        "weight": 100,
+        "box_id": 100567
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85568,
+        "weight": 100,
+        "box_id": 100568
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85569,
+        "weight": 100,
+        "box_id": 100569
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85570,
+        "weight": 100,
+        "box_id": 100570
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85571,
+        "weight": 100,
+        "box_id": 100571
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85572,
+        "weight": 100,
+        "box_id": 100572
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85573,
+        "weight": 100,
+        "box_id": 100573
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85574,
+        "weight": 100,
+        "box_id": 100574
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85575,
+        "weight": 100,
+        "box_id": 100575
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85576,
+        "weight": 100,
+        "box_id": 100576
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85577,
+        "weight": 100,
+        "box_id": 100577
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85578,
+        "weight": 100,
+        "box_id": 100578
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85579,
+        "weight": 100,
+        "box_id": 100579
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85580,
+        "weight": 100,
+        "box_id": 100580
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85581,
+        "weight": 100,
+        "box_id": 100581
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85582,
+        "weight": 100,
+        "box_id": 100582
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85583,
+        "weight": 100,
+        "box_id": 100583
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85584,
+        "weight": 100,
+        "box_id": 100584
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85585,
+        "weight": 100,
+        "box_id": 100585
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85586,
+        "weight": 100,
+        "box_id": 100586
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85587,
+        "weight": 100,
+        "box_id": 100587
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85588,
+        "weight": 100,
+        "box_id": 100588
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85589,
+        "weight": 100,
+        "box_id": 100589
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85590,
+        "weight": 100,
+        "box_id": 100590
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85591,
+        "weight": 100,
+        "box_id": 100591
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85592,
+        "weight": 100,
+        "box_id": 100592
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85593,
+        "weight": 100,
+        "box_id": 100593
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85594,
+        "weight": 100,
+        "box_id": 100594
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85595,
+        "weight": 100,
+        "box_id": 100595
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85596,
+        "weight": 100,
+        "box_id": 100596
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85597,
+        "weight": 100,
+        "box_id": 100597
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85598,
+        "weight": 100,
+        "box_id": 100598
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85599,
+        "weight": 100,
+        "box_id": 100599
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85600,
+        "weight": 100,
+        "box_id": 100600
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85601,
+        "weight": 100,
+        "box_id": 100601
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85602,
+        "weight": 100,
+        "box_id": 100602
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85603,
+        "weight": 100,
+        "box_id": 100603
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85604,
+        "weight": 100,
+        "box_id": 100604
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85605,
+        "weight": 100,
+        "box_id": 100605
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85606,
+        "weight": 100,
+        "box_id": 100606
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85607,
+        "weight": 100,
+        "box_id": 100607
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85608,
+        "weight": 100,
+        "box_id": 100608
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85609,
+        "weight": 100,
+        "box_id": 100609
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85610,
+        "weight": 100,
+        "box_id": 100610
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85611,
+        "weight": 100,
+        "box_id": 100611
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85612,
+        "weight": 100,
+        "box_id": 100612
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85613,
+        "weight": 100,
+        "box_id": 100613
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85614,
+        "weight": 100,
+        "box_id": 100614
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85615,
+        "weight": 100,
+        "box_id": 100615
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85616,
+        "weight": 100,
+        "box_id": 100616
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85617,
+        "weight": 100,
+        "box_id": 100617
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85618,
+        "weight": 100,
+        "box_id": 100618
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85619,
+        "weight": 100,
+        "box_id": 100619
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85620,
+        "weight": 100,
+        "box_id": 100620
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85621,
+        "weight": 100,
+        "box_id": 100621
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85622,
+        "weight": 100,
+        "box_id": 100622
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85623,
+        "weight": 100,
+        "box_id": 100623
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85624,
+        "weight": 100,
+        "box_id": 100624
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85625,
+        "weight": 100,
+        "box_id": 100625
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85626,
+        "weight": 100,
+        "box_id": 100626
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85627,
+        "weight": 100,
+        "box_id": 100627
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85628,
+        "weight": 100,
+        "box_id": 100628
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85629,
+        "weight": 100,
+        "box_id": 100629
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85630,
+        "weight": 100,
+        "box_id": 100630
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85631,
+        "weight": 100,
+        "box_id": 100631
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85632,
+        "weight": 100,
+        "box_id": 100632
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85633,
+        "weight": 100,
+        "box_id": 100633
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85634,
+        "weight": 100,
+        "box_id": 100634
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85635,
+        "weight": 100,
+        "box_id": 100635
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85636,
+        "weight": 100,
+        "box_id": 100636
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85637,
+        "weight": 100,
+        "box_id": 100637
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85638,
+        "weight": 100,
+        "box_id": 100638
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85639,
+        "weight": 100,
+        "box_id": 100639
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85640,
+        "weight": 100,
+        "box_id": 100640
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85641,
+        "weight": 100,
+        "box_id": 100641
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85642,
+        "weight": 100,
+        "box_id": 100642
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85643,
+        "weight": 100,
+        "box_id": 100643
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85644,
+        "weight": 100,
+        "box_id": 100644
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85645,
+        "weight": 100,
+        "box_id": 100645
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85646,
+        "weight": 100,
+        "box_id": 100646
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85647,
+        "weight": 100,
+        "box_id": 100647
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85648,
+        "weight": 100,
+        "box_id": 100648
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85649,
+        "weight": 100,
+        "box_id": 100649
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85650,
+        "weight": 100,
+        "box_id": 100650
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85651,
+        "weight": 100,
+        "box_id": 100651
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85652,
+        "weight": 100,
+        "box_id": 100652
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85653,
+        "weight": 100,
+        "box_id": 100653
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85654,
+        "weight": 100,
+        "box_id": 100654
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85655,
+        "weight": 100,
+        "box_id": 100655
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85656,
+        "weight": 100,
+        "box_id": 100656
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85657,
+        "weight": 100,
+        "box_id": 100657
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85658,
+        "weight": 100,
+        "box_id": 100658
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85659,
+        "weight": 100,
+        "box_id": 100659
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85660,
+        "weight": 100,
+        "box_id": 100660
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85661,
+        "weight": 100,
+        "box_id": 100661
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85662,
+        "weight": 100,
+        "box_id": 100662
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85663,
+        "weight": 100,
+        "box_id": 100663
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85664,
+        "weight": 100,
+        "box_id": 100664
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85665,
+        "weight": 100,
+        "box_id": 100665
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85666,
+        "weight": 100,
+        "box_id": 100666
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85667,
+        "weight": 100,
+        "box_id": 100667
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85668,
+        "weight": 100,
+        "box_id": 100668
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85669,
+        "weight": 100,
+        "box_id": 100669
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85670,
+        "weight": 100,
+        "box_id": 100670
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85671,
+        "weight": 100,
+        "box_id": 100671
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85672,
+        "weight": 100,
+        "box_id": 100672
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85673,
+        "weight": 100,
+        "box_id": 100673
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85674,
+        "weight": 100,
+        "box_id": 100674
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85675,
+        "weight": 100,
+        "box_id": 100675
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85676,
+        "weight": 100,
+        "box_id": 100676
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85677,
+        "weight": 100,
+        "box_id": 100677
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85678,
+        "weight": 100,
+        "box_id": 100678
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85679,
+        "weight": 100,
+        "box_id": 100679
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85680,
+        "weight": 100,
+        "box_id": 100680
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85681,
+        "weight": 100,
+        "box_id": 100681
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85682,
+        "weight": 100,
+        "box_id": 100682
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85683,
+        "weight": 100,
+        "box_id": 100683
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85684,
+        "weight": 100,
+        "box_id": 100684
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85685,
+        "weight": 100,
+        "box_id": 100685
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85686,
+        "weight": 100,
+        "box_id": 100686
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85687,
+        "weight": 100,
+        "box_id": 100687
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85688,
+        "weight": 100,
+        "box_id": 100688
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85689,
+        "weight": 100,
+        "box_id": 100689
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85690,
+        "weight": 100,
+        "box_id": 100690
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85691,
+        "weight": 100,
+        "box_id": 100691
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85692,
+        "weight": 100,
+        "box_id": 100692
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85693,
+        "weight": 100,
+        "box_id": 100693
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85694,
+        "weight": 100,
+        "box_id": 100694
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85695,
+        "weight": 100,
+        "box_id": 100695
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85696,
+        "weight": 100,
+        "box_id": 100696
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85697,
+        "weight": 100,
+        "box_id": 100697
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85698,
+        "weight": 100,
+        "box_id": 100698
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85699,
+        "weight": 100,
+        "box_id": 100699
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85700,
+        "weight": 100,
+        "box_id": 100700
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85701,
+        "weight": 100,
+        "box_id": 100701
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85702,
+        "weight": 100,
+        "box_id": 100702
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85703,
+        "weight": 100,
+        "box_id": 100703
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85704,
+        "weight": 100,
+        "box_id": 100704
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85705,
+        "weight": 100,
+        "box_id": 100705
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85706,
+        "weight": 100,
+        "box_id": 100706
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85707,
+        "weight": 100,
+        "box_id": 100707
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85708,
+        "weight": 100,
+        "box_id": 100708
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85709,
+        "weight": 100,
+        "box_id": 100709
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85710,
+        "weight": 100,
+        "box_id": 100710
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85711,
+        "weight": 100,
+        "box_id": 100711
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85712,
+        "weight": 100,
+        "box_id": 100712
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85713,
+        "weight": 100,
+        "box_id": 100713
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85714,
+        "weight": 100,
+        "box_id": 100714
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85715,
+        "weight": 100,
+        "box_id": 100715
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85716,
+        "weight": 100,
+        "box_id": 100716
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85717,
+        "weight": 100,
+        "box_id": 100717
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85718,
+        "weight": 100,
+        "box_id": 100718
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85719,
+        "weight": 100,
+        "box_id": 100719
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85720,
+        "weight": 100,
+        "box_id": 100720
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85721,
+        "weight": 100,
+        "box_id": 100721
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85722,
+        "weight": 100,
+        "box_id": 100722
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85723,
+        "weight": 100,
+        "box_id": 100723
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85724,
+        "weight": 100,
+        "box_id": 100724
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85725,
+        "weight": 100,
+        "box_id": 100725
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85726,
+        "weight": 100,
+        "box_id": 100726
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85727,
+        "weight": 100,
+        "box_id": 100727
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85728,
+        "weight": 100,
+        "box_id": 100728
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85729,
+        "weight": 100,
+        "box_id": 100729
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85730,
+        "weight": 100,
+        "box_id": 100730
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85731,
+        "weight": 100,
+        "box_id": 100731
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85732,
+        "weight": 100,
+        "box_id": 100732
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85733,
+        "weight": 100,
+        "box_id": 100733
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85734,
+        "weight": 100,
+        "box_id": 100734
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85735,
+        "weight": 100,
+        "box_id": 100735
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85736,
+        "weight": 100,
+        "box_id": 100736
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85737,
+        "weight": 100,
+        "box_id": 100737
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85738,
+        "weight": 100,
+        "box_id": 100738
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85739,
+        "weight": 100,
+        "box_id": 100739
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85740,
+        "weight": 100,
+        "box_id": 100740
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85741,
+        "weight": 100,
+        "box_id": 100741
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85742,
+        "weight": 100,
+        "box_id": 100742
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85743,
+        "weight": 100,
+        "box_id": 100743
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85744,
+        "weight": 100,
+        "box_id": 100744
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85745,
+        "weight": 100,
+        "box_id": 100745
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85746,
+        "weight": 100,
+        "box_id": 100746
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85747,
+        "weight": 100,
+        "box_id": 100747
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85748,
+        "weight": 100,
+        "box_id": 100748
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85749,
+        "weight": 100,
+        "box_id": 100749
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85750,
+        "weight": 100,
+        "box_id": 100750
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85751,
+        "weight": 100,
+        "box_id": 100751
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85752,
+        "weight": 100,
+        "box_id": 100752
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85753,
+        "weight": 100,
+        "box_id": 100753
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85754,
+        "weight": 100,
+        "box_id": 100754
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85755,
+        "weight": 100,
+        "box_id": 100755
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85756,
+        "weight": 100,
+        "box_id": 100756
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85757,
+        "weight": 100,
+        "box_id": 100757
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85758,
+        "weight": 100,
+        "box_id": 100758
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85759,
+        "weight": 100,
+        "box_id": 100759
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85760,
+        "weight": 100,
+        "box_id": 100760
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85761,
+        "weight": 100,
+        "box_id": 100761
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85762,
+        "weight": 100,
+        "box_id": 100762
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85763,
+        "weight": 100,
+        "box_id": 100763
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85764,
+        "weight": 100,
+        "box_id": 100764
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85765,
+        "weight": 100,
+        "box_id": 100765
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85766,
+        "weight": 100,
+        "box_id": 100766
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85767,
+        "weight": 100,
+        "box_id": 100767
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85768,
+        "weight": 100,
+        "box_id": 100768
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85769,
+        "weight": 100,
+        "box_id": 100769
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85770,
+        "weight": 100,
+        "box_id": 100770
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85771,
+        "weight": 100,
+        "box_id": 100771
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85772,
+        "weight": 100,
+        "box_id": 100772
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85773,
+        "weight": 100,
+        "box_id": 100773
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85774,
+        "weight": 100,
+        "box_id": 100774
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85775,
+        "weight": 100,
+        "box_id": 100775
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85776,
+        "weight": 100,
+        "box_id": 100776
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85777,
+        "weight": 100,
+        "box_id": 100777
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85778,
+        "weight": 100,
+        "box_id": 100778
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85779,
+        "weight": 100,
+        "box_id": 100779
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85780,
+        "weight": 100,
+        "box_id": 100780
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85781,
+        "weight": 100,
+        "box_id": 100781
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85782,
+        "weight": 100,
+        "box_id": 100782
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85783,
+        "weight": 100,
+        "box_id": 100783
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85784,
+        "weight": 100,
+        "box_id": 100784
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85785,
+        "weight": 100,
+        "box_id": 100785
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85786,
+        "weight": 100,
+        "box_id": 100786
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85787,
+        "weight": 100,
+        "box_id": 100787
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85788,
+        "weight": 100,
+        "box_id": 100788
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85789,
+        "weight": 100,
+        "box_id": 100789
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85790,
+        "weight": 100,
+        "box_id": 100790
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85791,
+        "weight": 100,
+        "box_id": 100791
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85792,
+        "weight": 100,
+        "box_id": 100792
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85793,
+        "weight": 100,
+        "box_id": 100793
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85794,
+        "weight": 100,
+        "box_id": 100794
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85795,
+        "weight": 100,
+        "box_id": 100795
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85796,
+        "weight": 100,
+        "box_id": 100796
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85797,
+        "weight": 100,
+        "box_id": 100797
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85798,
+        "weight": 100,
+        "box_id": 100798
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85799,
+        "weight": 100,
+        "box_id": 100799
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85800,
+        "weight": 100,
+        "box_id": 100800
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85801,
+        "weight": 100,
+        "box_id": 100801
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85802,
+        "weight": 100,
+        "box_id": 100802
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85803,
+        "weight": 100,
+        "box_id": 100803
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85804,
+        "weight": 100,
+        "box_id": 100804
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85805,
+        "weight": 100,
+        "box_id": 100805
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85806,
+        "weight": 100,
+        "box_id": 100806
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85807,
+        "weight": 100,
+        "box_id": 100807
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85808,
+        "weight": 100,
+        "box_id": 100808
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85809,
+        "weight": 100,
+        "box_id": 100809
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85810,
+        "weight": 100,
+        "box_id": 100810
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85811,
+        "weight": 100,
+        "box_id": 100811
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85812,
+        "weight": 100,
+        "box_id": 100812
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85813,
+        "weight": 100,
+        "box_id": 100813
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85814,
+        "weight": 100,
+        "box_id": 100814
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85815,
+        "weight": 100,
+        "box_id": 100815
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85816,
+        "weight": 100,
+        "box_id": 100816
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85817,
+        "weight": 100,
+        "box_id": 100817
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85818,
+        "weight": 100,
+        "box_id": 100818
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85819,
+        "weight": 100,
+        "box_id": 100819
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85820,
+        "weight": 100,
+        "box_id": 100820
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85821,
+        "weight": 100,
+        "box_id": 100821
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85822,
+        "weight": 100,
+        "box_id": 100822
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85823,
+        "weight": 100,
+        "box_id": 100823
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85824,
+        "weight": 100,
+        "box_id": 100824
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85825,
+        "weight": 100,
+        "box_id": 100825
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85826,
+        "weight": 100,
+        "box_id": 100826
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85827,
+        "weight": 100,
+        "box_id": 100827
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85828,
+        "weight": 100,
+        "box_id": 100828
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85829,
+        "weight": 100,
+        "box_id": 100829
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85830,
+        "weight": 100,
+        "box_id": 100830
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85831,
+        "weight": 100,
+        "box_id": 100831
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85832,
+        "weight": 100,
+        "box_id": 100832
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85833,
+        "weight": 100,
+        "box_id": 100833
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85834,
+        "weight": 100,
+        "box_id": 100834
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85835,
+        "weight": 100,
+        "box_id": 100835
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85836,
+        "weight": 100,
+        "box_id": 100836
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85837,
+        "weight": 100,
+        "box_id": 100837
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85838,
+        "weight": 100,
+        "box_id": 100838
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85839,
+        "weight": 100,
+        "box_id": 100839
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85840,
+        "weight": 100,
+        "box_id": 100840
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85841,
+        "weight": 100,
+        "box_id": 100841
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85842,
+        "weight": 100,
+        "box_id": 100842
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85843,
+        "weight": 100,
+        "box_id": 100843
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85844,
+        "weight": 100,
+        "box_id": 100844
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85845,
+        "weight": 100,
+        "box_id": 100845
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85846,
+        "weight": 100,
+        "box_id": 100846
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85847,
+        "weight": 100,
+        "box_id": 100847
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85848,
+        "weight": 100,
+        "box_id": 100848
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85849,
+        "weight": 100,
+        "box_id": 100849
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85850,
+        "weight": 100,
+        "box_id": 100850
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85851,
+        "weight": 100,
+        "box_id": 100851
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85852,
+        "weight": 100,
+        "box_id": 100852
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85853,
+        "weight": 100,
+        "box_id": 100853
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85854,
+        "weight": 100,
+        "box_id": 100854
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85855,
+        "weight": 100,
+        "box_id": 100855
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85856,
+        "weight": 100,
+        "box_id": 100856
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85857,
+        "weight": 100,
+        "box_id": 100857
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85858,
+        "weight": 100,
+        "box_id": 100858
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85859,
+        "weight": 100,
+        "box_id": 100859
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85860,
+        "weight": 100,
+        "box_id": 100860
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85861,
+        "weight": 100,
+        "box_id": 100861
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85862,
+        "weight": 100,
+        "box_id": 100862
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85863,
+        "weight": 100,
+        "box_id": 100863
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85864,
+        "weight": 100,
+        "box_id": 100864
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85865,
+        "weight": 100,
+        "box_id": 100865
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85866,
+        "weight": 100,
+        "box_id": 100866
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85867,
+        "weight": 100,
+        "box_id": 100867
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85868,
+        "weight": 100,
+        "box_id": 100868
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85869,
+        "weight": 100,
+        "box_id": 100869
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85870,
+        "weight": 100,
+        "box_id": 100870
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85871,
+        "weight": 100,
+        "box_id": 100871
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85872,
+        "weight": 100,
+        "box_id": 100872
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85873,
+        "weight": 100,
+        "box_id": 100873
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85874,
+        "weight": 100,
+        "box_id": 100874
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85875,
+        "weight": 100,
+        "box_id": 100875
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85876,
+        "weight": 100,
+        "box_id": 100876
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85877,
+        "weight": 100,
+        "box_id": 100877
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85878,
+        "weight": 100,
+        "box_id": 100878
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85879,
+        "weight": 100,
+        "box_id": 100879
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85880,
+        "weight": 100,
+        "box_id": 100880
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85881,
+        "weight": 100,
+        "box_id": 100881
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85882,
+        "weight": 100,
+        "box_id": 100882
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85883,
+        "weight": 100,
+        "box_id": 100883
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85884,
+        "weight": 100,
+        "box_id": 100884
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85885,
+        "weight": 100,
+        "box_id": 100885
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85886,
+        "weight": 100,
+        "box_id": 100886
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85887,
+        "weight": 100,
+        "box_id": 100887
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85888,
+        "weight": 100,
+        "box_id": 100888
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85889,
+        "weight": 100,
+        "box_id": 100889
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85890,
+        "weight": 100,
+        "box_id": 100890
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85891,
+        "weight": 100,
+        "box_id": 100891
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85892,
+        "weight": 100,
+        "box_id": 100892
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85893,
+        "weight": 100,
+        "box_id": 100893
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85894,
+        "weight": 100,
+        "box_id": 100894
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85895,
+        "weight": 100,
+        "box_id": 100895
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85896,
+        "weight": 100,
+        "box_id": 100896
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85897,
+        "weight": 100,
+        "box_id": 100897
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85898,
+        "weight": 100,
+        "box_id": 100898
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85899,
+        "weight": 100,
+        "box_id": 100899
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85900,
+        "weight": 100,
+        "box_id": 100900
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85901,
+        "weight": 100,
+        "box_id": 100901
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85902,
+        "weight": 100,
+        "box_id": 100902
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85903,
+        "weight": 100,
+        "box_id": 100903
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85904,
+        "weight": 100,
+        "box_id": 100904
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85905,
+        "weight": 100,
+        "box_id": 100905
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85906,
+        "weight": 100,
+        "box_id": 100906
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85907,
+        "weight": 100,
+        "box_id": 100907
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85908,
+        "weight": 100,
+        "box_id": 100908
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85909,
+        "weight": 100,
+        "box_id": 100909
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85910,
+        "weight": 100,
+        "box_id": 100910
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85911,
+        "weight": 100,
+        "box_id": 100911
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85912,
+        "weight": 100,
+        "box_id": 100912
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85913,
+        "weight": 100,
+        "box_id": 100913
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85914,
+        "weight": 100,
+        "box_id": 100914
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85915,
+        "weight": 100,
+        "box_id": 100915
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85916,
+        "weight": 100,
+        "box_id": 100916
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85917,
+        "weight": 100,
+        "box_id": 100917
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85918,
+        "weight": 100,
+        "box_id": 100918
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85919,
+        "weight": 100,
+        "box_id": 100919
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85920,
+        "weight": 100,
+        "box_id": 100920
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85921,
+        "weight": 100,
+        "box_id": 100921
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85922,
+        "weight": 100,
+        "box_id": 100922
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85923,
+        "weight": 100,
+        "box_id": 100923
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85924,
+        "weight": 100,
+        "box_id": 100924
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85925,
+        "weight": 100,
+        "box_id": 100925
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85926,
+        "weight": 100,
+        "box_id": 100926
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85927,
+        "weight": 100,
+        "box_id": 100927
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85928,
+        "weight": 100,
+        "box_id": 100928
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85929,
+        "weight": 100,
+        "box_id": 100929
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85930,
+        "weight": 100,
+        "box_id": 100930
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85931,
+        "weight": 100,
+        "box_id": 100931
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85932,
+        "weight": 100,
+        "box_id": 100932
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85933,
+        "weight": 100,
+        "box_id": 100933
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85934,
+        "weight": 100,
+        "box_id": 100934
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85935,
+        "weight": 100,
+        "box_id": 100935
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85936,
+        "weight": 100,
+        "box_id": 100936
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85937,
+        "weight": 100,
+        "box_id": 100937
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85938,
+        "weight": 100,
+        "box_id": 100938
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85939,
+        "weight": 100,
+        "box_id": 100939
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85940,
+        "weight": 100,
+        "box_id": 100940
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85941,
+        "weight": 100,
+        "box_id": 100941
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85942,
+        "weight": 100,
+        "box_id": 100942
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85943,
+        "weight": 100,
+        "box_id": 100943
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85944,
+        "weight": 100,
+        "box_id": 100944
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85945,
+        "weight": 100,
+        "box_id": 100945
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85946,
+        "weight": 100,
+        "box_id": 100946
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85947,
+        "weight": 100,
+        "box_id": 100947
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85948,
+        "weight": 100,
+        "box_id": 100948
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85949,
+        "weight": 100,
+        "box_id": 100949
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85950,
+        "weight": 100,
+        "box_id": 100950
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85951,
+        "weight": 100,
+        "box_id": 100951
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85952,
+        "weight": 100,
+        "box_id": 100952
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85953,
+        "weight": 100,
+        "box_id": 100953
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85954,
+        "weight": 100,
+        "box_id": 100954
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85955,
+        "weight": 100,
+        "box_id": 100955
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85956,
+        "weight": 100,
+        "box_id": 100956
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85957,
+        "weight": 100,
+        "box_id": 100957
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85958,
+        "weight": 100,
+        "box_id": 100958
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85959,
+        "weight": 100,
+        "box_id": 100959
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85960,
+        "weight": 100,
+        "box_id": 100960
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85961,
+        "weight": 100,
+        "box_id": 100961
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85962,
+        "weight": 100,
+        "box_id": 100962
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85963,
+        "weight": 100,
+        "box_id": 100963
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85964,
+        "weight": 100,
+        "box_id": 100964
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85965,
+        "weight": 100,
+        "box_id": 100965
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85966,
+        "weight": 100,
+        "box_id": 100966
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85967,
+        "weight": 100,
+        "box_id": 100967
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85968,
+        "weight": 100,
+        "box_id": 100968
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85969,
+        "weight": 100,
+        "box_id": 100969
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85970,
+        "weight": 100,
+        "box_id": 100970
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85971,
+        "weight": 100,
+        "box_id": 100971
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85972,
+        "weight": 100,
+        "box_id": 100972
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85973,
+        "weight": 100,
+        "box_id": 100973
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85974,
+        "weight": 100,
+        "box_id": 100974
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85975,
+        "weight": 100,
+        "box_id": 100975
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85976,
+        "weight": 100,
+        "box_id": 100976
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85977,
+        "weight": 100,
+        "box_id": 100977
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85978,
+        "weight": 100,
+        "box_id": 100978
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85979,
+        "weight": 100,
+        "box_id": 100979
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85980,
+        "weight": 100,
+        "box_id": 100980
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85981,
+        "weight": 100,
+        "box_id": 100981
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85982,
+        "weight": 100,
+        "box_id": 100982
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85983,
+        "weight": 100,
+        "box_id": 100983
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85984,
+        "weight": 100,
+        "box_id": 100984
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85985,
+        "weight": 100,
+        "box_id": 100985
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85986,
+        "weight": 100,
+        "box_id": 100986
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85987,
+        "weight": 100,
+        "box_id": 100987
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85988,
+        "weight": 100,
+        "box_id": 100988
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85989,
+        "weight": 100,
+        "box_id": 100989
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85990,
+        "weight": 100,
+        "box_id": 100990
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85991,
+        "weight": 100,
+        "box_id": 100991
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85992,
+        "weight": 100,
+        "box_id": 100992
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85993,
+        "weight": 100,
+        "box_id": 100993
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85994,
+        "weight": 100,
+        "box_id": 100994
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85995,
+        "weight": 100,
+        "box_id": 100995
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85996,
+        "weight": 100,
+        "box_id": 100996
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85997,
+        "weight": 100,
+        "box_id": 100997
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85998,
+        "weight": 100,
+        "box_id": 100998
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 85999,
+        "weight": 100,
+        "box_id": 100999
+    },
+    {
+        "difficulty": 10,
+        "chapter_id": 86000,
+        "weight": 100,
+        "box_id": 101000
+    }
+]

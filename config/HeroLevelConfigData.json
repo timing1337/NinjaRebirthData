@@ -1,0 +1,882 @@
+[
+    {
+        "upg_exp": 10,
+        "level": 1
+    },
+    {
+        "upg_exp": 25,
+        "level": 2
+    },
+    {
+        "upg_exp": 35,
+        "level": 3
+    },
+    {
+        "upg_exp": 45,
+        "level": 4
+    },
+    {
+        "upg_exp": 50,
+        "level": 5
+    },
+    {
+        "upg_exp": 100,
+        "level": 6
+    },
+    {
+        "upg_exp": 130,
+        "level": 7
+    },
+    {
+        "upg_exp": 150,
+        "level": 8
+    },
+    {
+        "upg_exp": 180,
+        "level": 9
+    },
+    {
+        "upg_exp": 180,
+        "level": 10
+    },
+    {
+        "upg_exp": 210,
+        "level": 11
+    },
+    {
+        "upg_exp": 220,
+        "level": 12
+    },
+    {
+        "upg_exp": 220,
+        "level": 13
+    },
+    {
+        "upg_exp": 230,
+        "level": 14
+    },
+    {
+        "upg_exp": 240,
+        "level": 15
+    },
+    {
+        "upg_exp": 270,
+        "level": 16
+    },
+    {
+        "upg_exp": 280,
+        "level": 17
+    },
+    {
+        "upg_exp": 290,
+        "level": 18
+    },
+    {
+        "upg_exp": 290,
+        "level": 19
+    },
+    {
+        "upg_exp": 300,
+        "level": 20
+    },
+    {
+        "upg_exp": 310,
+        "level": 21
+    },
+    {
+        "upg_exp": 320,
+        "level": 22
+    },
+    {
+        "upg_exp": 330,
+        "level": 23
+    },
+    {
+        "upg_exp": 340,
+        "level": 24
+    },
+    {
+        "upg_exp": 350,
+        "level": 25
+    },
+    {
+        "upg_exp": 360,
+        "level": 26
+    },
+    {
+        "upg_exp": 370,
+        "level": 27
+    },
+    {
+        "upg_exp": 380,
+        "level": 28
+    },
+    {
+        "upg_exp": 390,
+        "level": 29
+    },
+    {
+        "upg_exp": 400,
+        "level": 30
+    },
+    {
+        "upg_exp": 530,
+        "level": 31
+    },
+    {
+        "upg_exp": 680,
+        "level": 32
+    },
+    {
+        "upg_exp": 830,
+        "level": 33
+    },
+    {
+        "upg_exp": 980,
+        "level": 34
+    },
+    {
+        "upg_exp": 1100,
+        "level": 35
+    },
+    {
+        "upg_exp": 1400,
+        "level": 36
+    },
+    {
+        "upg_exp": 1700,
+        "level": 37
+    },
+    {
+        "upg_exp": 2000,
+        "level": 38
+    },
+    {
+        "upg_exp": 2300,
+        "level": 39
+    },
+    {
+        "upg_exp": 2600,
+        "level": 40
+    },
+    {
+        "upg_exp": 3000,
+        "level": 41
+    },
+    {
+        "upg_exp": 3300,
+        "level": 42
+    },
+    {
+        "upg_exp": 3700,
+        "level": 43
+    },
+    {
+        "upg_exp": 4100,
+        "level": 44
+    },
+    {
+        "upg_exp": 4500,
+        "level": 45
+    },
+    {
+        "upg_exp": 5000,
+        "level": 46
+    },
+    {
+        "upg_exp": 5400,
+        "level": 47
+    },
+    {
+        "upg_exp": 5900,
+        "level": 48
+    },
+    {
+        "upg_exp": 6400,
+        "level": 49
+    },
+    {
+        "upg_exp": 7000,
+        "level": 50
+    },
+    {
+        "upg_exp": 7500,
+        "level": 51
+    },
+    {
+        "upg_exp": 8100,
+        "level": 52
+    },
+    {
+        "upg_exp": 8700,
+        "level": 53
+    },
+    {
+        "upg_exp": 9300,
+        "level": 54
+    },
+    {
+        "upg_exp": 10000,
+        "level": 55
+    },
+    {
+        "upg_exp": 10500,
+        "level": 56
+    },
+    {
+        "upg_exp": 11000,
+        "level": 57
+    },
+    {
+        "upg_exp": 11500,
+        "level": 58
+    },
+    {
+        "upg_exp": 12000,
+        "level": 59
+    },
+    {
+        "upg_exp": 12500,
+        "level": 60
+    },
+    {
+        "upg_exp": 13000,
+        "level": 61
+    },
+    {
+        "upg_exp": 13500,
+        "level": 62
+    },
+    {
+        "upg_exp": 14000,
+        "level": 63
+    },
+    {
+        "upg_exp": 14500,
+        "level": 64
+    },
+    {
+        "upg_exp": 15000,
+        "level": 65
+    },
+    {
+        "upg_exp": 15500,
+        "level": 66
+    },
+    {
+        "upg_exp": 16000,
+        "level": 67
+    },
+    {
+        "upg_exp": 16500,
+        "level": 68
+    },
+    {
+        "upg_exp": 17000,
+        "level": 69
+    },
+    {
+        "upg_exp": 17500,
+        "level": 70
+    },
+    {
+        "upg_exp": 18000,
+        "level": 71
+    },
+    {
+        "upg_exp": 18500,
+        "level": 72
+    },
+    {
+        "upg_exp": 19000,
+        "level": 73
+    },
+    {
+        "upg_exp": 19500,
+        "level": 74
+    },
+    {
+        "upg_exp": 20000,
+        "level": 75
+    },
+    {
+        "upg_exp": 20500,
+        "level": 76
+    },
+    {
+        "upg_exp": 21000,
+        "level": 77
+    },
+    {
+        "upg_exp": 21500,
+        "level": 78
+    },
+    {
+        "upg_exp": 22000,
+        "level": 79
+    },
+    {
+        "upg_exp": 22500,
+        "level": 80
+    },
+    {
+        "upg_exp": 23000,
+        "level": 81
+    },
+    {
+        "upg_exp": 23500,
+        "level": 82
+    },
+    {
+        "upg_exp": 24000,
+        "level": 83
+    },
+    {
+        "upg_exp": 24500,
+        "level": 84
+    },
+    {
+        "upg_exp": 25000,
+        "level": 85
+    },
+    {
+        "upg_exp": 25500,
+        "level": 86
+    },
+    {
+        "upg_exp": 26000,
+        "level": 87
+    },
+    {
+        "upg_exp": 26500,
+        "level": 88
+    },
+    {
+        "upg_exp": 27000,
+        "level": 89
+    },
+    {
+        "upg_exp": 27500,
+        "level": 90
+    },
+    {
+        "upg_exp": 28000,
+        "level": 91
+    },
+    {
+        "upg_exp": 28500,
+        "level": 92
+    },
+    {
+        "upg_exp": 29000,
+        "level": 93
+    },
+    {
+        "upg_exp": 29500,
+        "level": 94
+    },
+    {
+        "upg_exp": 30000,
+        "level": 95
+    },
+    {
+        "upg_exp": 30500,
+        "level": 96
+    },
+    {
+        "upg_exp": 31000,
+        "level": 97
+    },
+    {
+        "upg_exp": 31500,
+        "level": 98
+    },
+    {
+        "upg_exp": 32000,
+        "level": 99
+    },
+    {
+        "upg_exp": 32500,
+        "level": 100
+    },
+    {
+        "upg_exp": 33000,
+        "level": 101
+    },
+    {
+        "upg_exp": 33500,
+        "level": 102
+    },
+    {
+        "upg_exp": 34000,
+        "level": 103
+    },
+    {
+        "upg_exp": 34500,
+        "level": 104
+    },
+    {
+        "upg_exp": 35000,
+        "level": 105
+    },
+    {
+        "upg_exp": 35500,
+        "level": 106
+    },
+    {
+        "upg_exp": 36000,
+        "level": 107
+    },
+    {
+        "upg_exp": 36500,
+        "level": 108
+    },
+    {
+        "upg_exp": 37000,
+        "level": 109
+    },
+    {
+        "upg_exp": 37500,
+        "level": 110
+    },
+    {
+        "upg_exp": 38000,
+        "level": 111
+    },
+    {
+        "upg_exp": 38500,
+        "level": 112
+    },
+    {
+        "upg_exp": 39000,
+        "level": 113
+    },
+    {
+        "upg_exp": 39500,
+        "level": 114
+    },
+    {
+        "upg_exp": 40000,
+        "level": 115
+    },
+    {
+        "upg_exp": 40500,
+        "level": 116
+    },
+    {
+        "upg_exp": 41000,
+        "level": 117
+    },
+    {
+        "upg_exp": 41500,
+        "level": 118
+    },
+    {
+        "upg_exp": 42000,
+        "level": 119
+    },
+    {
+        "upg_exp": 42500,
+        "level": 120
+    },
+    {
+        "upg_exp": 43000,
+        "level": 121
+    },
+    {
+        "upg_exp": 43500,
+        "level": 122
+    },
+    {
+        "upg_exp": 44000,
+        "level": 123
+    },
+    {
+        "upg_exp": 44500,
+        "level": 124
+    },
+    {
+        "upg_exp": 45000,
+        "level": 125
+    },
+    {
+        "upg_exp": 45500,
+        "level": 126
+    },
+    {
+        "upg_exp": 46000,
+        "level": 127
+    },
+    {
+        "upg_exp": 46500,
+        "level": 128
+    },
+    {
+        "upg_exp": 47000,
+        "level": 129
+    },
+    {
+        "upg_exp": 47500,
+        "level": 130
+    },
+    {
+        "upg_exp": 48000,
+        "level": 131
+    },
+    {
+        "upg_exp": 48500,
+        "level": 132
+    },
+    {
+        "upg_exp": 49000,
+        "level": 133
+    },
+    {
+        "upg_exp": 49500,
+        "level": 134
+    },
+    {
+        "upg_exp": 50000,
+        "level": 135
+    },
+    {
+        "upg_exp": 50500,
+        "level": 136
+    },
+    {
+        "upg_exp": 51000,
+        "level": 137
+    },
+    {
+        "upg_exp": 51500,
+        "level": 138
+    },
+    {
+        "upg_exp": 52000,
+        "level": 139
+    },
+    {
+        "upg_exp": 52500,
+        "level": 140
+    },
+    {
+        "upg_exp": 53000,
+        "level": 141
+    },
+    {
+        "upg_exp": 53500,
+        "level": 142
+    },
+    {
+        "upg_exp": 54000,
+        "level": 143
+    },
+    {
+        "upg_exp": 54500,
+        "level": 144
+    },
+    {
+        "upg_exp": 55000,
+        "level": 145
+    },
+    {
+        "upg_exp": 55500,
+        "level": 146
+    },
+    {
+        "upg_exp": 56000,
+        "level": 147
+    },
+    {
+        "upg_exp": 56500,
+        "level": 148
+    },
+    {
+        "upg_exp": 57000,
+        "level": 149
+    },
+    {
+        "upg_exp": 57500,
+        "level": 150
+    },
+    {
+        "upg_exp": 58000,
+        "level": 151
+    },
+    {
+        "upg_exp": 58500,
+        "level": 152
+    },
+    {
+        "upg_exp": 59000,
+        "level": 153
+    },
+    {
+        "upg_exp": 59500,
+        "level": 154
+    },
+    {
+        "upg_exp": 60000,
+        "level": 155
+    },
+    {
+        "upg_exp": 60500,
+        "level": 156
+    },
+    {
+        "upg_exp": 61000,
+        "level": 157
+    },
+    {
+        "upg_exp": 61500,
+        "level": 158
+    },
+    {
+        "upg_exp": 62000,
+        "level": 159
+    },
+    {
+        "upg_exp": 62500,
+        "level": 160
+    },
+    {
+        "upg_exp": 63000,
+        "level": 161
+    },
+    {
+        "upg_exp": 63500,
+        "level": 162
+    },
+    {
+        "upg_exp": 64000,
+        "level": 163
+    },
+    {
+        "upg_exp": 64500,
+        "level": 164
+    },
+    {
+        "upg_exp": 65000,
+        "level": 165
+    },
+    {
+        "upg_exp": 65500,
+        "level": 166
+    },
+    {
+        "upg_exp": 66000,
+        "level": 167
+    },
+    {
+        "upg_exp": 66500,
+        "level": 168
+    },
+    {
+        "upg_exp": 67000,
+        "level": 169
+    },
+    {
+        "upg_exp": 67500,
+        "level": 170
+    },
+    {
+        "upg_exp": 68000,
+        "level": 171
+    },
+    {
+        "upg_exp": 68500,
+        "level": 172
+    },
+    {
+        "upg_exp": 69000,
+        "level": 173
+    },
+    {
+        "upg_exp": 69500,
+        "level": 174
+    },
+    {
+        "upg_exp": 70000,
+        "level": 175
+    },
+    {
+        "upg_exp": 70500,
+        "level": 176
+    },
+    {
+        "upg_exp": 71000,
+        "level": 177
+    },
+    {
+        "upg_exp": 71500,
+        "level": 178
+    },
+    {
+        "upg_exp": 72000,
+        "level": 179
+    },
+    {
+        "upg_exp": 72500,
+        "level": 180
+    },
+    {
+        "upg_exp": 73000,
+        "level": 181
+    },
+    {
+        "upg_exp": 73500,
+        "level": 182
+    },
+    {
+        "upg_exp": 74000,
+        "level": 183
+    },
+    {
+        "upg_exp": 74500,
+        "level": 184
+    },
+    {
+        "upg_exp": 75000,
+        "level": 185
+    },
+    {
+        "upg_exp": 75500,
+        "level": 186
+    },
+    {
+        "upg_exp": 76000,
+        "level": 187
+    },
+    {
+        "upg_exp": 76500,
+        "level": 188
+    },
+    {
+        "upg_exp": 77000,
+        "level": 189
+    },
+    {
+        "upg_exp": 77500,
+        "level": 190
+    },
+    {
+        "upg_exp": 78000,
+        "level": 191
+    },
+    {
+        "upg_exp": 78500,
+        "level": 192
+    },
+    {
+        "upg_exp": 79000,
+        "level": 193
+    },
+    {
+        "upg_exp": 79500,
+        "level": 194
+    },
+    {
+        "upg_exp": 80000,
+        "level": 195
+    },
+    {
+        "upg_exp": 80500,
+        "level": 196
+    },
+    {
+        "upg_exp": 81000,
+        "level": 197
+    },
+    {
+        "upg_exp": 81500,
+        "level": 198
+    },
+    {
+        "upg_exp": 82000,
+        "level": 199
+    },
+    {
+        "upg_exp": 82500,
+        "level": 200
+    },
+    {
+        "upg_exp": 100000,
+        "level": 201
+    },
+    {
+        "upg_exp": 100000,
+        "level": 202
+    },
+    {
+        "upg_exp": 100000,
+        "level": 203
+    },
+    {
+        "upg_exp": 100000,
+        "level": 204
+    },
+    {
+        "upg_exp": 100000,
+        "level": 205
+    },
+    {
+        "upg_exp": 100000,
+        "level": 206
+    },
+    {
+        "upg_exp": 100000,
+        "level": 207
+    },
+    {
+        "upg_exp": 100000,
+        "level": 208
+    },
+    {
+        "upg_exp": 100000,
+        "level": 209
+    },
+    {
+        "upg_exp": 100000,
+        "level": 210
+    },
+    {
+        "upg_exp": 120000,
+        "level": 211
+    },
+    {
+        "upg_exp": 120000,
+        "level": 212
+    },
+    {
+        "upg_exp": 120000,
+        "level": 213
+    },
+    {
+        "upg_exp": 120000,
+        "level": 214
+    },
+    {
+        "upg_exp": 120000,
+        "level": 215
+    },
+    {
+        "upg_exp": 120000,
+        "level": 216
+    },
+    {
+        "upg_exp": 120000,
+        "level": 217
+    },
+    {
+        "upg_exp": 120000,
+        "level": 218
+    },
+    {
+        "upg_exp": 120000,
+        "level": 219
+    },
+    {
+        "upg_exp": 120000,
+        "level": 220
+    }
+]

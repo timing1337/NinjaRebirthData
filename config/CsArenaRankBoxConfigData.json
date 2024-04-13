@@ -1,0 +1,380 @@
+[
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "box_id": 81201,
+        "level": 60
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "box_id": 81202,
+        "level": 60
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "box_id": 81203,
+        "level": 60
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 4,
+        "box_id": 81204,
+        "level": 60
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 6,
+        "box_id": 81205,
+        "level": 60
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 11,
+        "box_id": 81206,
+        "level": 60
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 51,
+        "box_id": 81207,
+        "level": 60
+    },
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "box_id": 81301,
+        "level": 80
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "box_id": 81302,
+        "level": 80
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "box_id": 81303,
+        "level": 80
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 4,
+        "box_id": 81304,
+        "level": 80
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 6,
+        "box_id": 81305,
+        "level": 80
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 11,
+        "box_id": 81306,
+        "level": 80
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 51,
+        "box_id": 81307,
+        "level": 80
+    },
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "box_id": 81401,
+        "level": 100
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "box_id": 81402,
+        "level": 100
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "box_id": 81403,
+        "level": 100
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 4,
+        "box_id": 81404,
+        "level": 100
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 6,
+        "box_id": 81405,
+        "level": 100
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 11,
+        "box_id": 81406,
+        "level": 100
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 51,
+        "box_id": 81407,
+        "level": 100
+    },
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "box_id": 81501,
+        "level": 120
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "box_id": 81502,
+        "level": 120
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "box_id": 81503,
+        "level": 120
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 4,
+        "box_id": 81504,
+        "level": 120
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 6,
+        "box_id": 81505,
+        "level": 120
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 11,
+        "box_id": 81506,
+        "level": 120
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 51,
+        "box_id": 81507,
+        "level": 120
+    },
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "box_id": 81601,
+        "level": 140
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "box_id": 81602,
+        "level": 140
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "box_id": 81603,
+        "level": 140
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 4,
+        "box_id": 81604,
+        "level": 140
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 6,
+        "box_id": 81605,
+        "level": 140
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 11,
+        "box_id": 81606,
+        "level": 140
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 51,
+        "box_id": 81607,
+        "level": 140
+    },
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "box_id": 81701,
+        "level": 160
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "box_id": 81702,
+        "level": 160
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "box_id": 81703,
+        "level": 160
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 4,
+        "box_id": 81704,
+        "level": 160
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 6,
+        "box_id": 81705,
+        "level": 160
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 11,
+        "box_id": 81706,
+        "level": 160
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 51,
+        "box_id": 81707,
+        "level": 160
+    },
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "box_id": 81801,
+        "level": 180
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "box_id": 81802,
+        "level": 180
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "box_id": 81803,
+        "level": 180
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 4,
+        "box_id": 81804,
+        "level": 180
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 6,
+        "box_id": 81805,
+        "level": 180
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 11,
+        "box_id": 81806,
+        "level": 180
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 51,
+        "box_id": 81807,
+        "level": 180
+    },
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "box_id": 81901,
+        "level": 200
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "box_id": 81902,
+        "level": 200
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "box_id": 81903,
+        "level": 200
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 4,
+        "box_id": 81904,
+        "level": 200
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 6,
+        "box_id": 81905,
+        "level": 200
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 11,
+        "box_id": 81906,
+        "level": 200
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 51,
+        "box_id": 81907,
+        "level": 200
+    },
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "box_id": 81911,
+        "level": 220
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "box_id": 81912,
+        "level": 220
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "box_id": 81913,
+        "level": 220
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 4,
+        "box_id": 81914,
+        "level": 220
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 6,
+        "box_id": 81915,
+        "level": 220
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 11,
+        "box_id": 81916,
+        "level": 220
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 51,
+        "box_id": 81917,
+        "level": 220
+    }
+]

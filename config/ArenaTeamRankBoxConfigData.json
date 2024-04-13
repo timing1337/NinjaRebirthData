@@ -1,0 +1,87 @@
+[
+    {
+        "rank_end": 1,
+        "rank_start": 1,
+        "point": 50
+    },
+    {
+        "rank_end": 2,
+        "rank_start": 2,
+        "point": 47
+    },
+    {
+        "rank_end": 3,
+        "rank_start": 3,
+        "point": 44
+    },
+    {
+        "rank_end": 4,
+        "rank_start": 4,
+        "point": 41
+    },
+    {
+        "rank_end": 5,
+        "rank_start": 5,
+        "point": 38
+    },
+    {
+        "rank_end": 6,
+        "rank_start": 6,
+        "point": 35
+    },
+    {
+        "rank_end": 7,
+        "rank_start": 7,
+        "point": 32
+    },
+    {
+        "rank_end": 8,
+        "rank_start": 8,
+        "point": 29
+    },
+    {
+        "rank_end": 9,
+        "rank_start": 9,
+        "point": 26
+    },
+    {
+        "rank_end": 10,
+        "rank_start": 10,
+        "point": 25
+    },
+    {
+        "rank_end": 20,
+        "rank_start": 11,
+        "point": 23
+    },
+    {
+        "rank_end": 30,
+        "rank_start": 21,
+        "point": 21
+    },
+    {
+        "rank_end": 40,
+        "rank_start": 31,
+        "point": 19
+    },
+    {
+        "rank_end": 50,
+        "rank_start": 41,
+        "point": 17
+    },
+    {
+        "rank_end": 70,
+        "rank_start": 51,
+        "point": 15
+    },
+    {
+        "rank_end": 100,
+        "rank_start": 71,
+        "point": 13
+    },
+    {
+        "rank_end": 200,
+        "rank_start": 101,
+        "point": 11
+    }
+]

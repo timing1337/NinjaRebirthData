@@ -1,0 +1,2312 @@
+[
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 1,
+        "character_id": 0,
+        "text": "Controlling humans sense of taste is controlling the whole world!",
+        "position": 0,
+        "type": 0,
+        "id": 1000001
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 1,
+        "character_id": 0,
+        "text": "Hey! Don‘t stick your fingers in!",
+        "position": 0,
+        "type": 0,
+        "id": 1000002
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 1,
+        "character_id": 0,
+        "text": "People will get so tough when they have to fight for their most important Ramen!",
+        "position": 0,
+        "type": 0,
+        "id": 1000003
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 1,
+        "character_id": 0,
+        "text": "Wherever Ramen is being made, gas is burning, the shadow of Ichiraku Ramen is shielding the village and pulling new noodles. A foodie‘s real power will only appear when he has to protect his most prec",
+        "position": 0,
+        "type": 0,
+        "id": 1000004
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 1,
+        "character_id": 0,
+        "text": "The battle with the Underground Cooking Society has just began.",
+        "position": 0,
+        "type": 0,
+        "id": 1000005
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 2,
+        "character_id": 0,
+        "text": "I‘m Jiraiya Sage, the handsome man who can shut up crying babies.",
+        "position": 0,
+        "type": 0,
+        "id": 1100001
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 2,
+        "character_id": 0,
+        "text": "To gamble if a story is successful on its ending, even a failure is interesting!",
+        "position": 0,
+        "type": 0,
+        "id": 1100002
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 2,
+        "character_id": 0,
+        "text": "It‘ll be sold out soon!",
+        "position": 0,
+        "type": 0,
+        "id": 1100003
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 2,
+        "character_id": 0,
+        "text": "For Ninjas it‘s inconsequential how they live, how they die is what really matters.",
+        "position": 0,
+        "type": 0,
+        "id": 1100004
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 2,
+        "character_id": 0,
+        "text": "Do you wanna see the latest Icha Icha manuscript? It‘s not for sale!",
+        "position": 0,
+        "type": 0,
+        "id": 1100005
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 2,
+        "character_id": 0,
+        "text": "Come, put your thumb print here, then the contract is concluded!",
+        "position": 0,
+        "type": 0,
+        "id": 1100006
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 2,
+        "character_id": 0,
+        "text": "Wow… 106cm…",
+        "position": 0,
+        "type": 0,
+        "id": 1100007
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 3,
+        "character_id": 0,
+        "text": "You‘ll receive the right lead.",
+        "position": 0,
+        "type": 0,
+        "id": 1200001
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 3,
+        "character_id": 0,
+        "text": "What is the real power?",
+        "position": 0,
+        "type": 0,
+        "id": 1200002
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 3,
+        "character_id": 0,
+        "text": "Don‘t touch my beard!",
+        "position": 0,
+        "type": 0,
+        "id": 1200003
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 3,
+        "character_id": 0,
+        "text": "The mutual trust and help among companions is the real source of power.",
+        "position": 0,
+        "type": 0,
+        "id": 1200004
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 3,
+        "character_id": 0,
+        "text": "",
+        "position": 0,
+        "type": 0,
+        "id": 1200005
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 4,
+        "character_id": 0,
+        "text": "Smart birds can open the gate of their birdcage with their beak, because they never give up hope for freely soaring in the sky.",
+        "position": 0,
+        "type": 0,
+        "id": 1300001
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 4,
+        "character_id": 0,
+        "text": "Well, bad luck for you, I‘m the examiner this year.",
+        "position": 0,
+        "type": 0,
+        "id": 1300002
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 4,
+        "character_id": 0,
+        "text": "One more time and I‘ll disqualify you!",
+        "position": 0,
+        "type": 0,
+        "id": 1300003
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 4,
+        "character_id": 0,
+        "text": "Torture starts now.",
+        "position": 0,
+        "type": 0,
+        "id": 1300004
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 4,
+        "character_id": 0,
+        "text": "You lose!",
+        "position": 0,
+        "type": 0,
+        "id": 1300005
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 5,
+        "character_id": 0,
+        "text": "People‘s eyes can be so frighteningly cold when they dislike someone and deny his existence.",
+        "position": 0,
+        "type": 0,
+        "id": 1400001
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 5,
+        "character_id": 0,
+        "text": "It‘s not true that you would get the real power of the world after you obtain all Ninjutsus.",
+        "position": 0,
+        "type": 0,
+        "id": 1400002
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 5,
+        "character_id": 0,
+        "text": "A Ninja‘s real power will appear when he needs to protect his most precious item.",
+        "position": 0,
+        "type": 0,
+        "id": 1400003
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 5,
+        "character_id": 0,
+        "text": "Wherever leaves fly, fire burns.",
+        "position": 0,
+        "type": 0,
+        "id": 1400004
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 5,
+        "character_id": 0,
+        "text": "My hat is not for sale.",
+        "position": 0,
+        "type": 0,
+        "id": 1400005
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 6,
+        "character_id": 0,
+        "text": "Don‘t touch my forehead!",
+        "position": 0,
+        "type": 0,
+        "id": 1500001
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 6,
+        "character_id": 0,
+        "text": "I said do not touch my forehead!",
+        "position": 0,
+        "type": 0,
+        "id": 1500002
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 6,
+        "character_id": 0,
+        "text": "How dare you still touch me!",
+        "position": 0,
+        "type": 0,
+        "id": 1500003
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 6,
+        "character_id": 0,
+        "text": "I‘m gonna beat you flat if you touch me again!",
+        "position": 0,
+        "type": 0,
+        "id": 1500004
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 6,
+        "character_id": 0,
+        "text": "Everybody, enjoy watching my back this time!",
+        "position": 0,
+        "type": 0,
+        "id": 1500005
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 6,
+        "character_id": 0,
+        "text": "Well, from now on we are rivals!",
+        "position": 0,
+        "type": 0,
+        "id": 1500006
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 7,
+        "character_id": 0,
+        "text": "Body may die, but memory lasts forever",
+        "position": 0,
+        "type": 0,
+        "id": 1600001
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 7,
+        "character_id": 0,
+        "text": "You must buy it. Because I‘m the fifth Hokage.",
+        "position": 0,
+        "type": 0,
+        "id": 1600002
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 7,
+        "character_id": 0,
+        "text": "I count to 5. Buy them or I take your money by force!",
+        "position": 0,
+        "type": 0,
+        "id": 1600003
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 8,
+        "character_id": 0,
+        "text": "Why is my father even a Hokage? He only sat behind his table every day with his douche face, if that‘s the case, anyone can be a Hokage!",
+        "position": 0,
+        "type": 0,
+        "id": 1700001
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 8,
+        "character_id": 0,
+        "text": "I‘m not interested in being a Hokage!",
+        "position": 0,
+        "type": 0,
+        "id": 1700002
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 8,
+        "character_id": 0,
+        "text": "I have an enemy that I want to defeat!",
+        "position": 0,
+        "type": 0,
+        "id": 1700003
+    },
+    {
+        "hero_name": "0",
+        "img_id": 0,
+        "wave": 8,
+        "character_id": 0,
+        "text": "I will woek on my own way of Ninjutsu.",
+        "position": 0,
+        "type": 0,
+        "id": 1700004
+    },
+    {
+        "hero_name": "Madara",
+        "img_id": 10370,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Give us money or I will burn the village down!",
+        "position": 2,
+        "type": 4,
+        "id": 5000101
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Stop it! You can‘t harm the village as long as I‘m still here!",
+        "position": 1,
+        "type": 4,
+        "id": 5000102
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Bushy Eyebrows! It‘s not your show time. Check my technique!",
+        "position": 1,
+        "type": 4,
+        "id": 5000111
+    },
+    {
+        "hero_name": "Tenten",
+        "img_id": 10250,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "What about mine!",
+        "position": 1,
+        "type": 4,
+        "id": 5000121
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Your moves are not cool enough. Wait for mine!",
+        "position": 1,
+        "type": 4,
+        "id": 5000131
+    },
+    {
+        "hero_name": "Madara",
+        "img_id": 10370,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Not bad. We need to work harder!",
+        "position": 2,
+        "type": 4,
+        "id": 5000141
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "The rival is too strong… I can‘t take any more…",
+        "position": 1,
+        "type": 4,
+        "id": 5000151
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "So unreliable… Don‘t worry Sakura, I‘m here for you.",
+        "position": 1,
+        "type": 4,
+        "id": 5000152
+    },
+    {
+        "hero_name": "Madara",
+        "img_id": 10370,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Damn! Retreat!",
+        "position": 2,
+        "type": 4,
+        "id": 5000161
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Get lost quickly, next time you won‘t be this lucky.",
+        "position": 1,
+        "type": 4,
+        "id": 5000162
+    },
+    {
+        "hero_name": "Sakura",
+        "img_id": 10040,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Lee, you‘re so strong, I admire you!",
+        "position": 1,
+        "type": 4,
+        "id": 5000163
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Can‘t believe I lost to this Bushy Eyebrows. Even Sakura left with him…",
+        "position": 1,
+        "type": 4,
+        "id": 5000164
+    },
+    {
+        "hero_name": "Gai",
+        "img_id": 10400,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Lee, get up, it‘s almost training time!",
+        "position": 1,
+        "type": 4,
+        "id": 5000171
+    },
+    {
+        "hero_name": "Gai",
+        "img_id": 10400,
+        "wave": 1,
+        "character_id": 50001,
+        "text": "Today let‘s have a competition with Kakashi Class.",
+        "position": 1,
+        "type": 4,
+        "id": 5000181
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 3,
+        "character_id": 50011,
+        "text": "Hey foot-dragger, why did you draw on the faces of all the Hokage!",
+        "position": 1,
+        "type": 2,
+        "id": 5001101
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50011,
+        "text": "Because soon or later I‘ll become the next Hokage and surpass all of them!",
+        "position": 2,
+        "type": 2,
+        "id": 5001102
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 3,
+        "character_id": 50011,
+        "text": "There can only be one Hokage. Forget about it because I‘m better than you!",
+        "position": 1,
+        "type": 2,
+        "id": 5001103
+    },
+    {
+        "hero_name": "Iruka",
+        "img_id": 10180,
+        "wave": 3,
+        "character_id": 50012,
+        "text": "Naruto, why are you here for me instead of training?",
+        "position": 2,
+        "type": 2,
+        "id": 5001201
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50012,
+        "text": "I must show you one super powerful Ninjutsu! If it‘s successful, please let me graduate!",
+        "position": 1,
+        "type": 2,
+        "id": 5001202
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 3,
+        "character_id": 50013,
+        "text": "Sa…Sakura!",
+        "position": 1,
+        "type": 2,
+        "id": 5001301
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50013,
+        "text": "Bushy Eyebrows! Out of the way. The seat next to Sakura is mine!",
+        "position": 1,
+        "type": 2,
+        "id": 5001302
+    },
+    {
+        "hero_name": "Sakura",
+        "img_id": 10040,
+        "wave": 3,
+        "character_id": 50013,
+        "text": "Move away, both of you! I‘ll sit next to Sasuke.",
+        "position": 2,
+        "type": 2,
+        "id": 5001303
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50014,
+        "text": "I‘ve heard lots about you. Let‘s have a go.",
+        "position": 1,
+        "type": 2,
+        "id": 5001401
+    },
+    {
+        "hero_name": "Sakura",
+        "img_id": 10040,
+        "wave": 3,
+        "character_id": 50014,
+        "text": "What do you think you are doing? Nobody can treat Sasuke like this!",
+        "position": 1,
+        "type": 2,
+        "id": 5001402
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 3,
+        "character_id": 50014,
+        "text": "Make way, all of you! So troublesome.",
+        "position": 2,
+        "type": 2,
+        "id": 5001403
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50015,
+        "text": "Hahaha, got you!",
+        "position": 1,
+        "type": 2,
+        "id": 5001501
+    },
+    {
+        "hero_name": "Sakura",
+        "img_id": 10040,
+        "wave": 3,
+        "character_id": 50015,
+        "text": "Sorry master, I told him not to…",
+        "position": 2,
+        "type": 2,
+        "id": 5001502
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 3,
+        "character_id": 50015,
+        "text": "These are Jonins? I can‘t believe this…",
+        "position": 1,
+        "type": 2,
+        "id": 5001503
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50015,
+        "text": "Hmm, how should I put it… Well, the first impression you left me… Was very annoying…",
+        "position": 2,
+        "type": 2,
+        "id": 5001504
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50015,
+        "text": "Ok, let‘s introduce ourselves first!",
+        "position": 2,
+        "type": 2,
+        "id": 5001505
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50015,
+        "text": "Wait! Let the teacher go first!",
+        "position": 1,
+        "type": 2,
+        "id": 5001506
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50015,
+        "text": "My name is Hatake Kakashi. My favorite and least favorite things remain secret. Dream? Don‘t really have… Hobbies? Quite a few!",
+        "position": 2,
+        "type": 2,
+        "id": 5001507
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50016,
+        "text": "Ahh! Here comes another dude with thick eyebrows!",
+        "position": 1,
+        "type": 2,
+        "id": 5001601
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 3,
+        "character_id": 50016,
+        "text": "Stop making fun of Master Gai!",
+        "position": 1,
+        "type": 2,
+        "id": 5001602
+    },
+    {
+        "hero_name": "Gai",
+        "img_id": 10400,
+        "wave": 3,
+        "character_id": 50016,
+        "text": "Haha, so nice to be young! Bring it all on.",
+        "position": 2,
+        "type": 2,
+        "id": 5001603
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50017,
+        "text": "Let‘s check each other‘s progress from training.",
+        "position": 2,
+        "type": 2,
+        "id": 5001701
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 3,
+        "character_id": 50017,
+        "text": "Hmm you foot-dragger, I won‘t show you any mercy.",
+        "position": 2,
+        "type": 2,
+        "id": 5001702
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50018,
+        "text": "Don‘t be kind to each other in fight.",
+        "position": 1,
+        "type": 2,
+        "id": 5001801
+    },
+    {
+        "hero_name": "Sakura",
+        "img_id": 10040,
+        "wave": 3,
+        "character_id": 50018,
+        "text": "Yes! Test your actual strength!",
+        "position": 2,
+        "type": 2,
+        "id": 5001802
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50021,
+        "text": "It‘s your first Quest! Don‘t worry, you won‘t encounter any Ninja in a Level C Quest.",
+        "position": 1,
+        "type": 2,
+        "id": 5002101
+    },
+    {
+        "hero_name": "Tazuna",
+        "img_id": 0,
+        "wave": 3,
+        "character_id": 50021,
+        "text": "Please put your life on protecting me until I complete building the bridge back home!",
+        "position": 1,
+        "type": 2,
+        "id": 5002102
+    },
+    {
+        "hero_name": "Tazuna",
+        "img_id": 0,
+        "wave": 3,
+        "character_id": 50021,
+        "text": "Hey little fellow, are you still ok?",
+        "position": 1,
+        "type": 2,
+        "id": 5002103
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50021,
+        "text": "Don‘t worry, Jonin‘s here…",
+        "position": 1,
+        "type": 2,
+        "id": 5002104
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50022,
+        "text": "The enemies seem too strong for a Level C Quest. I‘ve got a bad feeling…",
+        "position": 1,
+        "type": 2,
+        "id": 5002201
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50022,
+        "text": "The mask… You‘re from Kirigakure Hunter-nin Corps…",
+        "position": 2,
+        "type": 2,
+        "id": 5002202
+    },
+    {
+        "hero_name": "Haku",
+        "img_id": 10190,
+        "wave": 3,
+        "character_id": 50022,
+        "text": "Impressive!",
+        "position": 1,
+        "type": 2,
+        "id": 5002203
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50023,
+        "text": "Get down…",
+        "position": 1,
+        "type": 2,
+        "id": 5002301
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50023,
+        "text": "Ha! It‘s Zabuza Momochi, the Missing-nin of Kirigakure!",
+        "position": 1,
+        "type": 2,
+        "id": 5002302
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50023,
+        "text": "Such a powerful rival… I guess grandpa hid lots of details of this Quest. What an Awful Consignor!",
+        "position": 1,
+        "type": 2,
+        "id": 5002303
+    },
+    {
+        "hero_name": "Gaara",
+        "img_id": 10090,
+        "wave": 3,
+        "character_id": 50024,
+        "text": "Could you tell me how to get to Konoha Village?",
+        "position": 2,
+        "type": 2,
+        "id": 5002401
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50024,
+        "text": "You look very annoying, as grumpy as Sasuke. Do you think everybody owes you?",
+        "position": 1,
+        "type": 2,
+        "id": 5002402
+    },
+    {
+        "hero_name": "Gaara",
+        "img_id": 10090,
+        "wave": 3,
+        "character_id": 50024,
+        "text": "Hahaha, then I won‘t be kind to you any more.",
+        "position": 2,
+        "type": 2,
+        "id": 5002403
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 3,
+        "character_id": 50024,
+        "text": "Hey, take is easy, you can‘t just start hitting me like this!",
+        "position": 1,
+        "type": 2,
+        "id": 5002404
+    },
+    {
+        "hero_name": "Sakura",
+        "img_id": 10040,
+        "wave": 1,
+        "character_id": 50025,
+        "text": "Master, what do you mean by \"get ready\"?",
+        "position": 1,
+        "type": 2,
+        "id": 5002501
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50025,
+        "text": "Of course to train harder and get better!",
+        "position": 2,
+        "type": 2,
+        "id": 5002502
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50025,
+        "text": "Enemies will come back any second. I must strengthen your power before that happens!",
+        "position": 1,
+        "type": 2,
+        "id": 5002503
+    },
+    {
+        "hero_name": "All",
+        "img_id": 0,
+        "wave": 1,
+        "character_id": 50026,
+        "text": "Climb the tree?",
+        "position": 1,
+        "type": 2,
+        "id": 5002601
+    },
+    {
+        "hero_name": "Sakura",
+        "img_id": 10040,
+        "wave": 1,
+        "character_id": 50026,
+        "text": "Do you seriously consider it training?",
+        "position": 2,
+        "type": 2,
+        "id": 5002602
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50026,
+        "text": "Let me finish! You must gather Chakra at your feet before you climb. Chakra control is the basic technique of Ninjutsu.",
+        "position": 1,
+        "type": 2,
+        "id": 5002603
+    },
+    {
+        "hero_name": "Gai",
+        "img_id": 10400,
+        "wave": 3,
+        "character_id": 50026,
+        "text": "Haven‘t done this for a while. Ok, I‘ll supervise your training!",
+        "position": 2,
+        "type": 2,
+        "id": 5002604
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50027,
+        "text": "Great, everybody‘s working hard. Let me check your progress!",
+        "position": 1,
+        "type": 2,
+        "id": 5002701
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50027,
+        "text": "Ahh! Can‘t move…",
+        "position": 1,
+        "type": 2,
+        "id": 5002702
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 1,
+        "character_id": 50027,
+        "text": "I warned you not to train too much to walk, such an unbelievable idiot!",
+        "position": 1,
+        "type": 2,
+        "id": 5002703
+    },
+    {
+        "hero_name": "Zabuza",
+        "img_id": 10060,
+        "wave": 1,
+        "character_id": 50028,
+        "text": "Haku… You met your match.",
+        "position": 2,
+        "type": 2,
+        "id": 5002801
+    },
+    {
+        "hero_name": "Haku",
+        "img_id": 10190,
+        "wave": 1,
+        "character_id": 50028,
+        "text": "It seems like…",
+        "position": 2,
+        "type": 2,
+        "id": 5002802
+    },
+    {
+        "hero_name": "Zabuza",
+        "img_id": 10060,
+        "wave": 1,
+        "character_id": 50028,
+        "text": "Let‘s have a fierce fight.",
+        "position": 2,
+        "type": 2,
+        "id": 5002803
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50031,
+        "text": "I know it‘s a bit sudden, but I‘ve just recommended you to qualify for the Chunin exam…",
+        "position": 1,
+        "type": 2,
+        "id": 5003101
+    },
+    {
+        "hero_name": "All",
+        "img_id": 0,
+        "wave": 1,
+        "character_id": 50031,
+        "text": "What?",
+        "position": 2,
+        "type": 2,
+        "id": 5003102
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50031,
+        "text": "Here‘s the application forms.",
+        "position": 1,
+        "type": 2,
+        "id": 5003103
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 3,
+        "character_id": 50032,
+        "text": "You, the one with vicious eyes, wait a minute!",
+        "position": 1,
+        "type": 2,
+        "id": 5003201
+    },
+    {
+        "hero_name": "Gaara",
+        "img_id": 10090,
+        "wave": 3,
+        "character_id": 50032,
+        "text": "…",
+        "position": 2,
+        "type": 2,
+        "id": 5003202
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 3,
+        "character_id": 50032,
+        "text": "Let‘s fight now! What do you think?",
+        "position": 1,
+        "type": 2,
+        "id": 5003203
+    },
+    {
+        "hero_name": "Gaara",
+        "img_id": 10090,
+        "wave": 3,
+        "character_id": 50032,
+        "text": "Hehe, you asked for it yourself!",
+        "position": 2,
+        "type": 2,
+        "id": 5003204
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 1,
+        "character_id": 50033,
+        "text": "Who are you? How dare you pretend to be one of us!",
+        "position": 1,
+        "type": 2,
+        "id": 5003301
+    },
+    {
+        "hero_name": "???",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50033,
+        "text": "Didn‘t expect to be caught out… How did you realize I‘m not real?",
+        "position": 2,
+        "type": 2,
+        "id": 5003302
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 1,
+        "character_id": 50033,
+        "text": "Naruto can never remember such a long pass code…",
+        "position": 1,
+        "type": 2,
+        "id": 5003303
+    },
+    {
+        "hero_name": "Ino",
+        "img_id": 10390,
+        "wave": 3,
+        "character_id": 50034,
+        "text": "Sorry for involving you in this.",
+        "position": 1,
+        "type": 2,
+        "id": 5003401
+    },
+    {
+        "hero_name": "Shikamaru",
+        "img_id": 10200,
+        "wave": 3,
+        "character_id": 50034,
+        "text": "Places for the Chunin exam are limited. Since you get the opportunity, have a good fight!",
+        "position": 2,
+        "type": 2,
+        "id": 5003402
+    },
+    {
+        "hero_name": "Kankuro",
+        "img_id": 10240,
+        "wave": 3,
+        "character_id": 50035,
+        "text": "I don‘t really want to show my Kugutsu no Jutsu before the final round, but it looks like I have no other choice.",
+        "position": 1,
+        "type": 2,
+        "id": 5003501
+    },
+    {
+        "hero_name": "Tenten",
+        "img_id": 10250,
+        "wave": 1,
+        "character_id": 50036,
+        "text": "Sakura, go get some more fish, 3 are not enough!",
+        "position": 2,
+        "type": 2,
+        "id": 5003601
+    },
+    {
+        "hero_name": "Tenten",
+        "img_id": 10250,
+        "wave": 1,
+        "character_id": 50036,
+        "text": "Temari, can you help me fan up a fire?",
+        "position": 2,
+        "type": 2,
+        "id": 5003602
+    },
+    {
+        "hero_name": "Temari",
+        "img_id": 10260,
+        "wave": 1,
+        "character_id": 50036,
+        "text": "My fan is not for this!",
+        "position": 2,
+        "type": 2,
+        "id": 5003603
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 1,
+        "character_id": 50036,
+        "text": "Seriously, you‘re in picnic mood?",
+        "position": 1,
+        "type": 2,
+        "id": 5003604
+    },
+    {
+        "hero_name": "Shikamaru",
+        "img_id": 10200,
+        "wave": 3,
+        "character_id": 50037,
+        "text": "You again… The destination is right there. I must continue!",
+        "position": 2,
+        "type": 2,
+        "id": 5003701
+    },
+    {
+        "hero_name": "Chouji",
+        "img_id": 10210,
+        "wave": 3,
+        "character_id": 50037,
+        "text": "Go ahead.",
+        "position": 2,
+        "type": 2,
+        "id": 5003702
+    },
+    {
+        "hero_name": "Gaara",
+        "img_id": 10090,
+        "wave": 3,
+        "character_id": 50038,
+        "text": "Get out of my way if you want to live.",
+        "position": 2,
+        "type": 2,
+        "id": 5003801
+    },
+    {
+        "hero_name": "Iruka",
+        "img_id": 10180,
+        "wave": 1,
+        "character_id": 50041,
+        "text": "Congratulations for getting through the qualifying round of the Chunin exam. Have a good rest and get ready for the finals.",
+        "position": 1,
+        "type": 2,
+        "id": 5004101
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50041,
+        "text": "Lalala, I‘m going to relax with a nice bath!",
+        "position": 1,
+        "type": 2,
+        "id": 5004102
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 1,
+        "character_id": 50041,
+        "text": "Hey buddy, are you planning on something bad again?",
+        "position": 1,
+        "type": 2,
+        "id": 5004103
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 2,
+        "character_id": 50041,
+        "text": "Wow! (Nose bleeding)",
+        "position": 1,
+        "type": 2,
+        "id": 5004104
+    },
+    {
+        "hero_name": "Iruka",
+        "img_id": 10180,
+        "wave": 2,
+        "character_id": 50041,
+        "text": "Naruto! This bath is for ladies only! I won‘t forgive you if you dare to step in!",
+        "position": 1,
+        "type": 2,
+        "id": 5004105
+    },
+    {
+        "hero_name": "Iruka",
+        "img_id": 10180,
+        "wave": 3,
+        "character_id": 50041,
+        "text": "Hey, guy over there! What do you think you‘re doing?",
+        "position": 1,
+        "type": 2,
+        "id": 5004106
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 3,
+        "character_id": 50041,
+        "text": "My dear lord, so loud… What if someone finds us!",
+        "position": 2,
+        "type": 1,
+        "id": 5004107
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50041,
+        "text": "Wow, this super pervert has some tricks. He took care of the pervert so easily.",
+        "position": 1,
+        "type": 1,
+        "id": 5004108
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50042,
+        "text": "Who the hell is that big toad? Who are you?",
+        "position": 1,
+        "type": 2,
+        "id": 5004201
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 1,
+        "character_id": 50042,
+        "text": "Good question. Wait a moment!",
+        "position": 2,
+        "type": 2,
+        "id": 5004202
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 1,
+        "character_id": 50042,
+        "text": "I‘m Gamamaru, also known as the Great Toad Sage, from Mount Myōboku. Nice to meet you!",
+        "position": 2,
+        "type": 2,
+        "id": 5004203
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 2,
+        "character_id": 50042,
+        "text": "Hey! Pervert Sage, what shall we do now? He was supposed to train me! What have you done to him!",
+        "position": 1,
+        "type": 2,
+        "id": 5004204
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 2,
+        "character_id": 50042,
+        "text": "Well, you can train with me.",
+        "position": 2,
+        "type": 2,
+        "id": 5004205
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 1,
+        "character_id": 50043,
+        "text": "What are you doing! Idiot! How many times do you need me to tell you, use all the Chakra you have in your body!",
+        "position": 2,
+        "type": 2,
+        "id": 5004301
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50043,
+        "text": "So annoying! I‘m already doing my best!",
+        "position": 1,
+        "type": 2,
+        "id": 5004302
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 1,
+        "character_id": 50043,
+        "text": "Again!",
+        "position": 2,
+        "type": 2,
+        "id": 5004303
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50043,
+        "text": "Ok!",
+        "position": 1,
+        "type": 2,
+        "id": 5004304
+    },
+    {
+        "hero_name": "Kiba",
+        "img_id": 10270,
+        "wave": 1,
+        "character_id": 50044,
+        "text": "I‘m very much looking forward to this match!",
+        "position": 1,
+        "type": 2,
+        "id": 5004401
+    },
+    {
+        "hero_name": "Hinata",
+        "img_id": 10080,
+        "wave": 1,
+        "character_id": 50044,
+        "text": "Naruto…",
+        "position": 1,
+        "type": 2,
+        "id": 5004402
+    },
+    {
+        "hero_name": "Ino",
+        "img_id": 10390,
+        "wave": 1,
+        "character_id": 50044,
+        "text": "There‘s not much hope if Naruto is the opponent…",
+        "position": 1,
+        "type": 2,
+        "id": 5004403
+    },
+    {
+        "hero_name": "Neji",
+        "img_id": 10220,
+        "wave": 3,
+        "character_id": 50044,
+        "text": "Anything you want to say?",
+        "position": 2,
+        "type": 2,
+        "id": 5004404
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50044,
+        "text": "I said already, I‘m gonna defeat you for sure!",
+        "position": 1,
+        "type": 2,
+        "id": 5004405
+    },
+    {
+        "hero_name": "Temari",
+        "img_id": 10260,
+        "wave": 3,
+        "character_id": 50045,
+        "text": "If you don‘t launch an attack, I‘ll start.",
+        "position": 2,
+        "type": 2,
+        "id": 5004501
+    },
+    {
+        "hero_name": "Shikamaru",
+        "img_id": 10200,
+        "wave": 3,
+        "character_id": 50045,
+        "text": "I can‘t let a woman defeat me! I have to fight back!",
+        "position": 1,
+        "type": 2,
+        "id": 5004502
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 3,
+        "character_id": 50046,
+        "text": "Very sorry I‘m late. Shall we start?",
+        "position": 1,
+        "type": 2,
+        "id": 5004601
+    },
+    {
+        "hero_name": "Gaara",
+        "img_id": 10090,
+        "wave": 3,
+        "character_id": 50047,
+        "text": "… Bring it on!",
+        "position": 2,
+        "type": 2,
+        "id": 5004701
+    },
+    {
+        "hero_name": "Gai",
+        "img_id": 10400,
+        "wave": 1,
+        "character_id": 50048,
+        "text": "Kakashi, is it?",
+        "position": 1,
+        "type": 2,
+        "id": 5004801
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50048,
+        "text": "Yes, it‘s Genjutsu! Enemies are attacking!",
+        "position": 1,
+        "type": 2,
+        "id": 5004802
+    },
+    {
+        "hero_name": "Orochimaru",
+        "img_id": 10110,
+        "wave": 3,
+        "character_id": 50048,
+        "text": "A windmill not turning isn‘t worthy a watch.",
+        "position": 2,
+        "type": 2,
+        "id": 5004803
+    },
+    {
+        "hero_name": "Orochimaru",
+        "img_id": 10110,
+        "wave": 3,
+        "character_id": 50048,
+        "text": "In brief, I‘m gonna use Destroy Konoha to spin the windmill.",
+        "position": 2,
+        "type": 2,
+        "id": 5004804
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50051,
+        "text": "Sorry, the chunin exam has finished.",
+        "position": 1,
+        "type": 2,
+        "id": 5005101
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50051,
+        "text": "Your new Quest is to handle attacking Otogakure.",
+        "position": 1,
+        "type": 2,
+        "id": 5005102
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 1,
+        "character_id": 50051,
+        "text": "This level A Quest is the toughest one after Zabuza.",
+        "position": 1,
+        "type": 2,
+        "id": 5005103
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50052,
+        "text": "What did you do to Sasuke!",
+        "position": 1,
+        "type": 2,
+        "id": 5005201
+    },
+    {
+        "hero_name": "Kimimaro",
+        "img_id": 10140,
+        "wave": 3,
+        "character_id": 50052,
+        "text": "We‘ve done him no harm. It‘s his own will to follow Orochimaru Sage.",
+        "position": 2,
+        "type": 2,
+        "id": 5005202
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50052,
+        "text": "Bullshit!",
+        "position": 2,
+        "type": 2,
+        "id": 5005203
+    },
+    {
+        "hero_name": "Gaara",
+        "img_id": 10090,
+        "wave": 3,
+        "character_id": 50053,
+        "text": "Not one person in the whole world really needs me.",
+        "position": 2,
+        "type": 2,
+        "id": 5005301
+    },
+    {
+        "hero_name": "Gaara",
+        "img_id": 10090,
+        "wave": 3,
+        "character_id": 50053,
+        "text": "Don‘t get closer!",
+        "position": 2,
+        "type": 2,
+        "id": 5005302
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50055,
+        "text": "Kabuto, I knew you‘re not good!",
+        "position": 1,
+        "type": 2,
+        "id": 5005501
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50058,
+        "text": "Sasuke, why are you leaving us!",
+        "position": 1,
+        "type": 2,
+        "id": 5005801
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 3,
+        "character_id": 50058,
+        "text": "I can‘t get the power I want here. I‘ll follow Orochimaru to seek real power.",
+        "position": 2,
+        "type": 2,
+        "id": 5005802
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50061,
+        "text": "Itachi, can‘t believe it‘s you!",
+        "position": 1,
+        "type": 2,
+        "id": 5006101
+    },
+    {
+        "hero_name": "Itachi",
+        "img_id": 10120,
+        "wave": 3,
+        "character_id": 50061,
+        "text": "Leave me alone, I don‘t want to kill you.",
+        "position": 2,
+        "type": 2,
+        "id": 5006102
+    },
+    {
+        "hero_name": "Kisame",
+        "img_id": 10290,
+        "wave": 3,
+        "character_id": 50062,
+        "text": "My name is Kisame, nice to meet you.",
+        "position": 2,
+        "type": 2,
+        "id": 5006201
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50062,
+        "text": "What nice? It‘s time to finish you!",
+        "position": 1,
+        "type": 2,
+        "id": 5006202
+    },
+    {
+        "hero_name": "Itachi",
+        "img_id": 10120,
+        "wave": 3,
+        "character_id": 50063,
+        "text": "It seems like they won‘t let us leave the village.",
+        "position": 2,
+        "type": 2,
+        "id": 5006301
+    },
+    {
+        "hero_name": "Itachi",
+        "img_id": 10120,
+        "wave": 3,
+        "character_id": 50063,
+        "text": "Don‘t push too hard. Your movements are too obvious.",
+        "position": 2,
+        "type": 2,
+        "id": 5006302
+    },
+    {
+        "hero_name": "Kisame",
+        "img_id": 10290,
+        "wave": 3,
+        "character_id": 50063,
+        "text": "It‘s a deal!",
+        "position": 2,
+        "type": 2,
+        "id": 5006303
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 1,
+        "character_id": 50064,
+        "text": "Let‘s go look for Tsunade. I‘ll train you hard on the way!",
+        "position": 1,
+        "type": 2,
+        "id": 5006401
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50064,
+        "text": "What! Why do I have to go on this resource collecting trip with you Pervert Sage?",
+        "position": 1,
+        "type": 2,
+        "id": 5006402
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 1,
+        "character_id": 50064,
+        "text": "It‘s not a general resource collecting trip. There‘s one lady I want to interview. Let‘s go look for her.",
+        "position": 1,
+        "type": 2,
+        "id": 5006403
+    },
+    {
+        "hero_name": "Orochimaru",
+        "img_id": 10110,
+        "wave": 3,
+        "character_id": 50065,
+        "text": "Tsunade, I can give your brother and your lover a second life if you heal my hand!",
+        "position": 2,
+        "type": 2,
+        "id": 5006501
+    },
+    {
+        "hero_name": "Tsunade",
+        "img_id": 10130,
+        "wave": 3,
+        "character_id": 50065,
+        "text": "How dare you mention them. Go away!",
+        "position": 2,
+        "type": 2,
+        "id": 5006502
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 3,
+        "character_id": 50066,
+        "text": "Tsunade, we want you to be the 5th Hokage.",
+        "position": 1,
+        "type": 2,
+        "id": 5006601
+    },
+    {
+        "hero_name": "Tsunade",
+        "img_id": 10130,
+        "wave": 3,
+        "character_id": 50066,
+        "text": "No way, I refuse!",
+        "position": 2,
+        "type": 2,
+        "id": 5006602
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 3,
+        "character_id": 50066,
+        "text": "It reminds me of before when you refused my friendship.",
+        "position": 1,
+        "type": 2,
+        "id": 5006603
+    },
+    {
+        "hero_name": "Tsunade",
+        "img_id": 10130,
+        "wave": 3,
+        "character_id": 50066,
+        "text": "Hokage is nothing. Only idiots are dreaming to become one!",
+        "position": 2,
+        "type": 2,
+        "id": 5006604
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50066,
+        "text": "How dare you insult Hokage! I‘ll beat you even though you are a girl!",
+        "position": 1,
+        "type": 2,
+        "id": 5006605
+    },
+    {
+        "hero_name": "Gamabunta",
+        "img_id": 15271,
+        "wave": 3,
+        "character_id": 50067,
+        "text": "Manhebi and Orochimaru, Katsuyu and Tsunade, it‘s been a while.",
+        "position": 1,
+        "type": 2,
+        "id": 5006701
+    },
+    {
+        "hero_name": "Gamabunta",
+        "img_id": 15271,
+        "wave": 3,
+        "character_id": 50067,
+        "text": "Jiraiya, is it your alumni meeting?",
+        "position": 1,
+        "type": 2,
+        "id": 5006702
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 3,
+        "character_id": 50067,
+        "text": "Haven‘t been out for so long, don‘t start with such a terrible joke. It‘s time to put a stop to it.",
+        "position": 1,
+        "type": 2,
+        "id": 5006703
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 3,
+        "character_id": 50068,
+        "text": "I don‘t want to be stuck in Konoha with you guys any more. Leave me alone.",
+        "position": 2,
+        "type": 2,
+        "id": 5006801
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50068,
+        "text": "We‘re your friends in Konoha. Why are you treating us like this?",
+        "position": 1,
+        "type": 2,
+        "id": 5006802
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50068,
+        "text": "Forget about it. I will bring you back even if I have to force you!",
+        "position": 1,
+        "type": 2,
+        "id": 5006803
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50071,
+        "text": "After two and a half years, everything‘s still the same. I missed it so much!",
+        "position": 1,
+        "type": 2,
+        "id": 5007101
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 2,
+        "character_id": 50071,
+        "text": "Show me your progress. Same rules as last time, try to grab the bell in my hand.",
+        "position": 2,
+        "type": 2,
+        "id": 5007102
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50071,
+        "text": "Master, the ending of Icha Icha is…",
+        "position": 1,
+        "type": 2,
+        "id": 5007103
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50071,
+        "text": "No, not good for you, don‘t listen!",
+        "position": 2,
+        "type": 2,
+        "id": 5007104
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50071,
+        "text": "Something‘s fishy here!",
+        "position": 1,
+        "type": 2,
+        "id": 5007105
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50072,
+        "text": "Shikamaru and Temari, are you on a date?",
+        "position": 1,
+        "type": 2,
+        "id": 5007201
+    },
+    {
+        "hero_name": "Temari",
+        "img_id": 10260,
+        "wave": 3,
+        "character_id": 50072,
+        "text": "You must be kidding! Why would I date a guy like him?",
+        "position": 2,
+        "type": 2,
+        "id": 5007202
+    },
+    {
+        "hero_name": "Tsunade",
+        "img_id": 10130,
+        "wave": 1,
+        "character_id": 50073,
+        "text": "Here‘s a new Quest for you. Quickly go reinforce Sunagakure.",
+        "position": 2,
+        "type": 2,
+        "id": 5007301
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 1,
+        "character_id": 50073,
+        "text": "Is there something wrong with Gaara?",
+        "position": 1,
+        "type": 2,
+        "id": 5007302
+    },
+    {
+        "hero_name": "Gai",
+        "img_id": 10400,
+        "wave": 3,
+        "character_id": 50074,
+        "text": "Kisame! I‘m surprised!",
+        "position": 2,
+        "type": 2,
+        "id": 5007401
+    },
+    {
+        "hero_name": "Lee",
+        "img_id": 10070,
+        "wave": 3,
+        "character_id": 50074,
+        "text": "Master Gai, do you know each other?",
+        "position": 1,
+        "type": 2,
+        "id": 5007402
+    },
+    {
+        "hero_name": "Kisame",
+        "img_id": 10290,
+        "wave": 3,
+        "character_id": 50074,
+        "text": "Hehe, it‘s time for me to avenge myself for your kick last time.",
+        "position": 2,
+        "type": 2,
+        "id": 5007403
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50075,
+        "text": "Not just Gaara, he won‘t let us go either!",
+        "position": 1,
+        "type": 2,
+        "id": 5007501
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50075,
+        "text": "I‘ll defeat you!",
+        "position": 1,
+        "type": 2,
+        "id": 5007502
+    },
+    {
+        "hero_name": "Kakashi",
+        "img_id": 10050,
+        "wave": 3,
+        "character_id": 50075,
+        "text": "Listen, exchanging glances with him is dangerous!",
+        "position": 2,
+        "type": 2,
+        "id": 5007503
+    },
+    {
+        "hero_name": "Neji",
+        "img_id": 10220,
+        "wave": 3,
+        "character_id": 50077,
+        "text": "Gaara is right behind this rock.",
+        "position": 1,
+        "type": 2,
+        "id": 5007701
+    },
+    {
+        "hero_name": "Gai",
+        "img_id": 10400,
+        "wave": 3,
+        "character_id": 50077,
+        "text": "We have to break the Seal first.",
+        "position": 1,
+        "type": 2,
+        "id": 5007702
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50078,
+        "text": "Bastards! What did you do to Gaara?",
+        "position": 1,
+        "type": 2,
+        "id": 5007801
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50084,
+        "text": "I‘m asking who the hell you are!",
+        "position": 1,
+        "type": 2,
+        "id": 5008401
+    },
+    {
+        "hero_name": "Sai",
+        "img_id": 10300,
+        "wave": 3,
+        "character_id": 50084,
+        "text": "Naruto, we‘ll meet again.",
+        "position": 2,
+        "type": 2,
+        "id": 5008402
+    },
+    {
+        "hero_name": "Orochimaru",
+        "img_id": 10110,
+        "wave": 3,
+        "character_id": 50086,
+        "text": "Your conversation sounds interesting. May I join you guys?",
+        "position": 2,
+        "type": 2,
+        "id": 5008601
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50086,
+        "text": "Damn! It‘s a trap!",
+        "position": 1,
+        "type": 2,
+        "id": 5008602
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50087,
+        "text": "Sasuke, I knew it‘s you.",
+        "position": 1,
+        "type": 2,
+        "id": 5008701
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 3,
+        "character_id": 50087,
+        "text": "I remember you wanted to be a Hokage?",
+        "position": 2,
+        "type": 2,
+        "id": 5008702
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 3,
+        "character_id": 50087,
+        "text": "Instead of looking for me everywhere, you‘d better spend your time on hard training.",
+        "position": 2,
+        "type": 2,
+        "id": 5008703
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50087,
+        "text": "Don‘t you think I‘m not qualified to be a Hokage if I can‘t even save my friends?",
+        "position": 1,
+        "type": 2,
+        "id": 5008704
+    },
+    {
+        "hero_name": "Naruto",
+        "img_id": 10020,
+        "wave": 3,
+        "character_id": 50088,
+        "text": "I still can‘t stop him. I‘m… Too weak…",
+        "position": 1,
+        "type": 2,
+        "id": 5008801
+    },
+    {
+        "hero_name": "Sakura",
+        "img_id": 10040,
+        "wave": 3,
+        "character_id": 50088,
+        "text": "No matter how many tears you drop, it can‘t bring Sasuke back.",
+        "position": 1,
+        "type": 2,
+        "id": 5008802
+    },
+    {
+        "hero_name": "Sakura",
+        "img_id": 10040,
+        "wave": 3,
+        "character_id": 50088,
+        "text": "I also… I also wanna become stronger together with you!",
+        "position": 1,
+        "type": 2,
+        "id": 5008803
+    },
+    {
+        "hero_name": "Tsunade",
+        "img_id": 10130,
+        "wave": 1,
+        "character_id": 50091,
+        "text": "Akatsuki is finally taking action.",
+        "position": 1,
+        "type": 2,
+        "id": 5009101
+    },
+    {
+        "hero_name": "Tsunade",
+        "img_id": 10130,
+        "wave": 1,
+        "character_id": 50091,
+        "text": "Such a big crisis, but also a good opportunity to finish them all. We‘d better hurry up.",
+        "position": 1,
+        "type": 2,
+        "id": 5009102
+    },
+    {
+        "hero_name": "Itachi",
+        "img_id": 10120,
+        "wave": 1,
+        "character_id": 50098,
+        "text": "I think you‘re taller, more or less?",
+        "position": 2,
+        "type": 2,
+        "id": 5009801
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 1,
+        "character_id": 50098,
+        "text": "You‘re still the same, especially your pair of cold eyes.",
+        "position": 2,
+        "type": 2,
+        "id": 5009802
+    },
+    {
+        "hero_name": "Itachi",
+        "img_id": 10120,
+        "wave": 1,
+        "character_id": 50098,
+        "text": "I hope you won‘t suddenly scream loud and rush me.",
+        "position": 2,
+        "type": 2,
+        "id": 5009803
+    },
+    {
+        "hero_name": "Sasuke",
+        "img_id": 10030,
+        "wave": 1,
+        "character_id": 50098,
+        "text": "You know nothing about me.",
+        "position": 2,
+        "type": 2,
+        "id": 5009804
+    },
+    {
+        "hero_name": "Itachi",
+        "img_id": 10120,
+        "wave": 1,
+        "character_id": 50098,
+        "text": "Come to stronghold of Uchiha Clan alone, let‘s put a stop to this.",
+        "position": 2,
+        "type": 2,
+        "id": 5009805
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 1,
+        "character_id": 50104,
+        "text": "I found it, the leader of Akatsuki is in the Land of Rain. Let me go for investigation.",
+        "position": 1,
+        "type": 2,
+        "id": 5010401
+    },
+    {
+        "hero_name": "Tsunade",
+        "img_id": 10130,
+        "wave": 1,
+        "character_id": 50104,
+        "text": "It‘s very dangerous for you to go there alone. Sorry for always putting you in an unfavorable situation.",
+        "position": 1,
+        "type": 2,
+        "id": 5010402
+    },
+    {
+        "hero_name": "Tsunade",
+        "img_id": 10130,
+        "wave": 1,
+        "character_id": 50104,
+        "text": "If you were also killed, I…",
+        "position": 1,
+        "type": 2,
+        "id": 5010403
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 1,
+        "character_id": 50104,
+        "text": "Let‘s do it your way. As an all time loser, you bet on my death. Then when I come back…",
+        "position": 1,
+        "type": 2,
+        "id": 5010404
+    },
+    {
+        "hero_name": "Jiraiya",
+        "img_id": 10100,
+        "wave": 1,
+        "character_id": 50104,
+        "text": "Haha, just kidding. A dumped guy will grow stronger.",
+        "position": 1,
+        "type": 2,
+        "id": 5010405
+    }
+]
