@@ -1782,6 +1782,69 @@
         "id": 210
     },
     {
+        "skill_id": 20851,
+        "pos_type": 0,
+        "effect_id": 2002,
+        "posX": 0,
+        "posY": 120,
+        "type": 1,
+        "id": 211
+    },
+    {
+        "skill_id": 20854,
+        "pos_type": 1,
+        "effect_id": 30854,
+        "posX": 0,
+        "posY": 0,
+        "type": 1,
+        "id": 212
+    },
+    {
+        "skill_id": 20852,
+        "pos_type": 0,
+        "effect_id": 1031,
+        "posX": 0,
+        "posY": -63,
+        "type": 1,
+        "id": 213
+    },
+    {
+        "skill_id": 20855,
+        "pos_type": 0,
+        "effect_id": 1031,
+        "posX": 0,
+        "posY": -63,
+        "type": 1,
+        "id": 214
+    },
+    {
+        "skill_id": 20861,
+        "pos_type": 1,
+        "effect_id": 2025,
+        "posX": 0,
+        "posY": -25,
+        "type": 1,
+        "id": 215
+    },
+    {
+        "skill_id": 20863,
+        "pos_type": 0,
+        "effect_id": 2002,
+        "posX": 0,
+        "posY": 120,
+        "type": 1,
+        "id": 216
+    },
+    {
+        "skill_id": 20862,
+        "pos_type": 0,
+        "effect_id": 1081,
+        "posX": 0,
+        "posY": 0,
+        "type": 1,
+        "id": 217
+    },
+    {
         "skill_id": 30072,
         "pos_type": 0,
         "effect_id": 2002,
@@ -3636,6 +3699,69 @@
         "id": 1210
     },
     {
+        "skill_id": 30851,
+        "pos_type": 0,
+        "effect_id": 2002,
+        "posX": 0,
+        "posY": 120,
+        "type": 1,
+        "id": 1211
+    },
+    {
+        "skill_id": 30854,
+        "pos_type": 1,
+        "effect_id": 30854,
+        "posX": 0,
+        "posY": 0,
+        "type": 1,
+        "id": 1212
+    },
+    {
+        "skill_id": 30852,
+        "pos_type": 0,
+        "effect_id": 1031,
+        "posX": 0,
+        "posY": -63,
+        "type": 1,
+        "id": 1213
+    },
+    {
+        "skill_id": 30855,
+        "pos_type": 0,
+        "effect_id": 1031,
+        "posX": 0,
+        "posY": -63,
+        "type": 1,
+        "id": 1214
+    },
+    {
+        "skill_id": 20861,
+        "pos_type": 1,
+        "effect_id": 2025,
+        "posX": 0,
+        "posY": -25,
+        "type": 1,
+        "id": 1215
+    },
+    {
+        "skill_id": 20863,
+        "pos_type": 0,
+        "effect_id": 2002,
+        "posX": 0,
+        "posY": 120,
+        "type": 1,
+        "id": 1216
+    },
+    {
+        "skill_id": 30862,
+        "pos_type": 0,
+        "effect_id": 1081,
+        "posX": 0,
+        "posY": 0,
+        "type": 1,
+        "id": 1217
+    },
+    {
         "skill_id": 25015,
         "pos_type": 1,
         "effect_id": 2013,
@@ -3643,5 +3769,23 @@
         "posY": 0,
         "type": 1,
         "id": 2001
+    },
+    {
+        "skill_id": 1,
+        "pos_type": 1,
+        "effect_id": 0,
+        "posX": 10870,
+        "posY": 1,
+        "type": 90870,
+        "id": 10870
+    },
+    {
+        "skill_id": 1,
+        "pos_type": 1,
+        "effect_id": 1,
+        "posX": 10870,
+        "posY": 0,
+        "type": 90871,
+        "id": 10871
     }
 ]

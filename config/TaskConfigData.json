@@ -4338,5 +4338,61 @@
         "next_id": 0,
         "task_desc": "Conducts combat trials with reincarnations of Asura from past generations!",
         "id": 16951
+    },
+    {
+        "cost_sp": 8,
+        "box_id": 97961,
+        "name": "Great Ninja War (Gaara)",
+        "gold": 30000,
+        "chapter_id": 76961,
+        "limit_heros": "10850;10130;10440;10450",
+        "weight": 0,
+        "team_exp": 30,
+        "lv": 5,
+        "next_id": 0,
+        "task_desc": "Gaara leads the ninja forces in a confrontation against Mu, Sena, Gengetsu Hozuki, and the Third Raikage!",
+        "id": 16961
+    },
+    {
+        "cost_sp": 8,
+        "box_id": 97971,
+        "name": "Great Ninja War (Third Raikage)",
+        "gold": 30000,
+        "chapter_id": 76971,
+        "limit_heros": "10500;10510;10530;10600",
+        "weight": 0,
+        "team_exp": 30,
+        "lv": 5,
+        "next_id": 0,
+        "task_desc": "Engage in battle alongside Mu， Sena and Gengetsu Hozuki against the ninja forces led by Gaara!",
+        "id": 16971
+    },
+    {
+        "cost_sp": 8,
+        "box_id": 97981,
+        "name": "Reincarnation Trial ",
+        "gold": 30000,
+        "chapter_id": 76981,
+        "limit_heros": "10860;10840",
+        "weight": 0,
+        "team_exp": 30,
+        "lv": 5,
+        "next_id": 0,
+        "task_desc": "Battle with the various reincarnations of Indra!",
+        "id": 16981
+    },
+    {
+        "cost_sp": 8,
+        "box_id": 97991,
+        "name": "Konoha's new Sannin",
+        "gold": 30000,
+        "chapter_id": 76991,
+        "limit_heros": "10810;10870;10830",
+        "weight": 0,
+        "team_exp": 30,
+        "lv": 5,
+        "next_id": 0,
+        "task_desc": "Konoha new Sannin work together against a formidable enemy.",
+        "id": 16991
     }
 ]

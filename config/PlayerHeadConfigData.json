@@ -892,6 +892,15 @@
     },
     {
         "scale": 1,
+        "itme_id": 90501,
+        "icon_id": 10501,
+        "hero_id": 10500,
+        "type1": 0,
+        "type3": 1,
+        "type2": 1
+    },
+    {
+        "scale": 1,
         "itme_id": 90510,
         "icon_id": 10510,
         "hero_id": 10510,
@@ -901,7 +910,7 @@
     },
     {
         "scale": 1,
-        "itme_id": 90510,
+        "itme_id": 90511,
         "icon_id": 10511,
         "hero_id": 10510,
         "type1": 0,
@@ -1480,6 +1489,60 @@
         "itme_id": 90841,
         "icon_id": 10841,
         "hero_id": 10840,
+        "type1": 0,
+        "type3": 1,
+        "type2": 1
+    },
+    {
+        "scale": 1,
+        "itme_id": 90850,
+        "icon_id": 10850,
+        "hero_id": 10850,
+        "type1": 1,
+        "type3": 1,
+        "type2": 0
+    },
+    {
+        "scale": 1,
+        "itme_id": 90851,
+        "icon_id": 10851,
+        "hero_id": 10850,
+        "type1": 0,
+        "type3": 1,
+        "type2": 1
+    },
+    {
+        "scale": 1,
+        "itme_id": 90860,
+        "icon_id": 10860,
+        "hero_id": 10860,
+        "type1": 1,
+        "type3": 1,
+        "type2": 0
+    },
+    {
+        "scale": 1,
+        "itme_id": 90861,
+        "icon_id": 10861,
+        "hero_id": 10860,
+        "type1": 0,
+        "type3": 1,
+        "type2": 1
+    },
+    {
+        "scale": 1,
+        "itme_id": 90870,
+        "icon_id": 10870,
+        "hero_id": 10870,
+        "type1": 1,
+        "type3": 1,
+        "type2": 0
+    },
+    {
+        "scale": 1,
+        "itme_id": 90871,
+        "icon_id": 10871,
+        "hero_id": 10870,
         "type1": 0,
         "type3": 1,
         "type2": 1
