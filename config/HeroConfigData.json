@@ -3062,7 +3062,7 @@
     {
         "seal": 8,
         "dead_sound": 0,
-        "sum_soul": 0,
+        "sum_soul": 10,
         "hero_type": 3,
         "skill_id_6": 30871,
         "skill_id_7": 30872,
